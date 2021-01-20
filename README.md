@@ -111,7 +111,7 @@
 |---	|---	|---	|---	|---	|
 | 1 |  [composerize](https://github.com/magicmark/composerize) | 🏃→🎼  docker run asdlksjfksdf &amp;gt; docker-composerize up | magicmark | 831 |
 | 2 |  [fork-sync](https://github.com/tgymnich/fork-sync) | 🔄 Github action to sync your forks | tgymnich | 88 |
-| 3 |  [bitwarden_rs](https://github.com/dani-garcia/bitwarden_rs) | Unofficial Bitwarden compatible server written in Rust | dani-garcia | 5991 |
+| 3 |  [bitwarden_rs](https://github.com/dani-garcia/bitwarden_rs) | Unofficial Bitwarden compatible server written in Rust | dani-garcia | 5993 |
 | 4 |  [quote-bot](https://github.com/LyoSU/quote-bot) | Telegram quote bot | LyoSU | 64 |
 | 5 |  [node-telegram-bot-api](https://github.com/yagop/node-telegram-bot-api) | Telegram Bot API for NodeJS | yagop | 4861 |
 
@@ -215,7 +215,7 @@
 | 68 |  [mogo](https://github.com/joshmarshall/mogo) | A MongoDB object wrapper around PyMongo (for Python) | joshmarshall | 81 |
 | 69 |  [teleGit](https://github.com/HeavenH/teleGit) | Telegram Bot in Python | HeavenH | 21 |
 | 70 |  [python-telegram-handler](https://github.com/sashgorokhov/python-telegram-handler) | A python logging handler that sends logs via Telegram Bot Api. | sashgorokhov | 58 |
-| 71 |  [python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot) | We have made you a wrapper you can&#39;t refuse | python-telegram-bot | 13477 |
+| 71 |  [python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot) | We have made you a wrapper you can&#39;t refuse | python-telegram-bot | 13478 |
 | 72 |  [pymessenger](https://github.com/davidchua/pymessenger) | A Python Wrapper for the FB Messenger Bot API (Send/Receive API) | davidchua | 445 |
 | 73 |  [wundervim](https://github.com/khadiwala/wundervim) | Wunderlist plugin for vim | khadiwala | 4 |
 
@@ -231,7 +231,7 @@
 ## Shell
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [dokku](https://github.com/dokku/dokku) | A docker-powered PaaS that helps you build and manage the lifecycle of applications | dokku | 20549 |
+| 1 |  [dokku](https://github.com/dokku/dokku) | A docker-powered PaaS that helps you build and manage the lifecycle of applications | dokku | 20550 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -246,7 +246,7 @@
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
 | 1 |  [ChannelHashBot](https://github.com/JosXa/ChannelHashBot) |  | JosXa | 1 |
-| 2 |  [vscode](https://github.com/microsoft/vscode) | Visual Studio Code | microsoft | 109492 |
+| 2 |  [vscode](https://github.com/microsoft/vscode) | Visual Studio Code | microsoft | 109493 |
 
 **[⬆ Back to Index](#-contents)**
 
