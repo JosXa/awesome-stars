@@ -114,7 +114,7 @@
 | 2 |  [fork-sync](https://github.com/tgymnich/fork-sync) | 🔄 Github action to sync your forks | tgymnich | 90 |
 | 3 |  [bitwarden_rs](https://github.com/dani-garcia/bitwarden_rs) | Unofficial Bitwarden compatible server written in Rust | dani-garcia | 6001 |
 | 4 |  [quote-bot](https://github.com/LyoSU/quote-bot) | Telegram quote bot | LyoSU | 64 |
-| 5 |  [node-telegram-bot-api](https://github.com/yagop/node-telegram-bot-api) | Telegram Bot API for NodeJS | yagop | 4863 |
+| 5 |  [node-telegram-bot-api](https://github.com/yagop/node-telegram-bot-api) | Telegram Bot API for NodeJS | yagop | 4864 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -183,7 +183,7 @@
 | 35 |  [datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator) | Pydantic model generator for easy conversion of JSON, OpenAPI, JSON Schema, and YAML data sources. | koxudaxi | 325 |
 | 36 |  [pycollection-pipelines](https://github.com/povilasb/pycollection-pipelines) | Collection pipeline pattern implementation in Python | povilasb | 6 |
 | 37 |  [ensure](https://github.com/kislyuk/ensure) | Validate conditions, Python style. | kislyuk | 129 |
-| 38 |  [loguru](https://github.com/Delgan/loguru) | Python logging made (stupidly) simple | Delgan | 7932 |
+| 38 |  [loguru](https://github.com/Delgan/loguru) | Python logging made (stupidly) simple | Delgan | 7934 |
 | 39 |  [pyrogram](https://github.com/pyrogram/pyrogram) | Telegram MTProto API Python client library framework for users and bots | pyrogram | 1534 |
 | 40 |  [dephell](https://github.com/dephell/dephell) | :package: :fire: Python project management. Manage packages: convert between formats, lock, install, resolve, isolate, test, build graph, show outdated, audit. Manage venvs, build package, bump version. | dephell | 1670 |
 | 41 |  [Botkit](https://github.com/autogram/Botkit) | Opinionated, library-agnostic Python framework for rapid development of Telegram bots and userbots with focus on maintainability for large projects. | autogram | 6 |
@@ -210,7 +210,7 @@
 | 62 |  [BotListBot](https://github.com/JosXa/BotListBot) | Repository of Telegram&#39;s BotListBot | JosXa | 43 |
 | 63 |  [make-stub-files](https://github.com/edreamleo/make-stub-files) | Script and config file that creates python stub (.pyi) files | edreamleo | 23 |
 | 64 |  [logzero](https://github.com/metachris/logzero) | Robust and effective logging for Python 2 and 3. | metachris | 962 |
-| 65 |  [Telethon](https://github.com/LonamiWebs/Telethon) | Pure Python 3 MTProto API Telegram client library, for bots too! | LonamiWebs | 4390 |
+| 65 |  [Telethon](https://github.com/LonamiWebs/Telethon) | Pure Python 3 MTProto API Telegram client library, for bots too! | LonamiWebs | 4391 |
 | 66 |  [fbmq](https://github.com/conbus/fbmq) | (Deprecated) Facebook Messenger Platform Python Library (Facebook Chatbot Library) | conbus | 172 |
 | 67 |  [coconut](https://github.com/evhub/coconut) | Simple, elegant, Pythonic functional programming. | evhub | 3087 |
 | 68 |  [sudobot](https://github.com/bvanrijn/sudobot) | run commands on your server via a Telegram bot | bvanrijn | 44 |
@@ -248,7 +248,7 @@
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
 | 1 |  [ChannelHashBot](https://github.com/JosXa/ChannelHashBot) |  | JosXa | 1 |
-| 2 |  [vscode](https://github.com/microsoft/vscode) | Visual Studio Code | microsoft | 109536 |
+| 2 |  [vscode](https://github.com/microsoft/vscode) | Visual Studio Code | microsoft | 109537 |
 
 **[⬆ Back to Index](#-contents)**
 
