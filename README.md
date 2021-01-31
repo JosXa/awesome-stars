@@ -67,7 +67,7 @@
 | 1 |  [tdlight-telegram-bot-api](https://github.com/JosXa/tdlight-telegram-bot-api) | The Telegram Bot API provides an HTTP API for creating Telegram Bots. | JosXa | 1 |
 | 2 |  [telegram-bot-api](https://github.com/tdlib/telegram-bot-api) |  | tdlib | 815 |
 | 3 |  [tdlight-telegram-bot-api](https://github.com/tdlight-team/tdlight-telegram-bot-api) | The TDLight Telegram API is an actively enhanced fork of the original Bot API, featuring experimental user support with strong focus on memory footprint and performance. | tdlight-team | 29 |
-| 4 |  [tdesktop](https://github.com/telegramdesktop/tdesktop) | Telegram Desktop messaging app | telegramdesktop | 14718 |
+| 4 |  [tdesktop](https://github.com/telegramdesktop/tdesktop) | Telegram Desktop messaging app | telegramdesktop | 14720 |
 | 5 |  [krunner-symbols](https://github.com/domschrei/krunner-symbols) | A lightweight KRunner plugin (Plasma 5) to retrieve unicode symbols, or any other string, based on a corresponding keyword. | domschrei | 71 |
 
 **[⬆ Back to Index](#-contents)**
@@ -199,7 +199,7 @@
 | 39 |  [datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator) | Pydantic model generator for easy conversion of JSON, OpenAPI, JSON Schema, and YAML data sources. | koxudaxi | 338 |
 | 40 |  [pycollection-pipelines](https://github.com/povilasb/pycollection-pipelines) | Collection pipeline pattern implementation in Python | povilasb | 6 |
 | 41 |  [ensure](https://github.com/kislyuk/ensure) | Validate conditions, Python style. | kislyuk | 129 |
-| 42 |  [loguru](https://github.com/Delgan/loguru) | Python logging made (stupidly) simple | Delgan | 8011 |
+| 42 |  [loguru](https://github.com/Delgan/loguru) | Python logging made (stupidly) simple | Delgan | 8012 |
 | 43 |  [pyrogram](https://github.com/pyrogram/pyrogram) | Telegram MTProto API Python client library framework for users and bots | pyrogram | 1547 |
 | 44 |  [dephell](https://github.com/dephell/dephell) | :package: :fire: Python project management. Manage packages: convert between formats, lock, install, resolve, isolate, test, build graph, show outdated, audit. Manage venvs, build package, bump version. | dephell | 1677 |
 | 45 |  [Botkit](https://github.com/autogram/Botkit) | Opinionated, library-agnostic Python framework for rapid development of Telegram bots and userbots with focus on maintainability for large projects. | autogram | 6 |
@@ -207,9 +207,9 @@
 | 47 |  [implicit](https://github.com/benfred/implicit) | Fast Python Collaborative Filtering for Implicit Feedback Datasets | benfred | 2239 |
 | 48 |  [gql-next](https://github.com/graphql-python/gql-next) | A Python GraphQL Client library providing ability to validate and make type-safe GraphQL calls | graphql-python | 66 |
 | 49 |  [pyannotate](https://github.com/dropbox/pyannotate) | Auto-generate PEP-484 annotations | dropbox | 1167 |
-| 50 |  [contextualise](https://github.com/brettkromkamp/contextualise) | Contextualise is a simple but effective tool particularly suited for organising information-heavy projects and activities consisting of unstructured and widely diverse data and information resources | brettkromkamp | 886 |
+| 50 |  [contextualise](https://github.com/brettkromkamp/contextualise) | Contextualise is a simple but effective tool particularly suited for organising information-heavy projects and activities consisting of unstructured and widely diverse data and information resources | brettkromkamp | 887 |
 | 51 |  [buslane](https://github.com/konradhalas/buslane) | Simple message (event/command) bus. | konradhalas | 19 |
-| 52 |  [notion-py](https://github.com/jamalex/notion-py) | Unofficial Python API client for Notion.so | jamalex | 2307 |
+| 52 |  [notion-py](https://github.com/jamalex/notion-py) | Unofficial Python API client for Notion.so | jamalex | 2308 |
 | 53 |  [keyboard_listener](https://github.com/dibsonthis/keyboard_listener) | Keyboard Listener is a module that allows you to create custom hotkeys (combinations) or custom keywords and bind them to custom functions in Python | dibsonthis | 75 |
 | 54 |  [azure-functions-python-worker](https://github.com/Azure/azure-functions-python-worker) | Python worker for Azure Functions. | Azure | 220 |
 | 55 |  [ultimate-poll-bot](https://github.com/Nukesor/ultimate-poll-bot) | :bulb: The ultimate vote and poll bot for creating, sharing and evaluating polls inside of Telegram | Nukesor | 83 |
@@ -226,14 +226,14 @@
 | 66 |  [BotListBot](https://github.com/JosXa/BotListBot) | Repository of Telegram&#39;s BotListBot | JosXa | 43 |
 | 67 |  [make-stub-files](https://github.com/edreamleo/make-stub-files) | Script and config file that creates python stub (.pyi) files | edreamleo | 24 |
 | 68 |  [logzero](https://github.com/metachris/logzero) | Robust and effective logging for Python 2 and 3. | metachris | 964 |
-| 69 |  [Telethon](https://github.com/LonamiWebs/Telethon) | Pure Python 3 MTProto API Telegram client library, for bots too! | LonamiWebs | 4452 |
+| 69 |  [Telethon](https://github.com/LonamiWebs/Telethon) | Pure Python 3 MTProto API Telegram client library, for bots too! | LonamiWebs | 4453 |
 | 70 |  [fbmq](https://github.com/conbus/fbmq) | (Deprecated) Facebook Messenger Platform Python Library (Facebook Chatbot Library) | conbus | 172 |
 | 71 |  [coconut](https://github.com/evhub/coconut) | Simple, elegant, Pythonic functional programming. | evhub | 3099 |
 | 72 |  [sudobot](https://github.com/bvanrijn/sudobot) | run commands on your server via a Telegram bot | bvanrijn | 44 |
 | 73 |  [mogo](https://github.com/joshmarshall/mogo) | A MongoDB object wrapper around PyMongo (for Python) | joshmarshall | 81 |
 | 74 |  [teleGit](https://github.com/HeavenH/teleGit) | Telegram Bot in Python | HeavenH | 21 |
 | 75 |  [python-telegram-handler](https://github.com/sashgorokhov/python-telegram-handler) | A python logging handler that sends logs via Telegram Bot Api. | sashgorokhov | 58 |
-| 76 |  [python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot) | We have made you a wrapper you can&#39;t refuse | python-telegram-bot | 13601 |
+| 76 |  [python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot) | We have made you a wrapper you can&#39;t refuse | python-telegram-bot | 13604 |
 | 77 |  [pymessenger](https://github.com/davidchua/pymessenger) | A Python Wrapper for the FB Messenger Bot API (Send/Receive API) | davidchua | 446 |
 | 78 |  [wundervim](https://github.com/khadiwala/wundervim) | Wunderlist plugin for vim | khadiwala | 4 |
 
@@ -264,7 +264,7 @@
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
 | 1 |  [ChannelHashBot](https://github.com/JosXa/ChannelHashBot) |  | JosXa | 1 |
-| 2 |  [vscode](https://github.com/microsoft/vscode) | Visual Studio Code | microsoft | 110045 |
+| 2 |  [vscode](https://github.com/microsoft/vscode) | Visual Studio Code | microsoft | 110046 |
 
 **[⬆ Back to Index](#-contents)**
 
