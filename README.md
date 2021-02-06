@@ -92,7 +92,7 @@
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
 | 1 |  [porter](https://github.com/porter-dev/porter) | Kubernetes powered PaaS that runs in your own cloud. | porter-dev | 330 |
-| 2 |  [nomad](https://github.com/hashicorp/nomad) | Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations. | hashicorp | 7999 |
+| 2 |  [nomad](https://github.com/hashicorp/nomad) | Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations. | hashicorp | 8000 |
 | 3 |  [flynn](https://github.com/flynn/flynn) | A next generation open source platform as a service (PaaS) | flynn | 7890 |
 
 **[⬆ Back to Index](#-contents)**
@@ -267,7 +267,7 @@
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
 | 1 |  [ChannelHashBot](https://github.com/JosXa/ChannelHashBot) |  | JosXa | 1 |
-| 2 |  [vscode](https://github.com/microsoft/vscode) | Visual Studio Code | microsoft | 110503 |
+| 2 |  [vscode](https://github.com/microsoft/vscode) | Visual Studio Code | microsoft | 110506 |
 
 **[⬆ Back to Index](#-contents)**
 
