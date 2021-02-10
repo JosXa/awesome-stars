@@ -130,7 +130,7 @@
 | 3 |  [fork-sync](https://github.com/tgymnich/fork-sync) | 🔄 Github action to sync your forks | tgymnich | 95 |
 | 4 |  [bitwarden_rs](https://github.com/dani-garcia/bitwarden_rs) | Unofficial Bitwarden compatible server written in Rust | dani-garcia | 6239 |
 | 5 |  [quote-bot](https://github.com/LyoSU/quote-bot) | Telegram quote bot | LyoSU | 68 |
-| 6 |  [node-telegram-bot-api](https://github.com/yagop/node-telegram-bot-api) | Telegram Bot API for NodeJS | yagop | 4930 |
+| 6 |  [node-telegram-bot-api](https://github.com/yagop/node-telegram-bot-api) | Telegram Bot API for NodeJS | yagop | 4931 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -208,8 +208,8 @@
 | 43 |  [datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator) | Pydantic model generator for easy conversion of JSON, OpenAPI, JSON Schema, and YAML data sources. | koxudaxi | 350 |
 | 44 |  [pycollection-pipelines](https://github.com/povilasb/pycollection-pipelines) | Collection pipeline pattern implementation in Python | povilasb | 6 |
 | 45 |  [ensure](https://github.com/kislyuk/ensure) | Validate conditions, Python style. | kislyuk | 129 |
-| 46 |  [loguru](https://github.com/Delgan/loguru) | Python logging made (stupidly) simple | Delgan | 8103 |
-| 47 |  [pyrogram](https://github.com/pyrogram/pyrogram) | Telegram MTProto API Python client library framework for users and bots | pyrogram | 1579 |
+| 46 |  [loguru](https://github.com/Delgan/loguru) | Python logging made (stupidly) simple | Delgan | 8106 |
+| 47 |  [pyrogram](https://github.com/pyrogram/pyrogram) | Telegram MTProto API Python client library framework for users and bots | pyrogram | 1580 |
 | 48 |  [dephell](https://github.com/dephell/dephell) | :package: :fire: Python project management. Manage packages: convert between formats, lock, install, resolve, isolate, test, build graph, show outdated, audit. Manage venvs, build package, bump version. | dephell | 1676 |
 | 49 |  [Botkit](https://github.com/autogram/Botkit) | Opinionated, library-agnostic Python framework for rapid development of Telegram bots and userbots with focus on maintainability for large projects. | autogram | 6 |
 | 50 |  [nameof](https://github.com/alexmojaki/nameof) | Python function to get the name of a variable or attribute, as in C# | alexmojaki | 8 |
@@ -274,7 +274,7 @@
 |---	|---	|---	|---	|---	|
 | 1 |  [WebWindow](https://github.com/SteveSandersonMS/WebWindow) | .NET Core library to open native OS windows containing web UI on Windows, Mac, and Linux. Experimental. | SteveSandersonMS | 1902 |
 | 2 |  [ChannelHashBot](https://github.com/JosXa/ChannelHashBot) |  | JosXa | 1 |
-| 3 |  [vscode](https://github.com/microsoft/vscode) | Visual Studio Code | microsoft | 110795 |
+| 3 |  [vscode](https://github.com/microsoft/vscode) | Visual Studio Code | microsoft | 110796 |
 
 **[⬆ Back to Index](#-contents)**
 
