@@ -53,7 +53,7 @@
 | 14 |  [linq2db](https://github.com/linq2db/linq2db) | Linq to database provider. | linq2db | 1971 |
 | 15 |  [Warewolf](https://github.com/Warewolf-ESB/Warewolf) | Effortless Microservice Design and Integration. This repository includes the code-base for the Warewolf Studio and Server. | Warewolf-ESB | 238 |
 | 16 |  [CppSharp](https://github.com/mono/CppSharp) | Tools and libraries to glue C/C++ APIs to high-level languages | mono | 1990 |
-| 17 |  [ravendb](https://github.com/ravendb/ravendb) | ACID Document Database | ravendb | 2580 |
+| 17 |  [ravendb](https://github.com/ravendb/ravendb) | ACID Document Database | ravendb | 2581 |
 | 18 |  [Tababular](https://github.com/rebus-org/Tababular) | :page_with_curl: Simple monospace text table formatting | rebus-org | 68 |
 | 19 |  [Rebus](https://github.com/rebus-org/Rebus) | :bus: Simple and lean service bus implementation for .NET | rebus-org | 1508 |
 | 20 |  [steal-this-code](https://github.com/appie2go/steal-this-code) | Example implementation of CQRS, Ports &amp; Adapters and Domain Driven Design | appie2go | 46 |
@@ -96,7 +96,7 @@
 |---	|---	|---	|---	|---	|
 | 1 |  [porter](https://github.com/porter-dev/porter) | Kubernetes powered PaaS that runs in your own cloud. | porter-dev | 335 |
 | 2 |  [nomad](https://github.com/hashicorp/nomad) | Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations. | hashicorp | 8028 |
-| 3 |  [flynn](https://github.com/flynn/flynn) | A next generation open source platform as a service (PaaS) | flynn | 7896 |
+| 3 |  [flynn](https://github.com/flynn/flynn) | A next generation open source platform as a service (PaaS) | flynn | 7897 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -192,7 +192,7 @@
 | 27 |  [injectable](https://github.com/allrod5/injectable) | Dependency Injection for Humans™ | allrod5 | 46 |
 | 28 |  [quantiphy](https://github.com/KenKundert/quantiphy) | Physical quantities | KenKundert | 33 |
 | 29 |  [extended_pathlib](https://github.com/KenKundert/extended_pathlib) | Extensions to stdlib pathlib | KenKundert | 2 |
-| 30 |  [odmantic](https://github.com/art049/odmantic) | Async ODM (Object Document Mapper) for MongoDB based on python type hints | art049 | 196 |
+| 30 |  [odmantic](https://github.com/art049/odmantic) | Async ODM (Object Document Mapper) for MongoDB based on python type hints | art049 | 197 |
 | 31 |  [pydantic-odm](https://github.com/i8enn/pydantic-odm) | Small async ODM for MongoDB based in Motor and Pydantic library | i8enn | 35 |
 | 32 |  [returns](https://github.com/dry-python/returns) | Make your functions return something meaningful, typed, and safe! | dry-python | 1570 |
 | 33 |  [pymaybe](https://github.com/ekampf/pymaybe) | A Python implementation of the Maybe pattern | ekampf | 168 |
@@ -205,7 +205,7 @@
 | 40 |  [poethepoet](https://github.com/nat-n/poethepoet) | A task runner that works well with poetry. | nat-n | 121 |
 | 41 |  [Motor-ODM](https://github.com/codello/Motor-ODM) | A MongoDB ODM based on Motor and Pydantic. | codello | 12 |
 | 42 |  [python-inject](https://github.com/ivankorobkov/python-inject) | Python dependency injection | ivankorobkov | 433 |
-| 43 |  [datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator) | Pydantic model generator for easy conversion of JSON, OpenAPI, JSON Schema, and YAML data sources. | koxudaxi | 350 |
+| 43 |  [datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator) | Pydantic model generator for easy conversion of JSON, OpenAPI, JSON Schema, and YAML data sources. | koxudaxi | 351 |
 | 44 |  [pycollection-pipelines](https://github.com/povilasb/pycollection-pipelines) | Collection pipeline pattern implementation in Python | povilasb | 6 |
 | 45 |  [ensure](https://github.com/kislyuk/ensure) | Validate conditions, Python style. | kislyuk | 129 |
 | 46 |  [loguru](https://github.com/Delgan/loguru) | Python logging made (stupidly) simple | Delgan | 8119 |
@@ -258,7 +258,7 @@
 ## Shell
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [dokku](https://github.com/dokku/dokku) | A docker-powered PaaS that helps you build and manage the lifecycle of applications | dokku | 20694 |
+| 1 |  [dokku](https://github.com/dokku/dokku) | A docker-powered PaaS that helps you build and manage the lifecycle of applications | dokku | 20695 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -274,7 +274,7 @@
 |---	|---	|---	|---	|---	|
 | 1 |  [WebWindow](https://github.com/SteveSandersonMS/WebWindow) | .NET Core library to open native OS windows containing web UI on Windows, Mac, and Linux. Experimental. | SteveSandersonMS | 1904 |
 | 2 |  [ChannelHashBot](https://github.com/JosXa/ChannelHashBot) |  | JosXa | 1 |
-| 3 |  [vscode](https://github.com/microsoft/vscode) | Visual Studio Code | microsoft | 110875 |
+| 3 |  [vscode](https://github.com/microsoft/vscode) | Visual Studio Code | microsoft | 110876 |
 
 **[⬆ Back to Index](#-contents)**
 
