@@ -95,7 +95,7 @@
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
 | 1 |  [porter](https://github.com/porter-dev/porter) | Kubernetes powered PaaS that runs in your own cloud. | porter-dev | 413 |
-| 2 |  [nomad](https://github.com/hashicorp/nomad) | Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations. | hashicorp | 8126 |
+| 2 |  [nomad](https://github.com/hashicorp/nomad) | Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations. | hashicorp | 8127 |
 | 3 |  [flynn](https://github.com/flynn/flynn) | [UNMAINTAINED] A next generation open source platform as a service (PaaS) | flynn | 7896 |
 
 **[⬆ Back to Index](#-contents)**
@@ -184,8 +184,8 @@
 | 19 |  [umwelt](https://github.com/thilp/umwelt) | Configure your program via environment variables, validated by pydantic. | thilp | 3 |
 | 20 |  [ormantic](https://github.com/awesometoolbox/ormantic) | Async ORM + Pydantic = Ormantic ❤️ | awesometoolbox | 136 |
 | 21 |  [openapi-python-client](https://github.com/triaxtec/openapi-python-client) | Generate modern Python clients from OpenAPI | triaxtec | 116 |
-| 22 |  [cruft](https://github.com/cruft/cruft) | Allows you to maintain all the necessary cruft for packaging and building projects separate from the code you intentionally write. Built on-top of, and full compatible with, CookieCutter. | cruft | 158 |
-| 23 |  [toolz](https://github.com/pytoolz/toolz) | A functional standard library for Python. | pytoolz | 3450 |
+| 22 |  [cruft](https://github.com/cruft/cruft) | Allows you to maintain all the necessary cruft for packaging and building projects separate from the code you intentionally write. Built on-top of, and full compatible with, CookieCutter. | cruft | 159 |
+| 23 |  [toolz](https://github.com/pytoolz/toolz) | A functional standard library for Python. | pytoolz | 3451 |
 | 24 |  [formation](https://github.com/jondot/formation) | A generic functional middleware infrastructure for Python. | jondot | 13 |
 | 25 |  [sauron-engine](https://github.com/blurg/sauron-engine) | One engine to rule them all | blurg | 47 |
 | 26 |  [pycollect](https://github.com/allrod5/pycollect) | Utility library to collect valid Python files recursively | allrod5 | 3 |
@@ -235,14 +235,14 @@
 | 70 |  [BotListBot](https://github.com/JosXa/BotListBot) | Repository of Telegram&#39;s BotListBot | JosXa | 45 |
 | 71 |  [make-stub-files](https://github.com/edreamleo/make-stub-files) | Script and config file that creates python stub (.pyi) files | edreamleo | 24 |
 | 72 |  [logzero](https://github.com/metachris/logzero) | Robust and effective logging for Python 2 and 3. | metachris | 972 |
-| 73 |  [Telethon](https://github.com/LonamiWebs/Telethon) | Pure Python 3 MTProto API Telegram client library, for bots too! | LonamiWebs | 4540 |
+| 73 |  [Telethon](https://github.com/LonamiWebs/Telethon) | Pure Python 3 MTProto API Telegram client library, for bots too! | LonamiWebs | 4541 |
 | 74 |  [fbmq](https://github.com/conbus/fbmq) | (Deprecated) Facebook Messenger Platform Python Library (Facebook Chatbot Library) | conbus | 172 |
 | 75 |  [coconut](https://github.com/evhub/coconut) | Simple, elegant, Pythonic functional programming. | evhub | 3109 |
 | 76 |  [sudobot](https://github.com/bvanrijn/sudobot) | run commands on your server via a Telegram bot | bvanrijn | 44 |
 | 77 |  [mogo](https://github.com/joshmarshall/mogo) | A MongoDB object wrapper around PyMongo (for Python) | joshmarshall | 81 |
 | 78 |  [teleGit](https://github.com/HeavenH/teleGit) | Telegram Bot in Python | HeavenH | 21 |
 | 79 |  [python-telegram-handler](https://github.com/sashgorokhov/python-telegram-handler) | A python logging handler that sends logs via Telegram Bot Api. | sashgorokhov | 58 |
-| 80 |  [python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot) | We have made you a wrapper you can&#39;t refuse | python-telegram-bot | 13832 |
+| 80 |  [python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot) | We have made you a wrapper you can&#39;t refuse | python-telegram-bot | 13833 |
 | 81 |  [pymessenger](https://github.com/davidchua/pymessenger) | A Python Wrapper for the FB Messenger Bot API (Send/Receive API) | davidchua | 444 |
 | 82 |  [wundervim](https://github.com/khadiwala/wundervim) | Wunderlist plugin for vim | khadiwala | 4 |
 
@@ -258,7 +258,7 @@
 ## Shell
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [dokku](https://github.com/dokku/dokku) | A docker-powered PaaS that helps you build and manage the lifecycle of applications | dokku | 20751 |
+| 1 |  [dokku](https://github.com/dokku/dokku) | A docker-powered PaaS that helps you build and manage the lifecycle of applications | dokku | 20752 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -274,7 +274,7 @@
 |---	|---	|---	|---	|---	|
 | 1 |  [WebWindow](https://github.com/SteveSandersonMS/WebWindow) | .NET Core library to open native OS windows containing web UI on Windows, Mac, and Linux. Experimental. | SteveSandersonMS | 1909 |
 | 2 |  [ChannelHashBot](https://github.com/JosXa/ChannelHashBot) |  | JosXa | 1 |
-| 3 |  [vscode](https://github.com/microsoft/vscode) | Visual Studio Code | microsoft | 111395 |
+| 3 |  [vscode](https://github.com/microsoft/vscode) | Visual Studio Code | microsoft | 111399 |
 
 **[⬆ Back to Index](#-contents)**
 
