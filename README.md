@@ -72,7 +72,7 @@
 | 1 |  [tdlight-telegram-bot-api](https://github.com/JosXa/tdlight-telegram-bot-api) | The Telegram Bot API provides an HTTP API for creating Telegram Bots. | JosXa | 1 |
 | 2 |  [telegram-bot-api](https://github.com/tdlib/telegram-bot-api) |  | tdlib | 891 |
 | 3 |  [tdlight-telegram-bot-api](https://github.com/tdlight-team/tdlight-telegram-bot-api) | The TDLight Telegram API is an actively enhanced fork of the original Bot API, featuring experimental user support with strong focus on memory footprint and performance. | tdlight-team | 33 |
-| 4 |  [tdesktop](https://github.com/telegramdesktop/tdesktop) | Telegram Desktop messaging app | telegramdesktop | 14967 |
+| 4 |  [tdesktop](https://github.com/telegramdesktop/tdesktop) | Telegram Desktop messaging app | telegramdesktop | 14968 |
 | 5 |  [krunner-symbols](https://github.com/domschrei/krunner-symbols) | A lightweight KRunner plugin (Plasma 5) to retrieve unicode symbols, or any other string, based on a corresponding keyword. | domschrei | 72 |
 
 **[⬆ Back to Index](#-contents)**
@@ -174,7 +174,7 @@
 | 9 |  [python-broqer](https://github.com/semiversus/python-broqer) | Carefully crafted library to operate with continuous streams of data in a reactive style with publish/subscribe, asyncio support and broker functionality. | semiversus | 63 |
 | 10 |  [haikunatorpy](https://github.com/Atrox/haikunatorpy) | Generate Heroku-like random names to use in your python applications | Atrox | 104 |
 | 11 |  [fastapi_client](https://github.com/dmontagu/fastapi_client) | FastAPI client generator | dmontagu | 137 |
-| 12 |  [aiogram](https://github.com/aiogram/aiogram) | Is a pretty simple and fully asynchronous framework for Telegram Bot API written in Python 3.7 with asyncio and aiohttp. | aiogram | 1435 |
+| 12 |  [aiogram](https://github.com/aiogram/aiogram) | Is a pretty simple and fully asynchronous framework for Telegram Bot API written in Python 3.7 with asyncio and aiohttp. | aiogram | 1436 |
 | 13 |  [python-pyfields](https://github.com/smarie/python-pyfields) | Define fields in python classes. Easily. | smarie | 23 |
 | 14 |  [python-benedict](https://github.com/fabiocaccamo/python-benedict) | dict subclass with keylist/keypath support, I/O shortcuts (base64, csv, json, pickle, plist, query-string, toml, xml, yaml) and many utilities. :blue_book: | fabiocaccamo | 200 |
 | 15 |  [ObjectPath](https://github.com/adriank/ObjectPath) | The agile query language for semi-structured data | adriank | 342 |
@@ -196,7 +196,7 @@
 | 31 |  [pydantic-odm](https://github.com/i8enn/pydantic-odm) | Small async ODM for MongoDB based in Motor and Pydantic library | i8enn | 36 |
 | 32 |  [returns](https://github.com/dry-python/returns) | Make your functions return something meaningful, typed, and safe! | dry-python | 1592 |
 | 33 |  [pymaybe](https://github.com/ekampf/pymaybe) | A Python implementation of the Maybe pattern | ekampf | 168 |
-| 34 |  [poetry](https://github.com/python-poetry/poetry) | Python dependency management and packaging made easy. | python-poetry | 14038 |
+| 34 |  [poetry](https://github.com/python-poetry/poetry) | Python dependency management and packaging made easy. | python-poetry | 14039 |
 | 35 |  [pipenv](https://github.com/pypa/pipenv) | Python Development Workflow for Humans. | pypa | 21580 |
 | 36 |  [KanTeX](https://github.com/kantek/KanTeX) |  | kantek | 7 |
 | 37 |  [ticktick-python](https://github.com/glasslion/ticktick-python) |  | glasslion | 8 |
@@ -208,7 +208,7 @@
 | 43 |  [datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator) | Pydantic model generator for easy conversion of JSON, OpenAPI, JSON Schema, and YAML data sources. | koxudaxi | 377 |
 | 44 |  [pycollection-pipelines](https://github.com/povilasb/pycollection-pipelines) | Collection pipeline pattern implementation in Python | povilasb | 6 |
 | 45 |  [ensure](https://github.com/kislyuk/ensure) | Validate conditions, Python style. | kislyuk | 129 |
-| 46 |  [loguru](https://github.com/Delgan/loguru) | Python logging made (stupidly) simple | Delgan | 8283 |
+| 46 |  [loguru](https://github.com/Delgan/loguru) | Python logging made (stupidly) simple | Delgan | 8284 |
 | 47 |  [pyrogram](https://github.com/pyrogram/pyrogram) | Telegram MTProto API Python client library framework for users and bots | pyrogram | 1608 |
 | 48 |  [dephell](https://github.com/dephell/dephell) | :package: :fire: Python project management. Manage packages: convert between formats, lock, install, resolve, isolate, test, build graph, show outdated, audit. Manage venvs, build package, bump version. | dephell | 1679 |
 | 49 |  [Botkit](https://github.com/autogram/Botkit) | Opinionated, library-agnostic Python framework for rapid development of Telegram bots and userbots with focus on maintainability for large projects. | autogram | 6 |
@@ -218,7 +218,7 @@
 | 53 |  [pyannotate](https://github.com/dropbox/pyannotate) | Auto-generate PEP-484 annotations | dropbox | 1178 |
 | 54 |  [contextualise](https://github.com/brettkromkamp/contextualise) | Contextualise is a simple but effective tool particularly suited for organising information-heavy projects and activities consisting of unstructured and widely diverse data and information resources | brettkromkamp | 893 |
 | 55 |  [buslane](https://github.com/konradhalas/buslane) | Simple message (event/command) bus. | konradhalas | 19 |
-| 56 |  [notion-py](https://github.com/jamalex/notion-py) | Unofficial Python API client for Notion.so | jamalex | 2494 |
+| 56 |  [notion-py](https://github.com/jamalex/notion-py) | Unofficial Python API client for Notion.so | jamalex | 2495 |
 | 57 |  [keyboard_listener](https://github.com/dibsonthis/keyboard_listener) | Keyboard Listener is a module that allows you to create custom hotkeys (combinations) or custom keywords and bind them to custom functions in Python | dibsonthis | 76 |
 | 58 |  [azure-functions-python-worker](https://github.com/Azure/azure-functions-python-worker) | Python worker for Azure Functions. | Azure | 220 |
 | 59 |  [ultimate-poll-bot](https://github.com/Nukesor/ultimate-poll-bot) | :bulb: The ultimate vote and poll bot for creating, sharing and evaluating polls inside of Telegram | Nukesor | 86 |
@@ -258,7 +258,7 @@
 ## Shell
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [dokku](https://github.com/dokku/dokku) | A docker-powered PaaS that helps you build and manage the lifecycle of applications | dokku | 20797 |
+| 1 |  [dokku](https://github.com/dokku/dokku) | A docker-powered PaaS that helps you build and manage the lifecycle of applications | dokku | 20798 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -274,7 +274,7 @@
 |---	|---	|---	|---	|---	|
 | 1 |  [WebWindow](https://github.com/SteveSandersonMS/WebWindow) | .NET Core library to open native OS windows containing web UI on Windows, Mac, and Linux. Experimental. | SteveSandersonMS | 1917 |
 | 2 |  [ChannelHashBot](https://github.com/JosXa/ChannelHashBot) |  | JosXa | 1 |
-| 3 |  [vscode](https://github.com/microsoft/vscode) | Visual Studio Code | microsoft | 111699 |
+| 3 |  [vscode](https://github.com/microsoft/vscode) | Visual Studio Code | microsoft | 111700 |
 
 **[⬆ Back to Index](#-contents)**
 
