@@ -94,7 +94,7 @@
 ## Go
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [porter](https://github.com/porter-dev/porter) | Kubernetes powered PaaS that runs in your own cloud. | porter-dev | 1586 |
+| 1 |  [porter](https://github.com/porter-dev/porter) | Kubernetes powered PaaS that runs in your own cloud. | porter-dev | 1585 |
 | 2 |  [nomad](https://github.com/hashicorp/nomad) | Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations. | hashicorp | 8330 |
 | 3 |  [gpwm](https://github.com/dasdipanjan04/gpwm) | A go based open source password manager | dasdipanjan04 | 2 |
 | 4 |  [flynn](https://github.com/flynn/flynn) | [UNMAINTAINED] A next generation open source platform as a service (PaaS) | flynn | 7938 |
@@ -130,7 +130,7 @@
 | 2 |  [composerize](https://github.com/magicmark/composerize) | 🏃→🎼  docker run asdlksjfksdf &amp;gt; docker-composerize up | magicmark | 880 |
 | 3 |  [fork-sync](https://github.com/tgymnich/fork-sync) | 🔄 Github action to sync your forks | tgymnich | 106 |
 | 4 |  [quote-bot](https://github.com/LyoSU/quote-bot) | Telegram quote bot | LyoSU | 82 |
-| 5 |  [node-telegram-bot-api](https://github.com/yagop/node-telegram-bot-api) | Telegram Bot API for NodeJS | yagop | 5100 |
+| 5 |  [node-telegram-bot-api](https://github.com/yagop/node-telegram-bot-api) | Telegram Bot API for NodeJS | yagop | 5101 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -210,7 +210,7 @@
 | 45 |  [ensure](https://github.com/kislyuk/ensure) | Validate conditions, Python style. | kislyuk | 130 |
 | 46 |  [loguru](https://github.com/Delgan/loguru) | Python logging made (stupidly) simple | Delgan | 8565 |
 | 47 |  [pyrogram](https://github.com/pyrogram/pyrogram) | Telegram MTProto API Client Library and Framework in Pure Python for Users and Bots | pyrogram | 1675 |
-| 48 |  [dephell](https://github.com/dephell/dephell) | :package: :fire: Python project management. Manage packages: convert between formats, lock, install, resolve, isolate, test, build graph, show outdated, audit. Manage venvs, build package, bump version. | dephell | 1691 |
+| 48 |  [dephell](https://github.com/dephell/dephell) | :package: :fire: Python project management. Manage packages: convert between formats, lock, install, resolve, isolate, test, build graph, show outdated, audit. Manage venvs, build package, bump version. | dephell | 1690 |
 | 49 |  [Botkit](https://github.com/autogram/Botkit) | Opinionated, library-agnostic Python framework for rapid development of Telegram bots and userbots with focus on maintainability for large projects. | autogram | 6 |
 | 50 |  [nameof](https://github.com/alexmojaki/nameof) | Python function to get the name of a variable or attribute, as in C# | alexmojaki | 8 |
 | 51 |  [implicit](https://github.com/benfred/implicit) | Fast Python Collaborative Filtering for Implicit Feedback Datasets | benfred | 2305 |
@@ -222,7 +222,7 @@
 | 57 |  [keyboard_listener](https://github.com/dibsonthis/keyboard_listener) | Keyboard Listener is a module that allows you to create custom hotkeys (combinations) or custom keywords and bind them to custom functions in Python | dibsonthis | 75 |
 | 58 |  [azure-functions-python-worker](https://github.com/Azure/azure-functions-python-worker) | Python worker for Azure Functions. | Azure | 223 |
 | 59 |  [ultimate-poll-bot](https://github.com/Nukesor/ultimate-poll-bot) | :bulb: The ultimate vote and poll bot for creating, sharing and evaluating polls inside of Telegram | Nukesor | 88 |
-| 60 |  [tgbot](https://github.com/PaulSonOfLars/tgbot) | Modular telegram group management bot | PaulSonOfLars | 342 |
+| 60 |  [tgbot](https://github.com/PaulSonOfLars/tgbot) | Modular telegram group management bot | PaulSonOfLars | 343 |
 | 61 |  [orator](https://github.com/sdispater/orator) | The Orator ORM provides a simple yet beautiful ActiveRecord implementation. | sdispater | 1236 |
 | 62 |  [mistune](https://github.com/lepture/mistune) | A fast yet powerful Python Markdown parser with renderers and plugins. | lepture | 1929 |
 | 63 |  [haps](https://github.com/lunarwings/haps) | Pure Python dependency injection library | lunarwings | 47 |
