@@ -52,7 +52,7 @@
 | 13 |  [TelegramStorageParser](https://github.com/MihaZupan/TelegramStorageParser) | Library to decrypt and parse Telegram Desktop&#39;s storage | MihaZupan | 28 |
 | 14 |  [linq2db](https://github.com/linq2db/linq2db) | Linq to database provider. | linq2db | 2026 |
 | 15 |  [Warewolf](https://github.com/Warewolf-ESB/Warewolf) | Effortless Microservice Design and Integration. This repository includes the code-base for the Warewolf Studio and Server. | Warewolf-ESB | 240 |
-| 16 |  [CppSharp](https://github.com/mono/CppSharp) | Tools and libraries to glue C/C++ APIs to high-level languages | mono | 2055 |
+| 16 |  [CppSharp](https://github.com/mono/CppSharp) | Tools and libraries to glue C/C++ APIs to high-level languages | mono | 2056 |
 | 17 |  [ravendb](https://github.com/ravendb/ravendb) | ACID Document Database | ravendb | 2626 |
 | 18 |  [Tababular](https://github.com/rebus-org/Tababular) | :page_with_curl: Simple monospace text table formatting | rebus-org | 70 |
 | 19 |  [Rebus](https://github.com/rebus-org/Rebus) | :bus: Simple and lean service bus implementation for .NET | rebus-org | 1553 |
@@ -204,16 +204,16 @@
 | 39 |  [ptbcontrib](https://github.com/python-telegram-bot/ptbcontrib) | Community-based extensions for the python-telegram-bot library. | python-telegram-bot | 22 |
 | 40 |  [poethepoet](https://github.com/nat-n/poethepoet) | A task runner that works well with poetry. | nat-n | 162 |
 | 41 |  [Motor-ODM](https://github.com/codello/Motor-ODM) | A MongoDB ODM based on Motor and Pydantic. | codello | 12 |
-| 42 |  [python-inject](https://github.com/ivankorobkov/python-inject) | Python dependency injection | ivankorobkov | 454 |
+| 42 |  [python-inject](https://github.com/ivankorobkov/python-inject) | Python dependency injection | ivankorobkov | 455 |
 | 43 |  [datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator) | Pydantic model generator for easy conversion of JSON, OpenAPI, JSON Schema, and YAML data sources. | koxudaxi | 443 |
 | 44 |  [pycollection-pipelines](https://github.com/povilasb/pycollection-pipelines) | Collection pipeline pattern implementation in Python | povilasb | 6 |
 | 45 |  [ensure](https://github.com/kislyuk/ensure) | Validate conditions, Python style. | kislyuk | 130 |
-| 46 |  [loguru](https://github.com/Delgan/loguru) | Python logging made (stupidly) simple | Delgan | 8645 |
+| 46 |  [loguru](https://github.com/Delgan/loguru) | Python logging made (stupidly) simple | Delgan | 8646 |
 | 47 |  [pyrogram](https://github.com/pyrogram/pyrogram) | Telegram MTProto API Client Library and Framework in Pure Python for Users and Bots | pyrogram | 1713 |
 | 48 |  [dephell](https://github.com/dephell/dephell) | :package: :fire: Python project management. Manage packages: convert between formats, lock, install, resolve, isolate, test, build graph, show outdated, audit. Manage venvs, build package, bump version. | dephell | 1695 |
 | 49 |  [Botkit](https://github.com/autogram/Botkit) | Opinionated, library-agnostic Python framework for rapid development of Telegram bots and userbots with focus on maintainability for large projects. | autogram | 6 |
 | 50 |  [nameof](https://github.com/alexmojaki/nameof) | Python function to get the name of a variable or attribute, as in C# | alexmojaki | 9 |
-| 51 |  [implicit](https://github.com/benfred/implicit) | Fast Python Collaborative Filtering for Implicit Feedback Datasets | benfred | 2319 |
+| 51 |  [implicit](https://github.com/benfred/implicit) | Fast Python Collaborative Filtering for Implicit Feedback Datasets | benfred | 2320 |
 | 52 |  [gql-next](https://github.com/graphql-python/gql-next) | A Python GraphQL Client library providing ability to validate and make type-safe GraphQL calls | graphql-python | 68 |
 | 53 |  [pyannotate](https://github.com/dropbox/pyannotate) | Auto-generate PEP-484 annotations | dropbox | 1198 |
 | 54 |  [contextualise](https://github.com/brettkromkamp/contextualise) | Contextualise is a simple but effective tool particularly suited for organising information-heavy projects and activities consisting of unstructured and widely diverse data and information resources | brettkromkamp | 901 |
@@ -252,7 +252,7 @@
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
 | 1 |  [tg-bot-api](https://github.com/ark0f/tg-bot-api) | Telegram Bot API parser and generators | ark0f | 14 |
-| 2 |  [bitwarden_rs](https://github.com/dani-garcia/bitwarden_rs) | Unofficial Bitwarden compatible server written in Rust | dani-garcia | 8277 |
+| 2 |  [bitwarden_rs](https://github.com/dani-garcia/bitwarden_rs) | Unofficial Bitwarden compatible server written in Rust | dani-garcia | 8276 |
 
 **[⬆ Back to Index](#-contents)**
 
