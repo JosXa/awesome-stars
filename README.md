@@ -44,7 +44,7 @@
 | 5 |  [Netjs](https://github.com/praeclarum/Netjs) | Compile .NET assemblies to TypeScript and JavaScript | praeclarum | 889 |
 | 6 |  [Ensure.That](https://github.com/danielwertheim/Ensure.That) | Guard clause project for .NET | danielwertheim | 315 |
 | 7 |  [rxns](https://github.com/captainjono/rxns) | Fullstack micro-actor-services for Rx | captainjono | 12 |
-| 8 |  [reactive](https://github.com/dotnet/reactive) | The Reactive Extensions for .NET | dotnet | 4907 |
+| 8 |  [reactive](https://github.com/dotnet/reactive) | The Reactive Extensions for .NET | dotnet | 4908 |
 | 9 |  [templating](https://github.com/dotnet/templating) | This repo contains the Template Engine which is used by dotnet new | dotnet | 993 |
 | 10 |  [GtkSharp](https://github.com/GtkSharp/GtkSharp) | .NET wrapper for Gtk and other related libraries | GtkSharp | 465 |
 | 11 |  [egram.tel](https://github.com/egramtel/egram.tel) | Crossplatform Telegram client | egramtel | 313 |
@@ -94,7 +94,7 @@
 ## Go
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [porter](https://github.com/porter-dev/porter) | Kubernetes powered PaaS that runs in your own cloud. | porter-dev | 1736 |
+| 1 |  [porter](https://github.com/porter-dev/porter) | Kubernetes powered PaaS that runs in your own cloud. | porter-dev | 1737 |
 | 2 |  [nomad](https://github.com/hashicorp/nomad) | Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations. | hashicorp | 8424 |
 | 3 |  [gpwm](https://github.com/dasdipanjan04/gpwm) | A go based open source password manager | dasdipanjan04 | 2 |
 | 4 |  [flynn](https://github.com/flynn/flynn) | [UNMAINTAINED] A next generation open source platform as a service (PaaS) | flynn | 7931 |
@@ -184,7 +184,7 @@
 | 19 |  [wired_injector](https://github.com/pauleveritt/wired_injector) | Type-based calling of functions, dataclasses, classes, and more, based on wired containers. | pauleveritt | 1 |
 | 20 |  [umwelt](https://github.com/thilp/umwelt) | Configure your program via environment variables, validated by pydantic. | thilp | 3 |
 | 21 |  [ormantic](https://github.com/awesometoolbox/ormantic) | Async ORM + Pydantic = Ormantic ❤️ | awesometoolbox | 135 |
-| 22 |  [openapi-python-client](https://github.com/triaxtec/openapi-python-client) | Generate modern Python clients from OpenAPI | triaxtec | 143 |
+| 22 |  [openapi-python-client](https://github.com/triaxtec/openapi-python-client) | Generate modern Python clients from OpenAPI | triaxtec | 144 |
 | 23 |  [cruft](https://github.com/cruft/cruft) | Allows you to maintain all the necessary cruft for packaging and building projects separate from the code you intentionally write. Built on-top of, and fully compatible with, CookieCutter. | cruft | 199 |
 | 24 |  [toolz](https://github.com/pytoolz/toolz) | A functional standard library for Python. | pytoolz | 3508 |
 | 25 |  [formation](https://github.com/jondot/formation) | A generic functional middleware infrastructure for Python. | jondot | 13 |
@@ -260,7 +260,7 @@
 ## Shell
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [dokku](https://github.com/dokku/dokku) | A docker-powered PaaS that helps you build and manage the lifecycle of applications | dokku | 21278 |
+| 1 |  [dokku](https://github.com/dokku/dokku) | A docker-powered PaaS that helps you build and manage the lifecycle of applications | dokku | 21279 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -276,7 +276,7 @@
 |---	|---	|---	|---	|---	|
 | 1 |  [WebWindow](https://github.com/SteveSandersonMS/WebWindow) | .NET Core library to open native OS windows containing web UI on Windows, Mac, and Linux. Experimental. | SteveSandersonMS | 1945 |
 | 2 |  [ChannelHashBot](https://github.com/JosXa/ChannelHashBot) |  | JosXa | 1 |
-| 3 |  [vscode](https://github.com/microsoft/vscode) | Visual Studio Code | microsoft | 114903 |
+| 3 |  [vscode](https://github.com/microsoft/vscode) | Visual Studio Code | microsoft | 114908 |
 
 **[⬆ Back to Index](#-contents)**
 
