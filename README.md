@@ -72,7 +72,7 @@
 | 1 |  [tdlight-telegram-bot-api](https://github.com/JosXa/tdlight-telegram-bot-api) | The Telegram Bot API provides an HTTP API for creating Telegram Bots. | JosXa | 1 |
 | 2 |  [telegram-bot-api](https://github.com/tdlib/telegram-bot-api) |  | tdlib | 1000 |
 | 3 |  [tdlight-telegram-bot-api](https://github.com/tdlight-team/tdlight-telegram-bot-api) | The TDLight Telegram API is an actively enhanced fork of the original Bot API, featuring experimental user support with strong focus on memory footprint and performance. | tdlight-team | 38 |
-| 4 |  [tdesktop](https://github.com/telegramdesktop/tdesktop) | Telegram Desktop messaging app | telegramdesktop | 15383 |
+| 4 |  [tdesktop](https://github.com/telegramdesktop/tdesktop) | Telegram Desktop messaging app | telegramdesktop | 15384 |
 | 5 |  [krunner-symbols](https://github.com/domschrei/krunner-symbols) | A lightweight KRunner plugin (Plasma 5) to retrieve unicode symbols, or any other string, based on a corresponding keyword. | domschrei | 77 |
 
 **[⬆ Back to Index](#-contents)**
@@ -253,7 +253,7 @@
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
 | 1 |  [tg-bot-api](https://github.com/ark0f/tg-bot-api) | Telegram Bot API parser and generators | ark0f | 14 |
-| 2 |  [bitwarden_rs](https://github.com/dani-garcia/bitwarden_rs) | Unofficial Bitwarden compatible server written in Rust | dani-garcia | 8408 |
+| 2 |  [bitwarden_rs](https://github.com/dani-garcia/bitwarden_rs) | Unofficial Bitwarden compatible server written in Rust | dani-garcia | 8409 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -276,7 +276,7 @@
 |---	|---	|---	|---	|---	|
 | 1 |  [WebWindow](https://github.com/SteveSandersonMS/WebWindow) | .NET Core library to open native OS windows containing web UI on Windows, Mac, and Linux. Experimental. | SteveSandersonMS | 1946 |
 | 2 |  [ChannelHashBot](https://github.com/JosXa/ChannelHashBot) |  | JosXa | 1 |
-| 3 |  [vscode](https://github.com/microsoft/vscode) | Visual Studio Code | microsoft | 114988 |
+| 3 |  [vscode](https://github.com/microsoft/vscode) | Visual Studio Code | microsoft | 114991 |
 
 **[⬆ Back to Index](#-contents)**
 
