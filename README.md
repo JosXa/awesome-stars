@@ -172,7 +172,7 @@
 | 6 |  [aop](https://github.com/orsinium-labs/aop) | Aspect oriented programming for Python. Patch everything! | orsinium-labs | 7 |
 | 7 |  [deal](https://github.com/life4/deal) | Design by contract for Python with static checker and tests&#39; generation. | life4 | 184 |
 | 8 |  [textdistance](https://github.com/life4/textdistance) | Compute distance between sequences. 30+ algorithms, pure python implementation, common interface, optional external libs usage. | life4 | 1962 |
-| 9 |  [cachetools](https://github.com/tkem/cachetools) | Extensible memoizing collections and decorators | tkem | 956 |
+| 9 |  [cachetools](https://github.com/tkem/cachetools) | Extensible memoizing collections and decorators | tkem | 957 |
 | 10 |  [python-broqer](https://github.com/semiversus/python-broqer) | Carefully crafted library to operate with continuous streams of data in a reactive style with publish/subscribe, asyncio support and broker functionality. | semiversus | 63 |
 | 11 |  [haikunatorpy](https://github.com/Atrox/haikunatorpy) | Generate Heroku-like random names to use in your python applications | Atrox | 104 |
 | 12 |  [fastapi_client](https://github.com/dmontagu/fastapi_client) | FastAPI client generator | dmontagu | 154 |
@@ -198,8 +198,8 @@
 | 32 |  [pydantic-odm](https://github.com/i8enn/pydantic-odm) | Small async ODM for MongoDB based in Motor and Pydantic library | i8enn | 37 |
 | 33 |  [returns](https://github.com/dry-python/returns) | Make your functions return something meaningful, typed, and safe! | dry-python | 1673 |
 | 34 |  [pymaybe](https://github.com/ekampf/pymaybe) | A Python implementation of the Maybe pattern | ekampf | 171 |
-| 35 |  [poetry](https://github.com/python-poetry/poetry) | Python dependency management and packaging made easy. | python-poetry | 14850 |
-| 36 |  [pipenv](https://github.com/pypa/pipenv) | Python Development Workflow for Humans. | pypa | 21805 |
+| 35 |  [poetry](https://github.com/python-poetry/poetry) | Python dependency management and packaging made easy. | python-poetry | 14851 |
+| 36 |  [pipenv](https://github.com/pypa/pipenv) | Python Development Workflow for Humans. | pypa | 21806 |
 | 37 |  [KanTeX](https://github.com/kantek/KanTeX) |  | kantek | 7 |
 | 38 |  [ticktick-python](https://github.com/glasslion/ticktick-python) |  | glasslion | 10 |
 | 39 |  [tgintegration](https://github.com/JosXa/tgintegration) | Integration test and automation library for Telegram Messenger bots based on Pyrogram. | JosXa | 67 |
@@ -261,7 +261,7 @@
 ## Shell
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [dokku](https://github.com/dokku/dokku) | A docker-powered PaaS that helps you build and manage the lifecycle of applications | dokku | 21313 |
+| 1 |  [dokku](https://github.com/dokku/dokku) | A docker-powered PaaS that helps you build and manage the lifecycle of applications | dokku | 21315 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -277,7 +277,7 @@
 |---	|---	|---	|---	|---	|
 | 1 |  [WebWindow](https://github.com/SteveSandersonMS/WebWindow) | .NET Core library to open native OS windows containing web UI on Windows, Mac, and Linux. Experimental. | SteveSandersonMS | 1946 |
 | 2 |  [ChannelHashBot](https://github.com/JosXa/ChannelHashBot) |  | JosXa | 1 |
-| 3 |  [vscode](https://github.com/microsoft/vscode) | Visual Studio Code | microsoft | 115151 |
+| 3 |  [vscode](https://github.com/microsoft/vscode) | Visual Studio Code | microsoft | 115155 |
 
 **[⬆ Back to Index](#-contents)**
 
