@@ -54,7 +54,7 @@
 | 15 |  [linq2db](https://github.com/linq2db/linq2db) | Linq to database provider. | linq2db | 2036 |
 | 16 |  [Warewolf](https://github.com/Warewolf-ESB/Warewolf) | Effortless Microservice Design and Integration. This repository includes the code-base for the Warewolf Studio and Server. | Warewolf-ESB | 241 |
 | 17 |  [CppSharp](https://github.com/mono/CppSharp) | Tools and libraries to glue C/C++ APIs to high-level languages | mono | 2067 |
-| 18 |  [ravendb](https://github.com/ravendb/ravendb) | ACID Document Database | ravendb | 2674 |
+| 18 |  [ravendb](https://github.com/ravendb/ravendb) | ACID Document Database | ravendb | 2675 |
 | 19 |  [Tababular](https://github.com/rebus-org/Tababular) | :page_with_curl: Simple monospace text table formatting | rebus-org | 71 |
 | 20 |  [Rebus](https://github.com/rebus-org/Rebus) | :bus: Simple and lean service bus implementation for .NET | rebus-org | 1566 |
 | 21 |  [steal-this-code](https://github.com/appie2go/steal-this-code) | Example implementation of CQRS, Ports &amp; Adapters and Domain Driven Design | appie2go | 52 |
@@ -63,7 +63,7 @@
 | 24 |  [AppConfiguration-DotnetProvider](https://github.com/Azure/AppConfiguration-DotnetProvider) | The .NET Standard configuration provider for Azure App Configuration | Azure | 31 |
 | 25 |  [GlassTL](https://github.com/GlassTL/GlassTL) | MTProto 2.0 Client in dotnet core | GlassTL | 5 |
 | 26 |  [Dazinator.Extensions.DependencyInjection](https://github.com/dazinator/Dazinator.Extensions.DependencyInjection) | Useful additions to Microsoft.Extensions.DependencyInjection such as Named Services. | dazinator | 19 |
-| 27 |  [spy-spotify](https://github.com/jwallet/spy-spotify) | 🎤 Records Spotify to mp3 without ads and adds media tags to the files 🎵 | jwallet | 981 |
+| 27 |  [spy-spotify](https://github.com/jwallet/spy-spotify) | 🎤 Records Spotify to mp3 without ads and adds media tags to the files 🎵 | jwallet | 982 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -95,7 +95,7 @@
 ## Go
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [porter](https://github.com/porter-dev/porter) | Kubernetes powered PaaS that runs in your own cloud. | porter-dev | 1930 |
+| 1 |  [porter](https://github.com/porter-dev/porter) | Kubernetes powered PaaS that runs in your own cloud. | porter-dev | 1931 |
 | 2 |  [nomad](https://github.com/hashicorp/nomad) | Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations. | hashicorp | 8456 |
 | 3 |  [gpwm](https://github.com/dasdipanjan04/gpwm) | A go based open source password manager | dasdipanjan04 | 2 |
 | 4 |  [flynn](https://github.com/flynn/flynn) | [UNMAINTAINED] A next generation open source platform as a service (PaaS) | flynn | 7930 |
@@ -176,7 +176,7 @@
 | 10 |  [python-broqer](https://github.com/semiversus/python-broqer) | Carefully crafted library to operate with continuous streams of data in a reactive style with publish/subscribe, asyncio support and broker functionality. | semiversus | 63 |
 | 11 |  [haikunatorpy](https://github.com/Atrox/haikunatorpy) | Generate Heroku-like random names to use in your python applications | Atrox | 104 |
 | 12 |  [fastapi_client](https://github.com/dmontagu/fastapi_client) | FastAPI client generator | dmontagu | 154 |
-| 13 |  [aiogram](https://github.com/aiogram/aiogram) | Is a pretty simple and fully asynchronous framework for Telegram Bot API written in Python 3.7 with asyncio and aiohttp. | aiogram | 1609 |
+| 13 |  [aiogram](https://github.com/aiogram/aiogram) | Is a pretty simple and fully asynchronous framework for Telegram Bot API written in Python 3.7 with asyncio and aiohttp. | aiogram | 1610 |
 | 14 |  [python-pyfields](https://github.com/smarie/python-pyfields) | Define fields in python classes. Easily. | smarie | 26 |
 | 15 |  [python-benedict](https://github.com/fabiocaccamo/python-benedict) | dict subclass with keylist/keypath support, I/O shortcuts (base64, csv, json, pickle, plist, query-string, toml, xml, yaml) and many utilities. :blue_book: | fabiocaccamo | 225 |
 | 16 |  [ObjectPath](https://github.com/adriank/ObjectPath) | The agile query language for semi-structured data | adriank | 346 |
@@ -237,9 +237,9 @@
 | 71 |  [BotListBot](https://github.com/JosXa/BotListBot) | Repository of Telegram&#39;s BotListBot | JosXa | 47 |
 | 72 |  [make-stub-files](https://github.com/edreamleo/make-stub-files) | Script and config file that creates python stub (.pyi) files | edreamleo | 24 |
 | 73 |  [logzero](https://github.com/metachris/logzero) | Robust and effective logging for Python 2 and 3. | metachris | 982 |
-| 74 |  [Telethon](https://github.com/LonamiWebs/Telethon) | Pure Python 3 MTProto API Telegram client library, for bots too! | LonamiWebs | 4845 |
+| 74 |  [Telethon](https://github.com/LonamiWebs/Telethon) | Pure Python 3 MTProto API Telegram client library, for bots too! | LonamiWebs | 4846 |
 | 75 |  [fbmq](https://github.com/conbus/fbmq) | (Deprecated) Facebook Messenger Platform Python Library (Facebook Chatbot Library) | conbus | 172 |
-| 76 |  [coconut](https://github.com/evhub/coconut) | Simple, elegant, Pythonic functional programming. | evhub | 3175 |
+| 76 |  [coconut](https://github.com/evhub/coconut) | Simple, elegant, Pythonic functional programming. | evhub | 3176 |
 | 77 |  [sudobot](https://github.com/bvanrijn/sudobot) | run commands on your server via a Telegram bot | bvanrijn | 45 |
 | 78 |  [mogo](https://github.com/joshmarshall/mogo) | A MongoDB object wrapper around PyMongo (for Python) | joshmarshall | 82 |
 | 79 |  [teleGit](https://github.com/HeavenH/teleGit) | Telegram Bot in Python | HeavenH | 21 |
@@ -254,14 +254,14 @@
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
 | 1 |  [tg-bot-api](https://github.com/ark0f/tg-bot-api) | Telegram Bot API parser and generators | ark0f | 14 |
-| 2 |  [vaultwarden](https://github.com/dani-garcia/vaultwarden) | Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs | dani-garcia | 8663 |
+| 2 |  [vaultwarden](https://github.com/dani-garcia/vaultwarden) | Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs | dani-garcia | 8664 |
 
 **[⬆ Back to Index](#-contents)**
 
 ## Shell
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [dokku](https://github.com/dokku/dokku) | A docker-powered PaaS that helps you build and manage the lifecycle of applications | dokku | 21337 |
+| 1 |  [dokku](https://github.com/dokku/dokku) | A docker-powered PaaS that helps you build and manage the lifecycle of applications | dokku | 21338 |
 
 **[⬆ Back to Index](#-contents)**
 
