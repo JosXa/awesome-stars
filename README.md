@@ -58,12 +58,12 @@
 | 19 |  [Tababular](https://github.com/rebus-org/Tababular) | :page_with_curl: Simple monospace text table formatting | rebus-org | 71 |
 | 20 |  [Rebus](https://github.com/rebus-org/Rebus) | :bus: Simple and lean service bus implementation for .NET | rebus-org | 1566 |
 | 21 |  [steal-this-code](https://github.com/appie2go/steal-this-code) | Example implementation of CQRS, Ports &amp; Adapters and Domain Driven Design | appie2go | 52 |
-| 22 |  [tdsharp](https://github.com/egramtel/tdsharp) | C#/.NET Core bindings for TDLib (Telegram MTProto API) | egramtel | 107 |
+| 22 |  [tdsharp](https://github.com/egramtel/tdsharp) | C#/.NET Core bindings for TDLib (Telegram MTProto API) | egramtel | 108 |
 | 23 |  [Telegram.BotAPI](https://github.com/Eptagone/Telegram.BotAPI) | Telegram Bot API NET. One of the most complete libraries available to interact with the Telegram Bot API. | Eptagone | 4 |
 | 24 |  [AppConfiguration-DotnetProvider](https://github.com/Azure/AppConfiguration-DotnetProvider) | The .NET Standard configuration provider for Azure App Configuration | Azure | 31 |
 | 25 |  [GlassTL](https://github.com/GlassTL/GlassTL) | MTProto 2.0 Client in dotnet core | GlassTL | 5 |
 | 26 |  [Dazinator.Extensions.DependencyInjection](https://github.com/dazinator/Dazinator.Extensions.DependencyInjection) | Useful additions to Microsoft.Extensions.DependencyInjection such as Named Services. | dazinator | 19 |
-| 27 |  [spy-spotify](https://github.com/jwallet/spy-spotify) | 🎤 Records Spotify to mp3 without ads and adds media tags to the files 🎵 | jwallet | 983 |
+| 27 |  [spy-spotify](https://github.com/jwallet/spy-spotify) | 🎤 Records Spotify to mp3 without ads and adds media tags to the files 🎵 | jwallet | 982 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -95,8 +95,8 @@
 ## Go
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [porter](https://github.com/porter-dev/porter) | Kubernetes powered PaaS that runs in your own cloud. | porter-dev | 1954 |
-| 2 |  [nomad](https://github.com/hashicorp/nomad) | Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations. | hashicorp | 8464 |
+| 1 |  [porter](https://github.com/porter-dev/porter) | Kubernetes powered PaaS that runs in your own cloud. | porter-dev | 1957 |
+| 2 |  [nomad](https://github.com/hashicorp/nomad) | Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations. | hashicorp | 8463 |
 | 3 |  [gpwm](https://github.com/dasdipanjan04/gpwm) | A go based open source password manager | dasdipanjan04 | 2 |
 | 4 |  [flynn](https://github.com/flynn/flynn) | [UNMAINTAINED] A next generation open source platform as a service (PaaS) | flynn | 7930 |
 
@@ -149,7 +149,7 @@
 | 1 |  [awesome-stars](https://github.com/JosXa/awesome-stars) | A curated list of my GitHub stars by stargazed | JosXa | 1 |
 | 2 |  [AppConfiguration](https://github.com/Azure/AppConfiguration) | Questions, feedback and samples for Azure App Configuration service | Azure | 119 |
 | 3 |  [vscode-remote-try-python](https://github.com/JosXa/vscode-remote-try-python) | Python sample project for trying out the VS Code Remote - Containers extension | JosXa | 1 |
-| 4 |  [app-service-announcements](https://github.com/Azure/app-service-announcements) | Subscribe to this repo to be notified about major changes in App Service | Azure | 387 |
+| 4 |  [app-service-announcements](https://github.com/Azure/app-service-announcements) | Subscribe to this repo to be notified about major changes in App Service | Azure | 386 |
 | 5 |  [Azure-Functions](https://github.com/Azure/Azure-Functions) |  | Azure | 854 |
 
 **[⬆ Back to Index](#-contents)**
@@ -210,8 +210,8 @@
 | 44 |  [datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator) | Pydantic model generator for easy conversion of JSON, OpenAPI, JSON Schema, and YAML data sources. | koxudaxi | 457 |
 | 45 |  [pycollection-pipelines](https://github.com/povilasb/pycollection-pipelines) | Collection pipeline pattern implementation in Python | povilasb | 6 |
 | 46 |  [ensure](https://github.com/kislyuk/ensure) | Validate conditions, Python style. | kislyuk | 130 |
-| 47 |  [loguru](https://github.com/Delgan/loguru) | Python logging made (stupidly) simple | Delgan | 8778 |
-| 48 |  [pyrogram](https://github.com/pyrogram/pyrogram) | Telegram MTProto API Client Library and Framework in Pure Python for Users and Bots | pyrogram | 1745 |
+| 47 |  [loguru](https://github.com/Delgan/loguru) | Python logging made (stupidly) simple | Delgan | 8779 |
+| 48 |  [pyrogram](https://github.com/pyrogram/pyrogram) | Telegram MTProto API Client Library and Framework in Pure Python for Users and Bots | pyrogram | 1747 |
 | 49 |  [dephell](https://github.com/dephell/dephell) | :package: :fire: Python project management. Manage packages: convert between formats, lock, install, resolve, isolate, test, build graph, show outdated, audit. Manage venvs, build package, bump version. | dephell | 1699 |
 | 50 |  [Botkit](https://github.com/autogram/Botkit) | Opinionated, library-agnostic Python framework for rapid development of Telegram bots and userbots with focus on maintainability for large projects. | autogram | 6 |
 | 51 |  [nameof](https://github.com/alexmojaki/nameof) | Python function to get the name of a variable or attribute, as in C# | alexmojaki | 9 |
@@ -237,14 +237,14 @@
 | 71 |  [BotListBot](https://github.com/JosXa/BotListBot) | Repository of Telegram&#39;s BotListBot | JosXa | 47 |
 | 72 |  [make-stub-files](https://github.com/edreamleo/make-stub-files) | Script and config file that creates python stub (.pyi) files | edreamleo | 24 |
 | 73 |  [logzero](https://github.com/metachris/logzero) | Robust and effective logging for Python 2 and 3. | metachris | 982 |
-| 74 |  [Telethon](https://github.com/LonamiWebs/Telethon) | Pure Python 3 MTProto API Telegram client library, for bots too! | LonamiWebs | 4847 |
+| 74 |  [Telethon](https://github.com/LonamiWebs/Telethon) | Pure Python 3 MTProto API Telegram client library, for bots too! | LonamiWebs | 4848 |
 | 75 |  [fbmq](https://github.com/conbus/fbmq) | (Deprecated) Facebook Messenger Platform Python Library (Facebook Chatbot Library) | conbus | 172 |
 | 76 |  [coconut](https://github.com/evhub/coconut) | Simple, elegant, Pythonic functional programming. | evhub | 3175 |
 | 77 |  [sudobot](https://github.com/bvanrijn/sudobot) | run commands on your server via a Telegram bot | bvanrijn | 45 |
 | 78 |  [mogo](https://github.com/joshmarshall/mogo) | A MongoDB object wrapper around PyMongo (for Python) | joshmarshall | 82 |
 | 79 |  [teleGit](https://github.com/HeavenH/teleGit) | Telegram Bot in Python | HeavenH | 21 |
 | 80 |  [python-telegram-handler](https://github.com/sashgorokhov/python-telegram-handler) | A python logging handler that sends logs via Telegram Bot Api. | sashgorokhov | 60 |
-| 81 |  [python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot) | We have made you a wrapper you can&#39;t refuse | python-telegram-bot | 14570 |
+| 81 |  [python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot) | We have made you a wrapper you can&#39;t refuse | python-telegram-bot | 14571 |
 | 82 |  [pymessenger](https://github.com/davidchua/pymessenger) | A Python Wrapper for the FB Messenger Bot API (Send/Receive API) | davidchua | 449 |
 | 83 |  [wundervim](https://github.com/khadiwala/wundervim) | Wunderlist plugin for vim | khadiwala | 4 |
 
@@ -254,7 +254,7 @@
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
 | 1 |  [tg-bot-api](https://github.com/ark0f/tg-bot-api) | Telegram Bot API parser and generators | ark0f | 14 |
-| 2 |  [vaultwarden](https://github.com/dani-garcia/vaultwarden) | Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs | dani-garcia | 8774 |
+| 2 |  [vaultwarden](https://github.com/dani-garcia/vaultwarden) | Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs | dani-garcia | 8775 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -277,7 +277,7 @@
 |---	|---	|---	|---	|---	|
 | 1 |  [WebWindow](https://github.com/SteveSandersonMS/WebWindow) | .NET Core library to open native OS windows containing web UI on Windows, Mac, and Linux. Experimental. | SteveSandersonMS | 1947 |
 | 2 |  [ChannelHashBot](https://github.com/JosXa/ChannelHashBot) |  | JosXa | 1 |
-| 3 |  [vscode](https://github.com/microsoft/vscode) | Visual Studio Code | microsoft | 115341 |
+| 3 |  [vscode](https://github.com/microsoft/vscode) | Visual Studio Code | microsoft | 115339 |
 
 **[⬆ Back to Index](#-contents)**
 
