@@ -56,7 +56,7 @@
 | 17 |  [CppSharp](https://github.com/mono/CppSharp) | Tools and libraries to glue C/C++ APIs to high-level languages | mono | 2075 |
 | 18 |  [ravendb](https://github.com/ravendb/ravendb) | ACID Document Database | ravendb | 2713 |
 | 19 |  [Tababular](https://github.com/rebus-org/Tababular) | :page_with_curl: Simple monospace text table formatting | rebus-org | 71 |
-| 20 |  [Rebus](https://github.com/rebus-org/Rebus) | :bus: Simple and lean service bus implementation for .NET | rebus-org | 1580 |
+| 20 |  [Rebus](https://github.com/rebus-org/Rebus) | :bus: Simple and lean service bus implementation for .NET | rebus-org | 1581 |
 | 21 |  [steal-this-code](https://github.com/appie2go/steal-this-code) | Example implementation of CQRS, Ports &amp; Adapters and Domain Driven Design | appie2go | 54 |
 | 22 |  [tdsharp](https://github.com/egramtel/tdsharp) | C#/.NET Core bindings for TDLib (Telegram MTProto API) | egramtel | 111 |
 | 23 |  [Telegram.BotAPI](https://github.com/Eptagone/Telegram.BotAPI) | Telegram Bot API NET. One of the most complete libraries available to interact with the Telegram Bot API. | Eptagone | 5 |
@@ -96,7 +96,7 @@
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
 | 1 |  [porter](https://github.com/porter-dev/porter) | Kubernetes powered PaaS that runs in your own cloud. | porter-dev | 2261 |
-| 2 |  [nomad](https://github.com/hashicorp/nomad) | Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations. | hashicorp | 8542 |
+| 2 |  [nomad](https://github.com/hashicorp/nomad) | Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations. | hashicorp | 8541 |
 | 3 |  [gpwm](https://github.com/dasdipanjan04/gpwm) | A go based open source password manager | dasdipanjan04 | 2 |
 | 4 |  [flynn](https://github.com/flynn/flynn) | [UNMAINTAINED] A next generation open source platform as a service (PaaS) | flynn | 7931 |
 
@@ -165,14 +165,14 @@
 ## Python
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [piku](https://github.com/piku/piku) | The tiniest PaaS you&#39;ve ever seen. Piku allows you to do git push deployments to your own servers. | piku | 1233 |
+| 1 |  [piku](https://github.com/piku/piku) | The tiniest PaaS you&#39;ve ever seen. Piku allows you to do git push deployments to your own servers. | piku | 1234 |
 | 2 |  [lstm_text_generator](https://github.com/Bakuutin/lstm_text_generator) | Neural network powered telegram bot | Bakuutin | 10 |
 | 3 |  [spotify_userbot](https://github.com/meanii/spotify_userbot) | This userbot updates the biography of a telegram user according to their current spotify playback. | meanii | 2 |
 | 4 |  [copier](https://github.com/copier-org/copier) | Library and command-line utility for rendering projects templates. | copier-org | 338 |
 | 5 |  [injector](https://github.com/alecthomas/injector) | Python dependency injection framework, inspired by Guice | alecthomas | 672 |
 | 6 |  [aop](https://github.com/orsinium-labs/aop) | Aspect oriented programming for Python. Patch everything! | orsinium-labs | 7 |
 | 7 |  [deal](https://github.com/life4/deal) | Design by contract for Python with static checker and tests&#39; generation. | life4 | 187 |
-| 8 |  [textdistance](https://github.com/life4/textdistance) | Compute distance between sequences. 30+ algorithms, pure python implementation, common interface, optional external libs usage. | life4 | 1975 |
+| 8 |  [textdistance](https://github.com/life4/textdistance) | Compute distance between sequences. 30+ algorithms, pure python implementation, common interface, optional external libs usage. | life4 | 1976 |
 | 9 |  [cachetools](https://github.com/tkem/cachetools) | Extensible memoizing collections and decorators | tkem | 974 |
 | 10 |  [python-broqer](https://github.com/semiversus/python-broqer) | Carefully crafted library to operate with continuous streams of data in a reactive style with publish/subscribe, asyncio support and broker functionality. | semiversus | 64 |
 | 11 |  [haikunatorpy](https://github.com/Atrox/haikunatorpy) | Generate Heroku-like random names to use in your python applications | Atrox | 104 |
@@ -211,7 +211,7 @@
 | 44 |  [datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator) | Pydantic model generator for easy conversion of JSON, OpenAPI, JSON Schema, and YAML data sources. | koxudaxi | 483 |
 | 45 |  [pycollection-pipelines](https://github.com/povilasb/pycollection-pipelines) | Collection pipeline pattern implementation in Python | povilasb | 6 |
 | 46 |  [ensure](https://github.com/kislyuk/ensure) | Validate conditions, Python style. | kislyuk | 130 |
-| 47 |  [loguru](https://github.com/Delgan/loguru) | Python logging made (stupidly) simple | Delgan | 8925 |
+| 47 |  [loguru](https://github.com/Delgan/loguru) | Python logging made (stupidly) simple | Delgan | 8926 |
 | 48 |  [pyrogram](https://github.com/pyrogram/pyrogram) | Telegram MTProto API Client Library and Framework in Pure Python for Users and Bots | pyrogram | 1776 |
 | 49 |  [dephell](https://github.com/dephell/dephell) | :package: :fire: Python project management. Manage packages: convert between formats, lock, install, resolve, isolate, test, build graph, show outdated, audit. Manage venvs, build package, bump version. | dephell | 1709 |
 | 50 |  [Botkit](https://github.com/autogram/Botkit) | Opinionated, library-agnostic Python framework for rapid development of Telegram bots and userbots with focus on maintainability for large projects. | autogram | 7 |
