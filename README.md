@@ -46,7 +46,7 @@
 | 6 |  [Netjs](https://github.com/praeclarum/Netjs) | Compile .NET assemblies to TypeScript and JavaScript | praeclarum | 895 |
 | 7 |  [Ensure.That](https://github.com/danielwertheim/Ensure.That) | Guard clause project for .NET | danielwertheim | 320 |
 | 8 |  [rxns](https://github.com/captainjono/rxns) | Fullstack micro-actor-services for Rx | captainjono | 14 |
-| 9 |  [reactive](https://github.com/dotnet/reactive) | The Reactive Extensions for .NET | dotnet | 5008 |
+| 9 |  [reactive](https://github.com/dotnet/reactive) | The Reactive Extensions for .NET | dotnet | 5009 |
 | 10 |  [templating](https://github.com/dotnet/templating) | This repo contains the Template Engine which is used by dotnet new | dotnet | 1034 |
 | 11 |  [GtkSharp](https://github.com/GtkSharp/GtkSharp) | .NET wrapper for Gtk and other related libraries | GtkSharp | 499 |
 | 12 |  [egram.tel](https://github.com/egramtel/egram.tel) | Crossplatform Telegram client | egramtel | 314 |
@@ -55,7 +55,7 @@
 | 15 |  [linq2db](https://github.com/linq2db/linq2db) | Linq to database provider. | linq2db | 2089 |
 | 16 |  [Warewolf](https://github.com/Warewolf-ESB/Warewolf) | Effortless Microservice Design and Integration. This repository includes the code-base for the Warewolf Studio and Server. | Warewolf-ESB | 242 |
 | 17 |  [CppSharp](https://github.com/mono/CppSharp) | Tools and libraries to glue C/C++ APIs to high-level languages | mono | 2111 |
-| 18 |  [ravendb](https://github.com/ravendb/ravendb) | ACID Document Database | ravendb | 2758 |
+| 18 |  [ravendb](https://github.com/ravendb/ravendb) | ACID Document Database | ravendb | 2759 |
 | 19 |  [Tababular](https://github.com/rebus-org/Tababular) | :page_with_curl: Simple monospace text table formatting | rebus-org | 72 |
 | 20 |  [Rebus](https://github.com/rebus-org/Rebus) | :bus: Simple and lean service bus implementation for .NET | rebus-org | 1627 |
 | 21 |  [steal-this-code](https://github.com/appie2go/steal-this-code) | Example implementation of CQRS, Ports &amp; Adapters and Domain Driven Design | appie2go | 57 |
@@ -72,7 +72,7 @@
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
 | 1 |  [tdlight-telegram-bot-api](https://github.com/JosXa/tdlight-telegram-bot-api) | The Telegram Bot API provides an HTTP API for creating Telegram Bots. | JosXa | 1 |
-| 2 |  [telegram-bot-api](https://github.com/tdlib/telegram-bot-api) | Telegram Bot API server | tdlib | 1114 |
+| 2 |  [telegram-bot-api](https://github.com/tdlib/telegram-bot-api) | Telegram Bot API server | tdlib | 1115 |
 | 3 |  [tdlight-telegram-bot-api](https://github.com/tdlight-team/tdlight-telegram-bot-api) | The TDLight Telegram API is an actively enhanced fork of the original Bot API, featuring experimental user support, proxies, unlimited files size, and more. | tdlight-team | 44 |
 | 4 |  [tdesktop](https://github.com/telegramdesktop/tdesktop) | Telegram Desktop messaging app | telegramdesktop | 15979 |
 | 5 |  [krunner-symbols](https://github.com/domschrei/krunner-symbols) | A lightweight KRunner plugin (Plasma 5) to retrieve unicode symbols, or any other string, based on a corresponding keyword. | domschrei | 81 |
@@ -133,7 +133,7 @@
 | 2 |  [composerize](https://github.com/magicmark/composerize) | 🏃→🎼  docker run asdlksjfksdf &amp;gt; docker-composerize up | magicmark | 1005 |
 | 3 |  [fork-sync](https://github.com/tgymnich/fork-sync) | 🔄 Github action to sync your forks | tgymnich | 131 |
 | 4 |  [quote-bot](https://github.com/LyoSU/quote-bot) | Telegram quote bot | LyoSU | 107 |
-| 5 |  [node-telegram-bot-api](https://github.com/yagop/node-telegram-bot-api) | Telegram Bot API for NodeJS | yagop | 5412 |
+| 5 |  [node-telegram-bot-api](https://github.com/yagop/node-telegram-bot-api) | Telegram Bot API for NodeJS | yagop | 5413 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -202,7 +202,7 @@
 | 33 |  [pydantic-odm](https://github.com/i8enn/pydantic-odm) | Small async ODM for MongoDB based in Motor and Pydantic library | i8enn | 39 |
 | 34 |  [returns](https://github.com/dry-python/returns) | Make your functions return something meaningful, typed, and safe! | dry-python | 1759 |
 | 35 |  [pymaybe](https://github.com/ekampf/pymaybe) | A Python implementation of the Maybe pattern | ekampf | 174 |
-| 36 |  [poetry](https://github.com/python-poetry/poetry) | Python dependency management and packaging made easy. | python-poetry | 15643 |
+| 36 |  [poetry](https://github.com/python-poetry/poetry) | Python dependency management and packaging made easy. | python-poetry | 15644 |
 | 37 |  [pipenv](https://github.com/pypa/pipenv) | Python Development Workflow for Humans. | pypa | 22085 |
 | 38 |  [KanTeX](https://github.com/kantek/KanTeX) |  | kantek | 7 |
 | 39 |  [ticktick-python](https://github.com/glasslion/ticktick-python) |  | glasslion | 10 |
@@ -281,7 +281,7 @@
 |---	|---	|---	|---	|---	|
 | 1 |  [WebWindow](https://github.com/SteveSandersonMS/WebWindow) | .NET Core library to open native OS windows containing web UI on Windows, Mac, and Linux. Experimental. | SteveSandersonMS | 1959 |
 | 2 |  [ChannelHashBot](https://github.com/JosXa/ChannelHashBot) |  | JosXa | 1 |
-| 3 |  [vscode](https://github.com/microsoft/vscode) | Visual Studio Code | microsoft | 118665 |
+| 3 |  [vscode](https://github.com/microsoft/vscode) | Visual Studio Code | microsoft | 118666 |
 
 **[⬆ Back to Index](#-contents)**
 
