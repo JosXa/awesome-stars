@@ -121,7 +121,7 @@
 ## Java
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [OpenSearch](https://github.com/opensearch-project/OpenSearch) | Open source distributed and RESTful search engine. | opensearch-project | 3261 |
+| 1 |  [OpenSearch](https://github.com/opensearch-project/OpenSearch) | Open source distributed and RESTful search engine. | opensearch-project | 3263 |
 | 2 |  [mypy-pycharm](https://github.com/leinardi/mypy-pycharm) | A plugin providing both real-time and on-demand scanning of Python files with Mypy from within PyCharm/IDEA. | leinardi | 104 |
 | 3 |  [black-pycharm](https://github.com/pablogsal/black-pycharm) | Pycharm plugin for https://github.com/ambv/black | pablogsal | 29 |
 
@@ -149,7 +149,7 @@
 ## Others
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [awesome-developer-experience](https://github.com/workos-inc/awesome-developer-experience) | 🤘 A curated list of DX (Developer Experience) resources | workos-inc | 515 |
+| 1 |  [awesome-developer-experience](https://github.com/workos-inc/awesome-developer-experience) | 🤘 A curated list of DX (Developer Experience) resources | workos-inc | 516 |
 | 2 |  [reference](https://github.com/Randy8080/reference) | Share quick reference cheat sheet for developers. | Randy8080 | 121 |
 | 3 |  [awesome-stars](https://github.com/JosXa/awesome-stars) | A curated list of my GitHub stars by stargazed | JosXa | 1 |
 | 4 |  [AppConfiguration](https://github.com/Azure/AppConfiguration) | Questions, feedback and samples for Azure App Configuration service | Azure | 129 |
@@ -243,7 +243,7 @@
 | 72 |  [BotListBot](https://github.com/JosXa/BotListBot) | Repository of Telegram&#39;s BotListBot | JosXa | 52 |
 | 73 |  [make-stub-files](https://github.com/edreamleo/make-stub-files) | Script and config file that creates python stub (.pyi) files | edreamleo | 27 |
 | 74 |  [logzero](https://github.com/metachris/logzero) | Robust and effective logging for Python 2 and 3. | metachris | 991 |
-| 75 |  [Telethon](https://github.com/LonamiWebs/Telethon) | Pure Python 3 MTProto API Telegram client library, for bots too! | LonamiWebs | 5141 |
+| 75 |  [Telethon](https://github.com/LonamiWebs/Telethon) | Pure Python 3 MTProto API Telegram client library, for bots too! | LonamiWebs | 5140 |
 | 76 |  [fbmq](https://github.com/conbus/fbmq) | (Deprecated) Facebook Messenger Platform Python Library (Facebook Chatbot Library) | conbus | 171 |
 | 77 |  [coconut](https://github.com/evhub/coconut) | Simple, elegant, Pythonic functional programming. | evhub | 3249 |
 | 78 |  [sudobot](https://github.com/bvanrijn/sudobot) | run commands on your server via a Telegram bot | bvanrijn | 45 |
@@ -260,7 +260,7 @@
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
 | 1 |  [tg-bot-api](https://github.com/ark0f/tg-bot-api) | Telegram Bot API parser and generators | ark0f | 21 |
-| 2 |  [vaultwarden](https://github.com/dani-garcia/vaultwarden) | Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs | dani-garcia | 9865 |
+| 2 |  [vaultwarden](https://github.com/dani-garcia/vaultwarden) | Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs | dani-garcia | 9867 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -297,7 +297,7 @@
 ## Vue
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [nocodb](https://github.com/nocodb/nocodb) | 🔥 🔥  The Open Source Airtable alternative. | nocodb | 13651 |
+| 1 |  [nocodb](https://github.com/nocodb/nocodb) | 🔥 🔥  The Open Source Airtable alternative. | nocodb | 13655 |
 
 **[⬆ Back to Index](#-contents)**
 
