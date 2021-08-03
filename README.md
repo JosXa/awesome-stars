@@ -74,7 +74,7 @@
 | 1 |  [tdlight-telegram-bot-api](https://github.com/JosXa/tdlight-telegram-bot-api) | The Telegram Bot API provides an HTTP API for creating Telegram Bots. | JosXa | 1 |
 | 2 |  [telegram-bot-api](https://github.com/tdlib/telegram-bot-api) | Telegram Bot API server | tdlib | 1149 |
 | 3 |  [tdlight-telegram-bot-api](https://github.com/tdlight-team/tdlight-telegram-bot-api) | The TDLight Telegram API is an actively enhanced fork of the original Bot API, featuring experimental user support, proxies, unlimited files size, and more. | tdlight-team | 45 |
-| 4 |  [tdesktop](https://github.com/telegramdesktop/tdesktop) | Telegram Desktop messaging app | telegramdesktop | 16380 |
+| 4 |  [tdesktop](https://github.com/telegramdesktop/tdesktop) | Telegram Desktop messaging app | telegramdesktop | 16382 |
 | 5 |  [krunner-symbols](https://github.com/domschrei/krunner-symbols) | A lightweight KRunner plugin (Plasma 5) to retrieve unicode symbols, or any other string, based on a corresponding keyword. | domschrei | 81 |
 
 **[⬆ Back to Index](#-contents)**
@@ -149,8 +149,8 @@
 ## Others
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [awesome-developer-experience](https://github.com/workos-inc/awesome-developer-experience) | 🤘 A curated list of DX (Developer Experience) resources | workos-inc | 796 |
-| 2 |  [reference](https://github.com/Randy8080/reference) | Share quick reference cheat sheet for developers. | Randy8080 | 131 |
+| 1 |  [awesome-developer-experience](https://github.com/workos-inc/awesome-developer-experience) | 🤘 A curated list of DX (Developer Experience) resources | workos-inc | 797 |
+| 2 |  [reference](https://github.com/Randy8080/reference) | Share quick reference cheat sheet for developers. | Randy8080 | 132 |
 | 3 |  [awesome-stars](https://github.com/JosXa/awesome-stars) | A curated list of my GitHub stars by stargazed | JosXa | 1 |
 | 4 |  [AppConfiguration](https://github.com/Azure/AppConfiguration) | Questions, feedback and samples for Azure App Configuration service | Azure | 131 |
 | 5 |  [vscode-remote-try-python](https://github.com/JosXa/vscode-remote-try-python) | Python sample project for trying out the VS Code Remote - Containers extension | JosXa | 1 |
@@ -182,7 +182,7 @@
 | 11 |  [python-broqer](https://github.com/semiversus/python-broqer) | Carefully crafted library to operate with continuous streams of data in a reactive style with publish/subscribe, asyncio support and broker functionality. | semiversus | 64 |
 | 12 |  [haikunatorpy](https://github.com/Atrox/haikunatorpy) | Generate Heroku-like random names to use in your python applications | Atrox | 105 |
 | 13 |  [fastapi_client](https://github.com/dmontagu/fastapi_client) | FastAPI client generator | dmontagu | 183 |
-| 14 |  [aiogram](https://github.com/aiogram/aiogram) | Is a pretty simple and fully asynchronous framework for Telegram Bot API written in Python 3.7 with asyncio and aiohttp. | aiogram | 1831 |
+| 14 |  [aiogram](https://github.com/aiogram/aiogram) | Is a pretty simple and fully asynchronous framework for Telegram Bot API written in Python 3.7 with asyncio and aiohttp. | aiogram | 1832 |
 | 15 |  [python-pyfields](https://github.com/smarie/python-pyfields) | Define fields in python classes. Easily. | smarie | 27 |
 | 16 |  [python-benedict](https://github.com/fabiocaccamo/python-benedict) | dict subclass with keylist/keypath support, normalized I/O operations (base64, csv, ini, json, pickle, plist, query-string, toml, xml, yaml) and many utilities. :blue_book: | fabiocaccamo | 258 |
 | 17 |  [ObjectPath](https://github.com/adriank/ObjectPath) | The agile query language for semi-structured data | adriank | 350 |
@@ -243,7 +243,7 @@
 | 72 |  [BotListBot](https://github.com/JosXa/BotListBot) | Repository of Telegram&#39;s BotListBot | JosXa | 52 |
 | 73 |  [make-stub-files](https://github.com/edreamleo/make-stub-files) | Script and config file that creates python stub (.pyi) files | edreamleo | 27 |
 | 74 |  [logzero](https://github.com/metachris/logzero) | Robust and effective logging for Python 2 and 3. | metachris | 992 |
-| 75 |  [Telethon](https://github.com/LonamiWebs/Telethon) | Pure Python 3 MTProto API Telegram client library, for bots too! | LonamiWebs | 5199 |
+| 75 |  [Telethon](https://github.com/LonamiWebs/Telethon) | Pure Python 3 MTProto API Telegram client library, for bots too! | LonamiWebs | 5201 |
 | 76 |  [fbmq](https://github.com/conbus/fbmq) | (Deprecated) Facebook Messenger Platform Python Library (Facebook Chatbot Library) | conbus | 171 |
 | 77 |  [coconut](https://github.com/evhub/coconut) | Simple, elegant, Pythonic functional programming. | evhub | 3254 |
 | 78 |  [sudobot](https://github.com/bvanrijn/sudobot) | run commands on your server via a Telegram bot | bvanrijn | 45 |
@@ -260,7 +260,7 @@
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
 | 1 |  [tg-bot-api](https://github.com/ark0f/tg-bot-api) | Telegram Bot API parser and generators | ark0f | 21 |
-| 2 |  [vaultwarden](https://github.com/dani-garcia/vaultwarden) | Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs | dani-garcia | 10088 |
+| 2 |  [vaultwarden](https://github.com/dani-garcia/vaultwarden) | Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs | dani-garcia | 10089 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -283,7 +283,7 @@
 |---	|---	|---	|---	|---	|
 | 1 |  [WebWindow](https://github.com/SteveSandersonMS/WebWindow) | .NET Core library to open native OS windows containing web UI on Windows, Mac, and Linux. Experimental. | SteveSandersonMS | 1957 |
 | 2 |  [ChannelHashBot](https://github.com/JosXa/ChannelHashBot) |  | JosXa | 1 |
-| 3 |  [vscode](https://github.com/microsoft/vscode) | Visual Studio Code | microsoft | 119450 |
+| 3 |  [vscode](https://github.com/microsoft/vscode) | Visual Studio Code | microsoft | 119454 |
 
 **[⬆ Back to Index](#-contents)**
 
