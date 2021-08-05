@@ -55,7 +55,7 @@
 | 15 |  [linq2db](https://github.com/linq2db/linq2db) | Linq to database provider. | linq2db | 2091 |
 | 16 |  [Warewolf](https://github.com/Warewolf-ESB/Warewolf) | Effortless Microservice Design and Integration. This repository includes the code-base for the Warewolf Studio and Server. | Warewolf-ESB | 244 |
 | 17 |  [CppSharp](https://github.com/mono/CppSharp) | Tools and libraries to glue C/C++ APIs to high-level languages | mono | 2121 |
-| 18 |  [ravendb](https://github.com/ravendb/ravendb) | ACID Document Database | ravendb | 2773 |
+| 18 |  [ravendb](https://github.com/ravendb/ravendb) | ACID Document Database | ravendb | 2775 |
 | 19 |  [Tababular](https://github.com/rebus-org/Tababular) | :page_with_curl: Simple monospace text table formatting | rebus-org | 72 |
 | 20 |  [Rebus](https://github.com/rebus-org/Rebus) | :bus: Simple and lean service bus implementation for .NET | rebus-org | 1644 |
 | 21 |  [steal-this-code](https://github.com/appie2go/steal-this-code) | Example implementation of CQRS, Ports &amp; Adapters and Domain Driven Design | appie2go | 59 |
@@ -134,7 +134,7 @@
 | 2 |  [composerize](https://github.com/magicmark/composerize) | 🏃→🎼  docker run asdlksjfksdf &amp;gt; docker-composerize up | magicmark | 1023 |
 | 3 |  [fork-sync](https://github.com/tgymnich/fork-sync) | 🔄 Github action to sync your forks | tgymnich | 136 |
 | 4 |  [quote-bot](https://github.com/LyoSU/quote-bot) | Telegram quote bot | LyoSU | 110 |
-| 5 |  [node-telegram-bot-api](https://github.com/yagop/node-telegram-bot-api) | Telegram Bot API for NodeJS | yagop | 5471 |
+| 5 |  [node-telegram-bot-api](https://github.com/yagop/node-telegram-bot-api) | Telegram Bot API for NodeJS | yagop | 5472 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -150,7 +150,7 @@
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
 | 1 |  [awesome-developer-experience](https://github.com/workos-inc/awesome-developer-experience) | 🤘 A curated list of DX (Developer Experience) resources | workos-inc | 811 |
-| 2 |  [reference](https://github.com/Randy8080/reference) | Share quick reference cheat sheet for developers. | Randy8080 | 133 |
+| 2 |  [reference](https://github.com/Randy8080/reference) | Share quick reference cheat sheet for developers. | Randy8080 | 134 |
 | 3 |  [awesome-stars](https://github.com/JosXa/awesome-stars) | A curated list of my GitHub stars by stargazed | JosXa | 1 |
 | 4 |  [AppConfiguration](https://github.com/Azure/AppConfiguration) | Questions, feedback and samples for Azure App Configuration service | Azure | 131 |
 | 5 |  [vscode-remote-try-python](https://github.com/JosXa/vscode-remote-try-python) | Python sample project for trying out the VS Code Remote - Containers extension | JosXa | 1 |
@@ -216,7 +216,7 @@
 | 45 |  [datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator) | Pydantic model generator for easy conversion of JSON, OpenAPI, JSON Schema, and YAML data sources. | koxudaxi | 553 |
 | 46 |  [pycollection-pipelines](https://github.com/povilasb/pycollection-pipelines) | Collection pipeline pattern implementation in Python | povilasb | 8 |
 | 47 |  [ensure](https://github.com/kislyuk/ensure) | Validate conditions, Python style. | kislyuk | 131 |
-| 48 |  [loguru](https://github.com/Delgan/loguru) | Python logging made (stupidly) simple | Delgan | 9445 |
+| 48 |  [loguru](https://github.com/Delgan/loguru) | Python logging made (stupidly) simple | Delgan | 9446 |
 | 49 |  [pyrogram](https://github.com/pyrogram/pyrogram) | Telegram MTProto API Client Library and Framework in Pure Python for Users and Bots | pyrogram | 1928 |
 | 50 |  [dephell](https://github.com/dephell/dephell) | :package: :fire: Python project management. Manage packages: convert between formats, lock, install, resolve, isolate, test, build graph, show outdated, audit. Manage venvs, build package, bump version. | dephell | 1721 |
 | 51 |  [Botkit](https://github.com/autogram/Botkit) | Opinionated, library-agnostic Python framework for rapid development of Telegram bots and userbots with focus on maintainability for large projects. | autogram | 6 |
@@ -297,7 +297,7 @@
 ## Vue
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [nocodb](https://github.com/nocodb/nocodb) | 🔥 🔥  The Open Source Airtable alternative  - Powered by Vue.js 🚀 🚀 | nocodb | 15936 |
+| 1 |  [nocodb](https://github.com/nocodb/nocodb) | 🔥 🔥  The Open Source Airtable alternative  - Powered by Vue.js 🚀 🚀 | nocodb | 15937 |
 
 **[⬆ Back to Index](#-contents)**
 
