@@ -38,11 +38,11 @@
 ## C#
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [StyleCopAnalyzers](https://github.com/DotNetAnalyzers/StyleCopAnalyzers) | An implementation of StyleCop rules using the .NET Compiler Platform | DotNetAnalyzers | 1916 |
+| 1 |  [StyleCopAnalyzers](https://github.com/DotNetAnalyzers/StyleCopAnalyzers) | An implementation of StyleCop rules using the .NET Compiler Platform | DotNetAnalyzers | 1917 |
 | 2 |  [eShopOnDapr](https://github.com/dotnet-architecture/eShopOnDapr) | A sample .NET Core distributed application based on eShopOnContainers, powered by Dapr. | dotnet-architecture | 687 |
 | 3 |  [tye](https://github.com/dotnet/tye) | Tye is a tool that makes developing, testing, and deploying microservices and distributed applications easier. Project Tye includes a local orchestrator to make developing microservices easier and the ability to deploy microservices to Kubernetes with minimal configuration. | dotnet | 3677 |
 | 4 |  [print-it](https://github.com/huysentruitw/print-it) | Windows service for printing PDF files to a local or network printer in the background | huysentruitw | 16 |
-| 5 |  [Sprache](https://github.com/sprache/Sprache) | A tiny, friendly, C# parser construction library | sprache | 1812 |
+| 5 |  [Sprache](https://github.com/sprache/Sprache) | A tiny, friendly, C# parser construction library | sprache | 1813 |
 | 6 |  [MediatRedux](https://github.com/sstorie/MediatRedux) | An implementation of the Redux pattern in .NET using MediatR to provide strongly typed reducers | sstorie | 16 |
 | 7 |  [MediatR](https://github.com/jbogard/MediatR) | Simple, unambitious mediator implementation in .NET | jbogard | 6767 |
 | 8 |  [nuke](https://github.com/nuke-build/nuke) | 🏗 The AKEless Build System for C#/.NET | nuke-build | 1259 |
@@ -172,7 +172,7 @@
 ## Python
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs | public-apis | 148474 |
+| 1 |  [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs | public-apis | 148496 |
 | 2 |  [UserLixo](https://github.com/AmanoTeam/UserLixo) | Userbot for Telegram with many functions. | AmanoTeam | 44 |
 | 3 |  [hopscotch](https://github.com/pauleveritt/hopscotch) | Type-oriented registry with dependency injection. | pauleveritt | 1 |
 | 4 |  [piku](https://github.com/piku/piku) | The tiniest PaaS you&#39;ve ever seen. Piku allows you to do git push deployments to your own servers. | piku | 1326 |
@@ -205,9 +205,9 @@
 | 31 |  [injectable](https://github.com/allrod5/injectable) | Dependency Injection for Humans™ | allrod5 | 55 |
 | 32 |  [quantiphy](https://github.com/KenKundert/quantiphy) | Physical quantities | KenKundert | 37 |
 | 33 |  [extended_pathlib](https://github.com/KenKundert/extended_pathlib) | Extensions to stdlib pathlib | KenKundert | 2 |
-| 34 |  [odmantic](https://github.com/art049/odmantic) | Async ODM (Object Document Mapper) for MongoDB based on python type hints | art049 | 356 |
+| 34 |  [odmantic](https://github.com/art049/odmantic) | Async ODM (Object Document Mapper) for MongoDB based on python type hints | art049 | 357 |
 | 35 |  [pydantic-odm](https://github.com/i8enn/pydantic-odm) | Small async ODM for MongoDB based in Motor and Pydantic library | i8enn | 39 |
-| 36 |  [returns](https://github.com/dry-python/returns) | Make your functions return something meaningful, typed, and safe! | dry-python | 1806 |
+| 36 |  [returns](https://github.com/dry-python/returns) | Make your functions return something meaningful, typed, and safe! | dry-python | 1807 |
 | 37 |  [pymaybe](https://github.com/ekampf/pymaybe) | A Python implementation of the Maybe pattern | ekampf | 175 |
 | 38 |  [poetry](https://github.com/python-poetry/poetry) | Python dependency management and packaging made easy. | python-poetry | 15961 |
 | 39 |  [pipenv](https://github.com/pypa/pipenv) | Python Development Workflow for Humans. | pypa | 22179 |
@@ -265,14 +265,14 @@
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
 | 1 |  [tg-bot-api](https://github.com/ark0f/tg-bot-api) | Telegram Bot API parser and generators | ark0f | 23 |
-| 2 |  [vaultwarden](https://github.com/dani-garcia/vaultwarden) | Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs | dani-garcia | 10342 |
+| 2 |  [vaultwarden](https://github.com/dani-garcia/vaultwarden) | Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs | dani-garcia | 10345 |
 
 **[⬆ Back to Index](#-contents)**
 
 ## Shell
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [dokku](https://github.com/dokku/dokku) | A docker-powered PaaS that helps you build and manage the lifecycle of applications | dokku | 21741 |
+| 1 |  [dokku](https://github.com/dokku/dokku) | A docker-powered PaaS that helps you build and manage the lifecycle of applications | dokku | 21742 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -286,10 +286,10 @@
 ## TypeScript
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [code-server](https://github.com/cdr/code-server) | VS Code in the browser | cdr | 47168 |
+| 1 |  [code-server](https://github.com/cdr/code-server) | VS Code in the browser | cdr | 47167 |
 | 2 |  [WebWindow](https://github.com/SteveSandersonMS/WebWindow) | .NET Core library to open native OS windows containing web UI on Windows, Mac, and Linux. Experimental. | SteveSandersonMS | 1963 |
 | 3 |  [ChannelHashBot](https://github.com/JosXa/ChannelHashBot) |  | JosXa | 1 |
-| 4 |  [vscode](https://github.com/microsoft/vscode) | Visual Studio Code | microsoft | 120091 |
+| 4 |  [vscode](https://github.com/microsoft/vscode) | Visual Studio Code | microsoft | 120092 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -303,7 +303,7 @@
 ## Vue
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [nocodb](https://github.com/nocodb/nocodb) | 🔥 🔥  The Open Source Airtable alternative  - Powered by Vue.js 🚀 🚀 | nocodb | 16667 |
+| 1 |  [nocodb](https://github.com/nocodb/nocodb) | 🔥 🔥  The Open Source Airtable alternative  - Powered by Vue.js 🚀 🚀 | nocodb | 16670 |
 
 **[⬆ Back to Index](#-contents)**
 
