@@ -158,7 +158,7 @@
 | 3 |  [awesome-stars](https://github.com/JosXa/awesome-stars) | A curated list of my GitHub stars by stargazed | JosXa | 1 |
 | 4 |  [AppConfiguration](https://github.com/Azure/AppConfiguration) | Questions, feedback and samples for Azure App Configuration service | Azure | 135 |
 | 5 |  [vscode-remote-try-python](https://github.com/JosXa/vscode-remote-try-python) | Python sample project for trying out the VS Code Remote - Containers extension | JosXa | 1 |
-| 6 |  [app-service-announcements](https://github.com/Azure/app-service-announcements) | Subscribe to this repo to be notified about major changes in App Service | Azure | 392 |
+| 6 |  [app-service-announcements](https://github.com/Azure/app-service-announcements) | Subscribe to this repo to be notified about major changes in App Service | Azure | 394 |
 | 7 |  [Azure-Functions](https://github.com/Azure/Azure-Functions) |  | Azure | 877 |
 
 **[⬆ Back to Index](#-contents)**
@@ -173,7 +173,7 @@
 ## Python
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs | public-apis | 150248 |
+| 1 |  [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs | public-apis | 150253 |
 | 2 |  [UserLixo](https://github.com/AmanoTeam/UserLixo) | Userbot for Telegram with many functions. | AmanoTeam | 44 |
 | 3 |  [hopscotch](https://github.com/pauleveritt/hopscotch) | Type-oriented registry with dependency injection. | pauleveritt | 1 |
 | 4 |  [piku](https://github.com/piku/piku) | The tiniest PaaS you&#39;ve ever seen. Piku allows you to do git push deployments to your own servers. | piku | 1385 |
@@ -208,9 +208,9 @@
 | 33 |  [extended_pathlib](https://github.com/KenKundert/extended_pathlib) | Extensions to stdlib pathlib | KenKundert | 2 |
 | 34 |  [odmantic](https://github.com/art049/odmantic) | Async ODM (Object Document Mapper) for MongoDB based on python type hints | art049 | 360 |
 | 35 |  [pydantic-odm](https://github.com/i8enn/pydantic-odm) | Small async ODM for MongoDB based in Motor and Pydantic library | i8enn | 39 |
-| 36 |  [returns](https://github.com/dry-python/returns) | Make your functions return something meaningful, typed, and safe! | dry-python | 1818 |
+| 36 |  [returns](https://github.com/dry-python/returns) | Make your functions return something meaningful, typed, and safe! | dry-python | 1819 |
 | 37 |  [pymaybe](https://github.com/ekampf/pymaybe) | A Python implementation of the Maybe pattern | ekampf | 175 |
-| 38 |  [poetry](https://github.com/python-poetry/poetry) | Python dependency management and packaging made easy. | python-poetry | 16009 |
+| 38 |  [poetry](https://github.com/python-poetry/poetry) | Python dependency management and packaging made easy. | python-poetry | 16010 |
 | 39 |  [pipenv](https://github.com/pypa/pipenv) | Python Development Workflow for Humans. | pypa | 22193 |
 | 40 |  [KanTeX](https://github.com/kantek/KanTeX) |  | kantek | 7 |
 | 41 |  [ticktick-python](https://github.com/glasslion/ticktick-python) |  | glasslion | 11 |
@@ -288,10 +288,10 @@
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
 | 1 |  [autorest](https://github.com/Azure/autorest) | OpenAPI (f.k.a Swagger) Specification code generator. Supports C#, PowerShell, Go, Java, Node.js, TypeScript, Python, Ruby | Azure | 3492 |
-| 2 |  [code-server](https://github.com/cdr/code-server) | VS Code in the browser | cdr | 47287 |
+| 2 |  [code-server](https://github.com/cdr/code-server) | VS Code in the browser | cdr | 47288 |
 | 3 |  [WebWindow](https://github.com/SteveSandersonMS/WebWindow) | .NET Core library to open native OS windows containing web UI on Windows, Mac, and Linux. Experimental. | SteveSandersonMS | 1965 |
 | 4 |  [ChannelHashBot](https://github.com/JosXa/ChannelHashBot) |  | JosXa | 1 |
-| 5 |  [vscode](https://github.com/microsoft/vscode) | Visual Studio Code | microsoft | 120322 |
+| 5 |  [vscode](https://github.com/microsoft/vscode) | Visual Studio Code | microsoft | 120323 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -305,7 +305,7 @@
 ## Vue
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [nocodb](https://github.com/nocodb/nocodb) | 🔥 🔥  The Open Source Airtable alternative  - Powered by Vue.js 🚀 🚀 | nocodb | 16777 |
+| 1 |  [nocodb](https://github.com/nocodb/nocodb) | 🔥 🔥  The Open Source Airtable alternative  - Powered by Vue.js 🚀 🚀 | nocodb | 16778 |
 
 **[⬆ Back to Index](#-contents)**
 
