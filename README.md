@@ -174,7 +174,7 @@
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
 | 1 |  [eventsourcing](https://github.com/johnbywater/eventsourcing) | A library for event sourcing in Python. | johnbywater | 882 |
-| 2 |  [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs | public-apis | 152328 |
+| 2 |  [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs | public-apis | 152333 |
 | 3 |  [UserLixo](https://github.com/AmanoTeam/UserLixo) | Userbot for Telegram with many functions. | AmanoTeam | 44 |
 | 4 |  [hopscotch](https://github.com/pauleveritt/hopscotch) | Type-oriented registry with dependency injection. | pauleveritt | 1 |
 | 5 |  [piku](https://github.com/piku/piku) | The tiniest PaaS you&#39;ve ever seen. Piku allows you to do git push deployments to your own servers. | piku | 1403 |
@@ -200,7 +200,7 @@
 | 25 |  [ormantic](https://github.com/awesometoolbox/ormantic) | Async ORM + Pydantic = Ormantic ❤️ | awesometoolbox | 134 |
 | 26 |  [openapi-python-client](https://github.com/openapi-generators/openapi-python-client) | Generate modern Python clients from OpenAPI | openapi-generators | 197 |
 | 27 |  [cruft](https://github.com/cruft/cruft) | Allows you to maintain all the necessary cruft for packaging and building projects separate from the code you intentionally write. Built on-top of, and fully compatible with, CookieCutter. | cruft | 259 |
-| 28 |  [toolz](https://github.com/pytoolz/toolz) | A functional standard library for Python. | pytoolz | 3626 |
+| 28 |  [toolz](https://github.com/pytoolz/toolz) | A functional standard library for Python. | pytoolz | 3627 |
 | 29 |  [formation](https://github.com/jondot/formation) | A generic functional middleware infrastructure for Python. | jondot | 13 |
 | 30 |  [sauron-engine](https://github.com/blurg/sauron-engine) | One engine to rule them all | blurg | 49 |
 | 31 |  [pycollect](https://github.com/allrod5/pycollect) | Utility library to collect valid Python files recursively | allrod5 | 3 |
@@ -223,7 +223,7 @@
 | 48 |  [datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator) | Pydantic model generator for easy conversion of JSON, OpenAPI, JSON Schema, and YAML data sources. | koxudaxi | 575 |
 | 49 |  [pycollection-pipelines](https://github.com/povilasb/pycollection-pipelines) | Collection pipeline pattern implementation in Python | povilasb | 8 |
 | 50 |  [ensure](https://github.com/kislyuk/ensure) | Validate conditions, Python style. | kislyuk | 133 |
-| 51 |  [loguru](https://github.com/Delgan/loguru) | Python logging made (stupidly) simple | Delgan | 9563 |
+| 51 |  [loguru](https://github.com/Delgan/loguru) | Python logging made (stupidly) simple | Delgan | 9564 |
 | 52 |  [pyrogram](https://github.com/pyrogram/pyrogram) | Telegram MTProto API Client Library and Framework in Pure Python for Users and Bots | pyrogram | 1988 |
 | 53 |  [dephell](https://github.com/dephell/dephell) | :package: :fire: Python project management. Manage packages: convert between formats, lock, install, resolve, isolate, test, build graph, show outdated, audit. Manage venvs, build package, bump version. | dephell | 1721 |
 | 54 |  [Botkit](https://github.com/autogram/Botkit) | Opinionated, library-agnostic Python framework for rapid development of Telegram bots and userbots with focus on maintainability for large projects. | autogram | 7 |
@@ -267,7 +267,7 @@
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
 | 1 |  [tg-bot-api](https://github.com/ark0f/tg-bot-api) | Telegram Bot API parser and generators | ark0f | 23 |
-| 2 |  [vaultwarden](https://github.com/dani-garcia/vaultwarden) | Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs | dani-garcia | 10511 |
+| 2 |  [vaultwarden](https://github.com/dani-garcia/vaultwarden) | Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs | dani-garcia | 10512 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -289,7 +289,7 @@
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
 | 1 |  [autorest](https://github.com/Azure/autorest) | OpenAPI (f.k.a Swagger) Specification code generator. Supports C#, PowerShell, Go, Java, Node.js, TypeScript, Python, Ruby | Azure | 3496 |
-| 2 |  [code-server](https://github.com/cdr/code-server) | VS Code in the browser | cdr | 47375 |
+| 2 |  [code-server](https://github.com/cdr/code-server) | VS Code in the browser | cdr | 47376 |
 | 3 |  [WebWindow](https://github.com/SteveSandersonMS/WebWindow) | .NET Core library to open native OS windows containing web UI on Windows, Mac, and Linux. Experimental. | SteveSandersonMS | 1964 |
 | 4 |  [ChannelHashBot](https://github.com/JosXa/ChannelHashBot) |  | JosXa | 1 |
 | 5 |  [vscode](https://github.com/microsoft/vscode) | Visual Studio Code | microsoft | 120453 |
