@@ -69,7 +69,7 @@
 | 29 |  [AppConfiguration-DotnetProvider](https://github.com/Azure/AppConfiguration-DotnetProvider) | The .NET Standard configuration provider for Azure App Configuration | Azure | 43 |
 | 30 |  [GlassTL](https://github.com/GlassTL/GlassTL) | MTProto 2.0 Client in dotnet core | GlassTL | 5 |
 | 31 |  [Dazinator.Extensions.DependencyInjection](https://github.com/dazinator/Dazinator.Extensions.DependencyInjection) | Useful additions to Microsoft.Extensions.DependencyInjection such as Named Services. | dazinator | 22 |
-| 32 |  [spy-spotify](https://github.com/jwallet/spy-spotify) | 🎤 Records Spotify to mp3 without ads and adds media tags to the files 🎵 | jwallet | 1218 |
+| 32 |  [spy-spotify](https://github.com/jwallet/spy-spotify) | 🎤 Records Spotify to mp3 without ads and adds media tags to the files 🎵 | jwallet | 1219 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -135,7 +135,7 @@
 ## JavaScript
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [twin.macro](https://github.com/ben-rogerson/twin.macro) | 🦹‍♂️ Twin blends the magic of Tailwind with the flexibility of css-in-js (emotion, styled-components, stitches and goober) at build time. | ben-rogerson | 4847 |
+| 1 |  [twin.macro](https://github.com/ben-rogerson/twin.macro) | 🦹‍♂️ Twin blends the magic of Tailwind with the flexibility of css-in-js (emotion, styled-components, stitches and goober) at build time. | ben-rogerson | 4848 |
 | 2 |  [active-forks](https://github.com/techgaun/active-forks) | Find active github forks of a repo https://git.io/vSnrC | techgaun | 1174 |
 | 3 |  [composerize](https://github.com/magicmark/composerize) | 🏃→🎼  docker run asdlksjfksdf &amp;gt; docker-composerize up | magicmark | 1101 |
 | 4 |  [fork-sync](https://github.com/tgymnich/fork-sync) | 🔄 Github action to sync your forks | tgymnich | 152 |
@@ -177,7 +177,7 @@
 |---	|---	|---	|---	|---	|
 | 1 |  [codex-readme](https://github.com/tom-doerr/codex-readme) | This program writes READMEs for you. | tom-doerr | 174 |
 | 2 |  [eventsourcing](https://github.com/pyeventsourcing/eventsourcing) | A library for event sourcing in Python. | pyeventsourcing | 940 |
-| 3 |  [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs | public-apis | 165234 |
+| 3 |  [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs | public-apis | 165237 |
 | 4 |  [UserLixo](https://github.com/AmanoTeam/UserLixo) | Userbot for Telegram with many functions. | AmanoTeam | 47 |
 | 5 |  [hopscotch](https://github.com/pauleveritt/hopscotch) | Type-oriented registry with dependency injection. | pauleveritt | 1 |
 | 6 |  [piku](https://github.com/piku/piku) | The tiniest PaaS you&#39;ve ever seen. Piku allows you to do git push deployments to your own servers. | piku | 1495 |
@@ -214,7 +214,7 @@
 | 37 |  [pydantic-odm](https://github.com/i8enn/pydantic-odm) | Small async ODM for MongoDB based in Motor and Pydantic library | i8enn | 39 |
 | 38 |  [returns](https://github.com/dry-python/returns) | Make your functions return something meaningful, typed, and safe! | dry-python | 1936 |
 | 39 |  [pymaybe](https://github.com/ekampf/pymaybe) | A Python implementation of the Maybe pattern | ekampf | 182 |
-| 40 |  [poetry](https://github.com/python-poetry/poetry) | Python dependency management and packaging made easy. | python-poetry | 16834 |
+| 40 |  [poetry](https://github.com/python-poetry/poetry) | Python dependency management and packaging made easy. | python-poetry | 16836 |
 | 41 |  [pipenv](https://github.com/pypa/pipenv) | Python Development Workflow for Humans. | pypa | 22383 |
 | 42 |  [KanTeX](https://github.com/kantek/KanTeX) |  | kantek | 8 |
 | 43 |  [ticktick-python](https://github.com/glasslion/ticktick-python) |  | glasslion | 14 |
@@ -270,14 +270,14 @@
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
 | 1 |  [tg-bot-api](https://github.com/ark0f/tg-bot-api) | Telegram Bot API parser and generators | ark0f | 23 |
-| 2 |  [vaultwarden](https://github.com/dani-garcia/vaultwarden) | Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs | dani-garcia | 11486 |
+| 2 |  [vaultwarden](https://github.com/dani-garcia/vaultwarden) | Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs | dani-garcia | 11487 |
 
 **[⬆ Back to Index](#-contents)**
 
 ## Shell
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [dokku](https://github.com/dokku/dokku) | A docker-powered PaaS that helps you build and manage the lifecycle of applications | dokku | 21994 |
+| 1 |  [dokku](https://github.com/dokku/dokku) | A docker-powered PaaS that helps you build and manage the lifecycle of applications | dokku | 21995 |
 
 **[⬆ Back to Index](#-contents)**
 
