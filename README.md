@@ -42,7 +42,7 @@
 | 2 |  [aspnetboilerplate](https://github.com/aspnetboilerplate/aspnetboilerplate) | ASP.NET Boilerplate - Web Application Framework | aspnetboilerplate | 9960 |
 | 3 |  [StyleCopAnalyzers](https://github.com/DotNetAnalyzers/StyleCopAnalyzers) | An implementation of StyleCop rules using the .NET Compiler Platform | DotNetAnalyzers | 1980 |
 | 4 |  [eShopOnDapr](https://github.com/dotnet-architecture/eShopOnDapr) | A sample .NET Core distributed application based on eShopOnContainers, powered by Dapr. | dotnet-architecture | 800 |
-| 5 |  [tye](https://github.com/dotnet/tye) | Tye is a tool that makes developing, testing, and deploying microservices and distributed applications easier. Project Tye includes a local orchestrator to make developing microservices easier and the ability to deploy microservices to Kubernetes with minimal configuration. | dotnet | 3810 |
+| 5 |  [tye](https://github.com/dotnet/tye) | Tye is a tool that makes developing, testing, and deploying microservices and distributed applications easier. Project Tye includes a local orchestrator to make developing microservices easier and the ability to deploy microservices to Kubernetes with minimal configuration. | dotnet | 3811 |
 | 6 |  [print-it](https://github.com/huysentruitw/print-it) | Windows service for printing PDF files to a local or network printer in the background | huysentruitw | 23 |
 | 7 |  [Sprache](https://github.com/sprache/Sprache) | A tiny, friendly, C# parser construction library | sprache | 1871 |
 | 8 |  [MediatRedux](https://github.com/sstorie/MediatRedux) | An implementation of the Redux pattern in .NET using MediatR to provide strongly typed reducers | sstorie | 16 |
@@ -103,9 +103,9 @@
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
 | 1 |  [porter](https://github.com/porter-dev/porter) | Kubernetes powered PaaS that runs in your own cloud. | porter-dev | 2822 |
-| 2 |  [nomad](https://github.com/hashicorp/nomad) | Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations. | hashicorp | 10207 |
+| 2 |  [nomad](https://github.com/hashicorp/nomad) | Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations. | hashicorp | 10208 |
 | 3 |  [gpwm](https://github.com/dasdipanjan04/gpwm) | A go based open source password manager | dasdipanjan04 | 2 |
-| 4 |  [flynn](https://github.com/flynn/flynn) | [UNMAINTAINED] A next generation open source platform as a service (PaaS) | flynn | 7920 |
+| 4 |  [flynn](https://github.com/flynn/flynn) | [UNMAINTAINED] A next generation open source platform as a service (PaaS) | flynn | 7919 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -177,7 +177,7 @@
 |---	|---	|---	|---	|---	|
 | 1 |  [codex-readme](https://github.com/tom-doerr/codex-readme) | This program writes READMEs for you. | tom-doerr | 184 |
 | 2 |  [eventsourcing](https://github.com/pyeventsourcing/eventsourcing) | A library for event sourcing in Python. | pyeventsourcing | 956 |
-| 3 |  [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs | public-apis | 166783 |
+| 3 |  [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs | public-apis | 166784 |
 | 4 |  [UserLixo](https://github.com/AmanoTeam/UserLixo) | Userbot for Telegram with many functions. | AmanoTeam | 47 |
 | 5 |  [hopscotch](https://github.com/pauleveritt/hopscotch) | Type-oriented registry with dependency injection. | pauleveritt | 1 |
 | 6 |  [piku](https://github.com/piku/piku) | The tiniest PaaS you&#39;ve ever seen. Piku allows you to do git push deployments to your own servers. | piku | 1500 |
@@ -236,7 +236,7 @@
 | 59 |  [pyannotate](https://github.com/dropbox/pyannotate) | Auto-generate PEP-484 annotations | dropbox | 1242 |
 | 60 |  [contextualise](https://github.com/brettkromkamp/contextualise) | Contextualise is a simple but effective tool particularly suited for organising information-heavy projects and activities consisting of unstructured and widely diverse data and information resources | brettkromkamp | 925 |
 | 61 |  [buslane](https://github.com/konradhalas/buslane) | Simple message (event/command) bus. | konradhalas | 24 |
-| 62 |  [notion-py](https://github.com/jamalex/notion-py) | Unofficial Python API client for Notion.so | jamalex | 3272 |
+| 62 |  [notion-py](https://github.com/jamalex/notion-py) | Unofficial Python API client for Notion.so | jamalex | 3273 |
 | 63 |  [keyboard_listener](https://github.com/dibsonthis/keyboard_listener) | Keyboard Listener is a module that allows you to create custom hotkeys (combinations) or custom keywords and bind them to custom functions in Python | dibsonthis | 78 |
 | 64 |  [azure-functions-python-worker](https://github.com/Azure/azure-functions-python-worker) | Python worker for Azure Functions. | Azure | 247 |
 | 65 |  [ultimate-poll-bot](https://github.com/Nukesor/ultimate-poll-bot) | :bulb: The ultimate vote and poll bot for creating, sharing and evaluating polls inside of Telegram | Nukesor | 96 |
@@ -270,14 +270,14 @@
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
 | 1 |  [tg-bot-api](https://github.com/ark0f/tg-bot-api) | Telegram Bot API parser and generators | ark0f | 23 |
-| 2 |  [vaultwarden](https://github.com/dani-garcia/vaultwarden) | Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs | dani-garcia | 11754 |
+| 2 |  [vaultwarden](https://github.com/dani-garcia/vaultwarden) | Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs | dani-garcia | 11757 |
 
 **[⬆ Back to Index](#-contents)**
 
 ## Shell
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [dokku](https://github.com/dokku/dokku) | A docker-powered PaaS that helps you build and manage the lifecycle of applications | dokku | 22036 |
+| 1 |  [dokku](https://github.com/dokku/dokku) | A docker-powered PaaS that helps you build and manage the lifecycle of applications | dokku | 22035 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -292,10 +292,10 @@
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
 | 1 |  [autorest](https://github.com/Azure/autorest) | OpenAPI (f.k.a Swagger) Specification code generator. Supports C#, PowerShell, Go, Java, Node.js, TypeScript, Python, Ruby | Azure | 3561 |
-| 2 |  [code-server](https://github.com/cdr/code-server) | VS Code in the browser | cdr | 49618 |
+| 2 |  [code-server](https://github.com/cdr/code-server) | VS Code in the browser | cdr | 49619 |
 | 3 |  [WebWindow](https://github.com/SteveSandersonMS/WebWindow) | .NET Core library to open native OS windows containing web UI on Windows, Mac, and Linux. Experimental. | SteveSandersonMS | 1977 |
 | 4 |  [ChannelHashBot](https://github.com/JosXa/ChannelHashBot) |  | JosXa | 1 |
-| 5 |  [vscode](https://github.com/microsoft/vscode) | Visual Studio Code | microsoft | 123681 |
+| 5 |  [vscode](https://github.com/microsoft/vscode) | Visual Studio Code | microsoft | 123684 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -309,7 +309,7 @@
 ## Vue
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [nocodb](https://github.com/nocodb/nocodb) | :fire: :fire: :fire: Open Source Airtable Alternative - powered by Vue.js :heart: | nocodb | 19233 |
+| 1 |  [nocodb](https://github.com/nocodb/nocodb) | :fire: :fire: :fire: Open Source Airtable Alternative - powered by Vue.js :heart: | nocodb | 19234 |
 
 **[⬆ Back to Index](#-contents)**
 
