@@ -31,7 +31,7 @@
 ## C
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [tg](https://github.com/vysheng/tg) | telegram-cli | vysheng | 5464 |
+| 1 |  [tg](https://github.com/vysheng/tg) | telegram-cli | vysheng | 5465 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -59,7 +59,7 @@
 | 19 |  [TelegramStorageParser](https://github.com/MihaZupan/TelegramStorageParser) | Library to decrypt and parse Telegram Desktop&#39;s storage | MihaZupan | 34 |
 | 20 |  [linq2db](https://github.com/linq2db/linq2db) | Linq to database provider. | linq2db | 2184 |
 | 21 |  [Warewolf](https://github.com/Warewolf-ESB/Warewolf) | Effortless Microservice Design and Integration. This repository includes the code-base for the Warewolf Studio and Server. | Warewolf-ESB | 248 |
-| 22 |  [CppSharp](https://github.com/mono/CppSharp) | Tools and libraries to glue C/C++ APIs to high-level languages | mono | 2197 |
+| 22 |  [CppSharp](https://github.com/mono/CppSharp) | Tools and libraries to glue C/C++ APIs to high-level languages | mono | 2198 |
 | 23 |  [ravendb](https://github.com/ravendb/ravendb) | ACID Document Database | ravendb | 2838 |
 | 24 |  [Tababular](https://github.com/rebus-org/Tababular) | :page_with_curl: Simple monospace text table formatting | rebus-org | 73 |
 | 25 |  [Rebus](https://github.com/rebus-org/Rebus) | :bus: Simple and lean service bus implementation for .NET | rebus-org | 1714 |
@@ -79,7 +79,7 @@
 | 1 |  [tdlight-telegram-bot-api](https://github.com/JosXa/tdlight-telegram-bot-api) | The Telegram Bot API provides an HTTP API for creating Telegram Bots. | JosXa | 1 |
 | 2 |  [telegram-bot-api](https://github.com/tdlib/telegram-bot-api) | Telegram Bot API server | tdlib | 1314 |
 | 3 |  [tdlight-telegram-bot-api](https://github.com/tdlight-team/tdlight-telegram-bot-api) | The TDLight Telegram Bot API is an actively enhanced fork of the original Bot API, featuring experimental user support, proxies, unlimited files size, and more. | tdlight-team | 55 |
-| 4 |  [tdesktop](https://github.com/telegramdesktop/tdesktop) | Telegram Desktop messaging app | telegramdesktop | 17139 |
+| 4 |  [tdesktop](https://github.com/telegramdesktop/tdesktop) | Telegram Desktop messaging app | telegramdesktop | 17140 |
 | 5 |  [krunner-symbols](https://github.com/domschrei/krunner-symbols) | A lightweight KRunner plugin (Plasma 5) to retrieve unicode symbols, or any other string, based on a corresponding keyword. | domschrei | 86 |
 
 **[⬆ Back to Index](#-contents)**
@@ -126,7 +126,7 @@
 ## Java
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [OpenSearch](https://github.com/opensearch-project/OpenSearch) | 🔎 Open source distributed and RESTful search engine. | opensearch-project | 4083 |
+| 1 |  [OpenSearch](https://github.com/opensearch-project/OpenSearch) | 🔎 Open source distributed and RESTful search engine. | opensearch-project | 4084 |
 | 2 |  [mypy-pycharm](https://github.com/leinardi/mypy-pycharm) | A plugin providing both real-time and on-demand scanning of Python files with Mypy from within PyCharm/IDEA. | leinardi | 109 |
 | 3 |  [black-pycharm](https://github.com/pablogsal/black-pycharm) | Pycharm plugin for https://github.com/ambv/black | pablogsal | 30 |
 
@@ -177,7 +177,7 @@
 |---	|---	|---	|---	|---	|
 | 1 |  [codex-readme](https://github.com/tom-doerr/codex-readme) | This program writes READMEs for you. | tom-doerr | 189 |
 | 2 |  [eventsourcing](https://github.com/pyeventsourcing/eventsourcing) | A library for event sourcing in Python. | pyeventsourcing | 963 |
-| 3 |  [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs | public-apis | 167280 |
+| 3 |  [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs | public-apis | 167281 |
 | 4 |  [UserLixo](https://github.com/AmanoTeam/UserLixo) | Userbot for Telegram with many functions. | AmanoTeam | 48 |
 | 5 |  [hopscotch](https://github.com/pauleveritt/hopscotch) | Type-oriented registry with dependency injection. | pauleveritt | 1 |
 | 6 |  [piku](https://github.com/piku/piku) | The tiniest PaaS you&#39;ve ever seen. Piku allows you to do git push deployments to your own servers. | piku | 1504 |
@@ -240,7 +240,7 @@
 | 63 |  [keyboard_listener](https://github.com/dibsonthis/keyboard_listener) | Keyboard Listener is a module that allows you to create custom hotkeys (combinations) or custom keywords and bind them to custom functions in Python | dibsonthis | 78 |
 | 64 |  [azure-functions-python-worker](https://github.com/Azure/azure-functions-python-worker) | Python worker for Azure Functions. | Azure | 247 |
 | 65 |  [ultimate-poll-bot](https://github.com/Nukesor/ultimate-poll-bot) | :bulb: The ultimate vote and poll bot for creating, sharing and evaluating polls inside of Telegram | Nukesor | 96 |
-| 66 |  [tgbot](https://github.com/PaulSonOfLars/tgbot) | Modular telegram group management bot | PaulSonOfLars | 440 |
+| 66 |  [tgbot](https://github.com/PaulSonOfLars/tgbot) | Modular telegram group management bot | PaulSonOfLars | 441 |
 | 67 |  [orator](https://github.com/sdispater/orator) | The Orator ORM provides a simple yet beautiful ActiveRecord implementation. | sdispater | 1303 |
 | 68 |  [mistune](https://github.com/lepture/mistune) | A fast yet powerful Python Markdown parser with renderers and plugins. | lepture | 1998 |
 | 69 |  [haps](https://github.com/lunarwings/haps) | Pure Python dependency injection library | lunarwings | 47 |
@@ -292,10 +292,10 @@
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
 | 1 |  [autorest](https://github.com/Azure/autorest) | OpenAPI (f.k.a Swagger) Specification code generator. Supports C#, PowerShell, Go, Java, Node.js, TypeScript, Python, Ruby | Azure | 3571 |
-| 2 |  [code-server](https://github.com/cdr/code-server) | VS Code in the browser | cdr | 49755 |
+| 2 |  [code-server](https://github.com/cdr/code-server) | VS Code in the browser | cdr | 49756 |
 | 3 |  [WebWindow](https://github.com/SteveSandersonMS/WebWindow) | .NET Core library to open native OS windows containing web UI on Windows, Mac, and Linux. Experimental. | SteveSandersonMS | 1978 |
 | 4 |  [ChannelHashBot](https://github.com/JosXa/ChannelHashBot) |  | JosXa | 1 |
-| 5 |  [vscode](https://github.com/microsoft/vscode) | Visual Studio Code | microsoft | 123968 |
+| 5 |  [vscode](https://github.com/microsoft/vscode) | Visual Studio Code | microsoft | 123969 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -309,7 +309,7 @@
 ## Vue
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [nocodb](https://github.com/nocodb/nocodb) | :fire: :fire: :fire: Open Source Airtable Alternative | nocodb | 19621 |
+| 1 |  [nocodb](https://github.com/nocodb/nocodb) | :fire: :fire: :fire: Open Source Airtable Alternative | nocodb | 19628 |
 
 **[⬆ Back to Index](#-contents)**
 
