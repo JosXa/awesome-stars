@@ -102,7 +102,7 @@
 ## Go
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [porter](https://github.com/porter-dev/porter) | Kubernetes powered PaaS that runs in your own cloud. | porter-dev | 2835 |
+| 1 |  [porter](https://github.com/porter-dev/porter) | Kubernetes powered PaaS that runs in your own cloud. | porter-dev | 2836 |
 | 2 |  [nomad](https://github.com/hashicorp/nomad) | Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations. | hashicorp | 10250 |
 | 3 |  [gpwm](https://github.com/dasdipanjan04/gpwm) | A go based open source password manager | dasdipanjan04 | 2 |
 | 4 |  [flynn](https://github.com/flynn/flynn) | [UNMAINTAINED] A next generation open source platform as a service (PaaS) | flynn | 7917 |
@@ -126,7 +126,7 @@
 ## Java
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [OpenSearch](https://github.com/opensearch-project/OpenSearch) | 🔎 Open source distributed and RESTful search engine. | opensearch-project | 4109 |
+| 1 |  [OpenSearch](https://github.com/opensearch-project/OpenSearch) | 🔎 Open source distributed and RESTful search engine. | opensearch-project | 4110 |
 | 2 |  [mypy-pycharm](https://github.com/leinardi/mypy-pycharm) | A plugin providing both real-time and on-demand scanning of Python files with Mypy from within PyCharm/IDEA. | leinardi | 110 |
 | 3 |  [black-pycharm](https://github.com/pablogsal/black-pycharm) | Pycharm plugin for https://github.com/ambv/black | pablogsal | 30 |
 
@@ -176,8 +176,8 @@
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
 | 1 |  [codex-readme](https://github.com/tom-doerr/codex-readme) | This program writes READMEs for you. | tom-doerr | 192 |
-| 2 |  [eventsourcing](https://github.com/pyeventsourcing/eventsourcing) | A library for event sourcing in Python. | pyeventsourcing | 963 |
-| 3 |  [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs | public-apis | 168148 |
+| 2 |  [eventsourcing](https://github.com/pyeventsourcing/eventsourcing) | A library for event sourcing in Python. | pyeventsourcing | 962 |
+| 3 |  [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs | public-apis | 168150 |
 | 4 |  [UserLixo](https://github.com/AmanoTeam/UserLixo) | Userbot for Telegram with many functions. | AmanoTeam | 48 |
 | 5 |  [hopscotch](https://github.com/pauleveritt/hopscotch) | Type-oriented registry with dependency injection. | pauleveritt | 1 |
 | 6 |  [piku](https://github.com/piku/piku) | The tiniest PaaS you&#39;ve ever seen. Piku allows you to do git push deployments to your own servers. | piku | 1511 |
@@ -203,7 +203,7 @@
 | 26 |  [ormantic](https://github.com/awesometoolbox/ormantic) | Async ORM + Pydantic = Ormantic ❤️ | awesometoolbox | 133 |
 | 27 |  [openapi-python-client](https://github.com/openapi-generators/openapi-python-client) | Generate modern Python clients from OpenAPI | openapi-generators | 228 |
 | 28 |  [cruft](https://github.com/cruft/cruft) | Allows you to maintain all the necessary cruft for packaging and building projects separate from the code you intentionally write. Built on-top of, and fully compatible with, CookieCutter. | cruft | 312 |
-| 29 |  [toolz](https://github.com/pytoolz/toolz) | A functional standard library for Python. | pytoolz | 3718 |
+| 29 |  [toolz](https://github.com/pytoolz/toolz) | A functional standard library for Python. | pytoolz | 3719 |
 | 30 |  [formation](https://github.com/jondot/formation) | A generic functional middleware infrastructure for Python. | jondot | 14 |
 | 31 |  [sauron-engine](https://github.com/blurg/sauron-engine) | One engine to rule them all | blurg | 49 |
 | 32 |  [pycollect](https://github.com/allrod5/pycollect) | Utility library to collect valid Python files recursively | allrod5 | 3 |
@@ -214,13 +214,13 @@
 | 37 |  [pydantic-odm](https://github.com/i8enn/pydantic-odm) | Small async ODM for MongoDB based in Motor and Pydantic library | i8enn | 39 |
 | 38 |  [returns](https://github.com/dry-python/returns) | Make your functions return something meaningful, typed, and safe! | dry-python | 1979 |
 | 39 |  [pymaybe](https://github.com/ekampf/pymaybe) | A Python implementation of the Maybe pattern | ekampf | 182 |
-| 40 |  [poetry](https://github.com/python-poetry/poetry) | Python dependency management and packaging made easy. | python-poetry | 17138 |
+| 40 |  [poetry](https://github.com/python-poetry/poetry) | Python dependency management and packaging made easy. | python-poetry | 17139 |
 | 41 |  [pipenv](https://github.com/pypa/pipenv) | Python Development Workflow for Humans. | pypa | 22470 |
 | 42 |  [KanTeX](https://github.com/kantek/KanTeX) |  | kantek | 8 |
 | 43 |  [ticktick-python](https://github.com/glasslion/ticktick-python) |  | glasslion | 15 |
 | 44 |  [tgintegration](https://github.com/JosXa/tgintegration) | Integration test and automation library for Telegram Messenger bots based on Pyrogram. | JosXa | 94 |
 | 45 |  [ptbcontrib](https://github.com/python-telegram-bot/ptbcontrib) | Community-based extensions for the python-telegram-bot library. | python-telegram-bot | 47 |
-| 46 |  [poethepoet](https://github.com/nat-n/poethepoet) | A task runner that works well with poetry. | nat-n | 318 |
+| 46 |  [poethepoet](https://github.com/nat-n/poethepoet) | A task runner that works well with poetry. | nat-n | 319 |
 | 47 |  [Motor-ODM](https://github.com/codello/Motor-ODM) | A MongoDB ODM based on Motor and Pydantic. | codello | 13 |
 | 48 |  [python-inject](https://github.com/ivankorobkov/python-inject) | Python dependency injection | ivankorobkov | 482 |
 | 49 |  [datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator) | Pydantic model generator for easy conversion of JSON, OpenAPI, JSON Schema, and YAML data sources. | koxudaxi | 679 |
@@ -246,7 +246,7 @@
 | 69 |  [haps](https://github.com/lunarwings/haps) | Pure Python dependency injection library | lunarwings | 47 |
 | 70 |  [sentry-python](https://github.com/getsentry/sentry-python) | The new Python SDK for Sentry.io | getsentry | 1086 |
 | 71 |  [baron](https://github.com/PyCQA/baron) | IDE allow you to refactor code, Baron allows you to write refactoring code. | PyCQA | 266 |
-| 72 |  [python-dependency-injector](https://github.com/ets-labs/python-dependency-injector) | Dependency injection framework for Python | ets-labs | 1704 |
+| 72 |  [python-dependency-injector](https://github.com/ets-labs/python-dependency-injector) | Dependency injection framework for Python | ets-labs | 1705 |
 | 73 |  [sticker-finder](https://github.com/Nukesor/sticker-finder) | :zap: A telegram bot for searching all the stickers (just like @gif). | Nukesor | 84 |
 | 74 |  [dokku-dashboard](https://github.com/lohanbodevan/dokku-dashboard) | Dokku PaaS Dashboard | lohanbodevan | 12 |
 | 75 |  [insurance-chatbot-prototype](https://github.com/JosXa/insurance-chatbot-prototype) | Chatbot Prototype for Smartphone Insurance Damage Claims | JosXa | 3 |
@@ -270,7 +270,7 @@
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
 | 1 |  [tg-bot-api](https://github.com/ark0f/tg-bot-api) | Telegram Bot API parser and generators | ark0f | 23 |
-| 2 |  [vaultwarden](https://github.com/dani-garcia/vaultwarden) | Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs | dani-garcia | 11954 |
+| 2 |  [vaultwarden](https://github.com/dani-garcia/vaultwarden) | Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs | dani-garcia | 11955 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -292,10 +292,10 @@
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
 | 1 |  [autorest](https://github.com/Azure/autorest) | OpenAPI (f.k.a Swagger) Specification code generator. Supports C#, PowerShell, Go, Java, Node.js, TypeScript, Python, Ruby | Azure | 3574 |
-| 2 |  [code-server](https://github.com/cdr/code-server) | VS Code in the browser | cdr | 49908 |
+| 2 |  [code-server](https://github.com/cdr/code-server) | VS Code in the browser | cdr | 49909 |
 | 3 |  [WebWindow](https://github.com/SteveSandersonMS/WebWindow) | .NET Core library to open native OS windows containing web UI on Windows, Mac, and Linux. Experimental. | SteveSandersonMS | 1977 |
 | 4 |  [ChannelHashBot](https://github.com/JosXa/ChannelHashBot) |  | JosXa | 1 |
-| 5 |  [vscode](https://github.com/microsoft/vscode) | Visual Studio Code | microsoft | 124307 |
+| 5 |  [vscode](https://github.com/microsoft/vscode) | Visual Studio Code | microsoft | 124309 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -309,7 +309,7 @@
 ## Vue
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [nocodb](https://github.com/nocodb/nocodb) | :fire: :fire: :fire: Open Source Airtable Alternative | nocodb | 20105 |
+| 1 |  [nocodb](https://github.com/nocodb/nocodb) | :fire: :fire: :fire: Open Source Airtable Alternative | nocodb | 20106 |
 
 **[⬆ Back to Index](#-contents)**
 
