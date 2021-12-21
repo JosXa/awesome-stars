@@ -42,7 +42,7 @@
 | 2 |  [aspnetboilerplate](https://github.com/aspnetboilerplate/aspnetboilerplate) | ASP.NET Boilerplate - Web Application Framework | aspnetboilerplate | 10062 |
 | 3 |  [StyleCopAnalyzers](https://github.com/DotNetAnalyzers/StyleCopAnalyzers) | An implementation of StyleCop rules using the .NET Compiler Platform | DotNetAnalyzers | 2006 |
 | 4 |  [eShopOnDapr](https://github.com/dotnet-architecture/eShopOnDapr) | A sample .NET Core distributed application based on eShopOnContainers, powered by Dapr. | dotnet-architecture | 867 |
-| 5 |  [tye](https://github.com/dotnet/tye) | Tye is a tool that makes developing, testing, and deploying microservices and distributed applications easier. Project Tye includes a local orchestrator to make developing microservices easier and the ability to deploy microservices to Kubernetes with minimal configuration. | dotnet | 3896 |
+| 5 |  [tye](https://github.com/dotnet/tye) | Tye is a tool that makes developing, testing, and deploying microservices and distributed applications easier. Project Tye includes a local orchestrator to make developing microservices easier and the ability to deploy microservices to Kubernetes with minimal configuration. | dotnet | 3897 |
 | 6 |  [print-it](https://github.com/huysentruitw/print-it) | Windows service for printing PDF files to a local or network printer in the background | huysentruitw | 27 |
 | 7 |  [Sprache](https://github.com/sprache/Sprache) | A tiny, friendly, C# parser construction library | sprache | 1894 |
 | 8 |  [MediatRedux](https://github.com/sstorie/MediatRedux) | An implementation of the Redux pattern in .NET using MediatR to provide strongly typed reducers | sstorie | 17 |
@@ -51,7 +51,7 @@
 | 11 |  [Netjs](https://github.com/praeclarum/Netjs) | Compile .NET assemblies to TypeScript and JavaScript | praeclarum | 901 |
 | 12 |  [Ensure.That](https://github.com/danielwertheim/Ensure.That) | Guard clause project for .NET | danielwertheim | 371 |
 | 13 |  [rxns](https://github.com/captainjono/rxns) | Fullstack micro-actor-services for Rx | captainjono | 13 |
-| 14 |  [reactive](https://github.com/dotnet/reactive) | The Reactive Extensions for .NET | dotnet | 5211 |
+| 14 |  [reactive](https://github.com/dotnet/reactive) | The Reactive Extensions for .NET | dotnet | 5212 |
 | 15 |  [templating](https://github.com/dotnet/templating) | This repo contains the Template Engine which is used by dotnet new | dotnet | 1149 |
 | 16 |  [GtkSharp](https://github.com/GtkSharp/GtkSharp) | .NET wrapper for Gtk and other related libraries | GtkSharp | 566 |
 | 17 |  [egram.tel](https://github.com/egramtel/egram.tel) | Crossplatform Telegram client | egramtel | 317 |
@@ -140,7 +140,7 @@
 | 3 |  [composerize](https://github.com/magicmark/composerize) | 🏃→🎼  docker run asdlksjfksdf &amp;gt; docker-composerize up | magicmark | 1312 |
 | 4 |  [fork-sync](https://github.com/tgymnich/fork-sync) | 🔄 Github action to sync your forks | tgymnich | 161 |
 | 5 |  [quote-bot](https://github.com/LyoSU/quote-bot) | Telegram quote bot | LyoSU | 136 |
-| 6 |  [node-telegram-bot-api](https://github.com/yagop/node-telegram-bot-api) | Telegram Bot API for NodeJS | yagop | 5785 |
+| 6 |  [node-telegram-bot-api](https://github.com/yagop/node-telegram-bot-api) | Telegram Bot API for NodeJS | yagop | 5786 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -177,7 +177,7 @@
 |---	|---	|---	|---	|---	|
 | 1 |  [codex-readme](https://github.com/tom-doerr/codex-readme) | This program writes READMEs for you. | tom-doerr | 195 |
 | 2 |  [eventsourcing](https://github.com/pyeventsourcing/eventsourcing) | A library for event sourcing in Python. | pyeventsourcing | 979 |
-| 3 |  [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs | public-apis | 172017 |
+| 3 |  [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs | public-apis | 172020 |
 | 4 |  [UserLixo](https://github.com/AmanoTeam/UserLixo) | Userbot for Telegram with many functions. | AmanoTeam | 49 |
 | 5 |  [hopscotch](https://github.com/pauleveritt/hopscotch) | Type-oriented registry with dependency injection. | pauleveritt | 1 |
 | 6 |  [piku](https://github.com/piku/piku) | The tiniest PaaS you&#39;ve ever seen. Piku allows you to do git push deployments to your own servers. | piku | 1535 |
@@ -260,7 +260,7 @@
 | 83 |  [mogo](https://github.com/joshmarshall/mogo) | A MongoDB object wrapper around PyMongo (for Python) | joshmarshall | 85 |
 | 84 |  [teleGit](https://github.com/HeavenH/teleGit) | Telegram Bot in Python | HeavenH | 22 |
 | 85 |  [python-telegram-handler](https://github.com/sashgorokhov/python-telegram-handler) | A python logging handler that sends logs via Telegram Bot Api. | sashgorokhov | 72 |
-| 86 |  [python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot) | We have made you a wrapper you can&#39;t refuse | python-telegram-bot | 17225 |
+| 86 |  [python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot) | We have made you a wrapper you can&#39;t refuse | python-telegram-bot | 17226 |
 | 87 |  [pymessenger](https://github.com/davidchua/pymessenger) | A Python Wrapper for the FB Messenger Bot API (Send/Receive API) | davidchua | 453 |
 | 88 |  [wundervim](https://github.com/khadiwala/wundervim) | Wunderlist plugin for vim | khadiwala | 4 |
 
@@ -295,7 +295,7 @@
 | 2 |  [code-server](https://github.com/coder/code-server) | VS Code in the browser | coder | 50574 |
 | 3 |  [WebWindow](https://github.com/SteveSandersonMS/WebWindow) | .NET Core library to open native OS windows containing web UI on Windows, Mac, and Linux. Experimental. | SteveSandersonMS | 1978 |
 | 4 |  [ChannelHashBot](https://github.com/JosXa/ChannelHashBot) |  | JosXa | 1 |
-| 5 |  [vscode](https://github.com/microsoft/vscode) | Visual Studio Code | microsoft | 125511 |
+| 5 |  [vscode](https://github.com/microsoft/vscode) | Visual Studio Code | microsoft | 125513 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -309,7 +309,7 @@
 ## Vue
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [nocodb](https://github.com/nocodb/nocodb) | :fire: :fire: :fire: Open Source Airtable Alternative | nocodb | 20724 |
+| 1 |  [nocodb](https://github.com/nocodb/nocodb) | :fire: :fire: :fire: Open Source Airtable Alternative | nocodb | 20726 |
 
 **[⬆ Back to Index](#-contents)**
 
