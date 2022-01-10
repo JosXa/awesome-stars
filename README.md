@@ -42,11 +42,11 @@
 | 2 |  [aspnetboilerplate](https://github.com/aspnetboilerplate/aspnetboilerplate) | ASP.NET Boilerplate - Web Application Framework | aspnetboilerplate | 10094 |
 | 3 |  [StyleCopAnalyzers](https://github.com/DotNetAnalyzers/StyleCopAnalyzers) | An implementation of StyleCop rules using the .NET Compiler Platform | DotNetAnalyzers | 2017 |
 | 4 |  [eShopOnDapr](https://github.com/dotnet-architecture/eShopOnDapr) | A sample .NET Core distributed application based on eShopOnContainers, powered by Dapr. | dotnet-architecture | 891 |
-| 5 |  [tye](https://github.com/dotnet/tye) | Tye is a tool that makes developing, testing, and deploying microservices and distributed applications easier. Project Tye includes a local orchestrator to make developing microservices easier and the ability to deploy microservices to Kubernetes with minimal configuration. | dotnet | 4192 |
+| 5 |  [tye](https://github.com/dotnet/tye) | Tye is a tool that makes developing, testing, and deploying microservices and distributed applications easier. Project Tye includes a local orchestrator to make developing microservices easier and the ability to deploy microservices to Kubernetes with minimal configuration. | dotnet | 4193 |
 | 6 |  [print-it](https://github.com/huysentruitw/print-it) | Windows service for printing PDF files to a local or network printer in the background | huysentruitw | 28 |
 | 7 |  [Sprache](https://github.com/sprache/Sprache) | A tiny, friendly, C# parser construction library | sprache | 1906 |
 | 8 |  [MediatRedux](https://github.com/sstorie/MediatRedux) | An implementation of the Redux pattern in .NET using MediatR to provide strongly typed reducers | sstorie | 17 |
-| 9 |  [MediatR](https://github.com/jbogard/MediatR) | Simple, unambitious mediator implementation in .NET | jbogard | 7285 |
+| 9 |  [MediatR](https://github.com/jbogard/MediatR) | Simple, unambitious mediator implementation in .NET | jbogard | 7286 |
 | 10 |  [nuke](https://github.com/nuke-build/nuke) | 🏗 The AKEless Build System for C#/.NET | nuke-build | 1371 |
 | 11 |  [Netjs](https://github.com/praeclarum/Netjs) | Compile .NET assemblies to TypeScript and JavaScript | praeclarum | 902 |
 | 12 |  [Ensure.That](https://github.com/danielwertheim/Ensure.That) | Guard clause project for .NET | danielwertheim | 372 |
@@ -126,7 +126,7 @@
 ## Java
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [OpenSearch](https://github.com/opensearch-project/OpenSearch) | 🔎 Open source distributed and RESTful search engine. | opensearch-project | 4325 |
+| 1 |  [OpenSearch](https://github.com/opensearch-project/OpenSearch) | 🔎 Open source distributed and RESTful search engine. | opensearch-project | 4326 |
 | 2 |  [mypy-pycharm](https://github.com/leinardi/mypy-pycharm) | A plugin providing both real-time and on-demand scanning of Python files with Mypy from within PyCharm/IDEA. | leinardi | 119 |
 | 3 |  [black-pycharm](https://github.com/pablogsal/black-pycharm) | Pycharm plugin for https://github.com/ambv/black | pablogsal | 31 |
 
@@ -177,7 +177,7 @@
 |---	|---	|---	|---	|---	|
 | 1 |  [codex-readme](https://github.com/tom-doerr/codex-readme) | This program writes READMEs for you. | tom-doerr | 196 |
 | 2 |  [eventsourcing](https://github.com/pyeventsourcing/eventsourcing) | A library for event sourcing in Python. | pyeventsourcing | 997 |
-| 3 |  [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs | public-apis | 173768 |
+| 3 |  [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs | public-apis | 173769 |
 | 4 |  [UserLixo](https://github.com/AmanoTeam/UserLixo) | Userbot for Telegram with many functions. | AmanoTeam | 49 |
 | 5 |  [hopscotch](https://github.com/pauleveritt/hopscotch) | Type-oriented registry with dependency injection. | pauleveritt | 1 |
 | 6 |  [piku](https://github.com/piku/piku) | The tiniest PaaS you&#39;ve ever seen. Piku allows you to do git push deployments to your own servers. | piku | 1555 |
@@ -192,9 +192,9 @@
 | 15 |  [python-broqer](https://github.com/semiversus/python-broqer) | Carefully crafted library to operate with continuous streams of data in a reactive style with publish/subscribe, asyncio support and broker functionality. | semiversus | 64 |
 | 16 |  [haikunatorpy](https://github.com/Atrox/haikunatorpy) | Generate Heroku-like random names to use in your python applications | Atrox | 109 |
 | 17 |  [fastapi_client](https://github.com/dmontagu/fastapi_client) | FastAPI client generator | dmontagu | 219 |
-| 18 |  [aiogram](https://github.com/aiogram/aiogram) | Is a pretty simple and fully asynchronous framework for Telegram Bot API written in Python 3.7 with asyncio and aiohttp. | aiogram | 2248 |
+| 18 |  [aiogram](https://github.com/aiogram/aiogram) | Is a pretty simple and fully asynchronous framework for Telegram Bot API written in Python 3.7 with asyncio and aiohttp. | aiogram | 2247 |
 | 19 |  [python-pyfields](https://github.com/smarie/python-pyfields) | Define fields in python classes. Easily. | smarie | 36 |
-| 20 |  [python-benedict](https://github.com/fabiocaccamo/python-benedict) | dict subclass with keylist/keypath support, normalized I/O operations (base64, csv, ini, json, pickle, plist, query-string, toml, xml, yaml) and many utilities. :blue_book: | fabiocaccamo | 316 |
+| 20 |  [python-benedict](https://github.com/fabiocaccamo/python-benedict) | dict subclass with keylist/keypath support, normalized I/O operations (base64, csv, ini, json, pickle, plist, query-string, toml, xml, yaml) and many utilities. :blue_book: | fabiocaccamo | 317 |
 | 21 |  [ObjectPath](https://github.com/adriank/ObjectPath) | The agile query language for semi-structured data | adriank | 356 |
 | 22 |  [py-ldnlib](https://github.com/trellis-ldp/py-ldnlib) | Python-based Linked Data Notification libraries | trellis-ldp | 13 |
 | 23 |  [wired](https://github.com/pauleveritt/wired) | A service locator implementation for Python. | pauleveritt | 1 |
@@ -214,7 +214,7 @@
 | 37 |  [pydantic-odm](https://github.com/i8enn/pydantic-odm) | Small async ODM for MongoDB based in Motor and Pydantic library | i8enn | 39 |
 | 38 |  [returns](https://github.com/dry-python/returns) | Make your functions return something meaningful, typed, and safe! | dry-python | 2063 |
 | 39 |  [pymaybe](https://github.com/ekampf/pymaybe) | A Python implementation of the Maybe pattern | ekampf | 184 |
-| 40 |  [poetry](https://github.com/python-poetry/poetry) | Python dependency management and packaging made easy. | python-poetry | 17799 |
+| 40 |  [poetry](https://github.com/python-poetry/poetry) | Python dependency management and packaging made easy. | python-poetry | 17800 |
 | 41 |  [pipenv](https://github.com/pypa/pipenv) | Python Development Workflow for Humans. | pypa | 22572 |
 | 42 |  [KanTeX](https://github.com/kantek/KanTeX) |  | kantek | 10 |
 | 43 |  [ticktick-python](https://github.com/glasslion/ticktick-python) |  | glasslion | 15 |
@@ -226,7 +226,7 @@
 | 49 |  [datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator) | Pydantic model generator for easy conversion of JSON, OpenAPI, JSON Schema, and YAML data sources. | koxudaxi | 752 |
 | 50 |  [pycollection-pipelines](https://github.com/povilasb/pycollection-pipelines) | Collection pipeline pattern implementation in Python | povilasb | 7 |
 | 51 |  [ensure](https://github.com/kislyuk/ensure) | Validate conditions, Python style. | kislyuk | 134 |
-| 52 |  [loguru](https://github.com/Delgan/loguru) | Python logging made (stupidly) simple | Delgan | 10758 |
+| 52 |  [loguru](https://github.com/Delgan/loguru) | Python logging made (stupidly) simple | Delgan | 10759 |
 | 53 |  [pyrogram](https://github.com/pyrogram/pyrogram) | Elegant, modern and asynchronous Telegram MTProto API framework in Python for users and bots | pyrogram | 2309 |
 | 54 |  [dephell](https://github.com/dephell/dephell) | :package: :fire: Python project management. Manage packages: convert between formats, lock, install, resolve, isolate, test, build graph, show outdated, audit. Manage venvs, build package, bump version. | dephell | 1731 |
 | 55 |  [Botkit](https://github.com/autogram/Botkit) | Opinionated, library-agnostic Python framework for rapid development of Telegram bots and userbots with focus on maintainability for large projects. | autogram | 10 |
@@ -260,8 +260,8 @@
 | 83 |  [mogo](https://github.com/joshmarshall/mogo) | A MongoDB object wrapper around PyMongo (for Python) | joshmarshall | 86 |
 | 84 |  [teleGit](https://github.com/HeavenH/teleGit) | Telegram Bot in Python | HeavenH | 22 |
 | 85 |  [python-telegram-handler](https://github.com/sashgorokhov/python-telegram-handler) | A python logging handler that sends logs via Telegram Bot Api. | sashgorokhov | 73 |
-| 86 |  [python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot) | We have made you a wrapper you can&#39;t refuse | python-telegram-bot | 17398 |
-| 87 |  [pymessenger](https://github.com/davidchua/pymessenger) | A Python Wrapper for the FB Messenger Bot API (Send/Receive API) | davidchua | 454 |
+| 86 |  [python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot) | We have made you a wrapper you can&#39;t refuse | python-telegram-bot | 17399 |
+| 87 |  [pymessenger](https://github.com/davidchua/pymessenger) | A Python Wrapper for the FB Messenger Bot API (Send/Receive API) | davidchua | 455 |
 | 88 |  [wundervim](https://github.com/khadiwala/wundervim) | Wunderlist plugin for vim | khadiwala | 4 |
 
 **[⬆ Back to Index](#-contents)**
@@ -270,7 +270,7 @@
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
 | 1 |  [tg-bot-api](https://github.com/ark0f/tg-bot-api) | Telegram Bot API parser and generators | ark0f | 24 |
-| 2 |  [vaultwarden](https://github.com/dani-garcia/vaultwarden) | Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs | dani-garcia | 13461 |
+| 2 |  [vaultwarden](https://github.com/dani-garcia/vaultwarden) | Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs | dani-garcia | 13463 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -309,7 +309,7 @@
 ## Vue
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [nocodb](https://github.com/nocodb/nocodb) | 🔥 🔥 🔥 Open Source Airtable Alternative | nocodb | 21220 |
+| 1 |  [nocodb](https://github.com/nocodb/nocodb) | 🔥 🔥 🔥 Open Source Airtable Alternative | nocodb | 21223 |
 
 **[⬆ Back to Index](#-contents)**
 
