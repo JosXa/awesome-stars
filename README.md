@@ -136,7 +136,7 @@
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
 | 1 |  [twin.macro](https://github.com/ben-rogerson/twin.macro) | 🦹‍♂️ Twin blends the magic of Tailwind with the flexibility of css-in-js (emotion, styled-components, stitches and goober) at build time. | ben-rogerson | 5219 |
-| 2 |  [active-forks](https://github.com/techgaun/active-forks) | Find active github forks of a repo https://git.io/vSnrC | techgaun | 1294 |
+| 2 |  [active-forks](https://github.com/techgaun/active-forks) | Find active github forks of a repo https://git.io/vSnrC | techgaun | 1295 |
 | 3 |  [composerize](https://github.com/magicmark/composerize) | 🏃→🎼  docker run asdlksjfksdf &amp;gt; docker-composerize up | magicmark | 1348 |
 | 4 |  [fork-sync](https://github.com/tgymnich/fork-sync) | 🔄 Github action to sync your forks | tgymnich | 166 |
 | 5 |  [quote-bot](https://github.com/LyoSU/quote-bot) | Telegram quote bot | LyoSU | 142 |
@@ -177,7 +177,7 @@
 |---	|---	|---	|---	|---	|
 | 1 |  [codex-readme](https://github.com/tom-doerr/codex-readme) | This program writes READMEs for you. | tom-doerr | 196 |
 | 2 |  [eventsourcing](https://github.com/pyeventsourcing/eventsourcing) | A library for event sourcing in Python. | pyeventsourcing | 998 |
-| 3 |  [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs | public-apis | 173871 |
+| 3 |  [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs | public-apis | 173873 |
 | 4 |  [UserLixo](https://github.com/AmanoTeam/UserLixo) | Userbot for Telegram with many functions. | AmanoTeam | 49 |
 | 5 |  [hopscotch](https://github.com/pauleveritt/hopscotch) | Type-oriented registry with dependency injection. | pauleveritt | 1 |
 | 6 |  [piku](https://github.com/piku/piku) | The tiniest PaaS you&#39;ve ever seen. Piku allows you to do git push deployments to your own servers. | piku | 1557 |
@@ -203,7 +203,7 @@
 | 26 |  [ormantic](https://github.com/awesometoolbox/ormantic) | Async ORM + Pydantic = Ormantic ❤️ | awesometoolbox | 132 |
 | 27 |  [openapi-python-client](https://github.com/openapi-generators/openapi-python-client) | Generate modern Python clients from OpenAPI | openapi-generators | 259 |
 | 28 |  [cruft](https://github.com/cruft/cruft) | Allows you to maintain all the necessary cruft for packaging and building projects separate from the code you intentionally write. Built on-top of, and fully compatible with, CookieCutter. | cruft | 346 |
-| 29 |  [toolz](https://github.com/pytoolz/toolz) | A functional standard library for Python. | pytoolz | 3774 |
+| 29 |  [toolz](https://github.com/pytoolz/toolz) | A functional standard library for Python. | pytoolz | 3775 |
 | 30 |  [formation](https://github.com/jondot/formation) | A generic functional middleware infrastructure for Python. | jondot | 14 |
 | 31 |  [sauron-engine](https://github.com/blurg/sauron-engine) | One engine to rule them all | blurg | 49 |
 | 32 |  [pycollect](https://github.com/allrod5/pycollect) | Utility library to collect valid Python files recursively | allrod5 | 3 |
@@ -214,7 +214,7 @@
 | 37 |  [pydantic-odm](https://github.com/i8enn/pydantic-odm) | Small async ODM for MongoDB based in Motor and Pydantic library | i8enn | 39 |
 | 38 |  [returns](https://github.com/dry-python/returns) | Make your functions return something meaningful, typed, and safe! | dry-python | 2065 |
 | 39 |  [pymaybe](https://github.com/ekampf/pymaybe) | A Python implementation of the Maybe pattern | ekampf | 184 |
-| 40 |  [poetry](https://github.com/python-poetry/poetry) | Python dependency management and packaging made easy. | python-poetry | 17808 |
+| 40 |  [poetry](https://github.com/python-poetry/poetry) | Python dependency management and packaging made easy. | python-poetry | 17809 |
 | 41 |  [pipenv](https://github.com/pypa/pipenv) | Python Development Workflow for Humans. | pypa | 22572 |
 | 42 |  [KanTeX](https://github.com/kantek/KanTeX) |  | kantek | 10 |
 | 43 |  [ticktick-python](https://github.com/glasslion/ticktick-python) |  | glasslion | 15 |
@@ -231,7 +231,7 @@
 | 54 |  [dephell](https://github.com/dephell/dephell) | :package: :fire: Python project management. Manage packages: convert between formats, lock, install, resolve, isolate, test, build graph, show outdated, audit. Manage venvs, build package, bump version. | dephell | 1731 |
 | 55 |  [Botkit](https://github.com/autogram/Botkit) | Opinionated, library-agnostic Python framework for rapid development of Telegram bots and userbots with focus on maintainability for large projects. | autogram | 10 |
 | 56 |  [nameof](https://github.com/alexmojaki/nameof) | Python function to get the name of a variable or attribute, as in C# | alexmojaki | 9 |
-| 57 |  [implicit](https://github.com/benfred/implicit) | Fast Python Collaborative Filtering for Implicit Feedback Datasets | benfred | 2582 |
+| 57 |  [implicit](https://github.com/benfred/implicit) | Fast Python Collaborative Filtering for Implicit Feedback Datasets | benfred | 2583 |
 | 58 |  [gql-next](https://github.com/graphql-python/gql-next) | A Python GraphQL Client library providing ability to validate and make type-safe GraphQL calls | graphql-python | 72 |
 | 59 |  [pyannotate](https://github.com/dropbox/pyannotate) | Auto-generate PEP-484 annotations | dropbox | 1256 |
 | 60 |  [contextualise](https://github.com/brettkromkamp/contextualise) | Contextualise is a simple but effective tool particularly suited for organising information-heavy projects and activities consisting of unstructured and widely diverse data and information resources | brettkromkamp | 928 |
@@ -241,7 +241,7 @@
 | 64 |  [azure-functions-python-worker](https://github.com/Azure/azure-functions-python-worker) | Python worker for Azure Functions. | Azure | 253 |
 | 65 |  [ultimate-poll-bot](https://github.com/Nukesor/ultimate-poll-bot) | :bulb: The ultimate vote and poll bot for creating, sharing and evaluating polls inside of Telegram | Nukesor | 98 |
 | 66 |  [tgbot](https://github.com/PaulSonOfLars/tgbot) | Modular telegram group management bot | PaulSonOfLars | 471 |
-| 67 |  [orator](https://github.com/sdispater/orator) | The Orator ORM provides a simple yet beautiful ActiveRecord implementation. | sdispater | 1305 |
+| 67 |  [orator](https://github.com/sdispater/orator) | The Orator ORM provides a simple yet beautiful ActiveRecord implementation. | sdispater | 1306 |
 | 68 |  [mistune](https://github.com/lepture/mistune) | A fast yet powerful Python Markdown parser with renderers and plugins. | lepture | 2025 |
 | 69 |  [haps](https://github.com/lunarwings/haps) | Pure Python dependency injection library | lunarwings | 47 |
 | 70 |  [sentry-python](https://github.com/getsentry/sentry-python) | The new Python SDK for Sentry.io | getsentry | 1123 |
@@ -260,7 +260,7 @@
 | 83 |  [mogo](https://github.com/joshmarshall/mogo) | A MongoDB object wrapper around PyMongo (for Python) | joshmarshall | 86 |
 | 84 |  [teleGit](https://github.com/HeavenH/teleGit) | Telegram Bot in Python | HeavenH | 22 |
 | 85 |  [python-telegram-handler](https://github.com/sashgorokhov/python-telegram-handler) | A python logging handler that sends logs via Telegram Bot Api. | sashgorokhov | 73 |
-| 86 |  [python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot) | We have made you a wrapper you can&#39;t refuse | python-telegram-bot | 17408 |
+| 86 |  [python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot) | We have made you a wrapper you can&#39;t refuse | python-telegram-bot | 17410 |
 | 87 |  [pymessenger](https://github.com/davidchua/pymessenger) | A Python Wrapper for the FB Messenger Bot API (Send/Receive API) | davidchua | 456 |
 | 88 |  [wundervim](https://github.com/khadiwala/wundervim) | Wunderlist plugin for vim | khadiwala | 4 |
 
@@ -270,7 +270,7 @@
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
 | 1 |  [tg-bot-api](https://github.com/ark0f/tg-bot-api) | Telegram Bot API parser and generators | ark0f | 24 |
-| 2 |  [vaultwarden](https://github.com/dani-garcia/vaultwarden) | Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs | dani-garcia | 13491 |
+| 2 |  [vaultwarden](https://github.com/dani-garcia/vaultwarden) | Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs | dani-garcia | 13492 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -295,7 +295,7 @@
 | 2 |  [code-server](https://github.com/coder/code-server) | VS Code in the browser | coder | 51032 |
 | 3 |  [WebWindow](https://github.com/SteveSandersonMS/WebWindow) | .NET Core library to open native OS windows containing web UI on Windows, Mac, and Linux. Experimental. | SteveSandersonMS | 1983 |
 | 4 |  [ChannelHashBot](https://github.com/JosXa/ChannelHashBot) |  | JosXa | 1 |
-| 5 |  [vscode](https://github.com/microsoft/vscode) | Visual Studio Code | microsoft | 126243 |
+| 5 |  [vscode](https://github.com/microsoft/vscode) | Visual Studio Code | microsoft | 126245 |
 
 **[⬆ Back to Index](#-contents)**
 
