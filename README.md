@@ -42,11 +42,11 @@
 | 2 |  [aspnetboilerplate](https://github.com/aspnetboilerplate/aspnetboilerplate) | ASP.NET Boilerplate - Web Application Framework | aspnetboilerplate | 10112 |
 | 3 |  [StyleCopAnalyzers](https://github.com/DotNetAnalyzers/StyleCopAnalyzers) | An implementation of StyleCop rules using the .NET Compiler Platform | DotNetAnalyzers | 2029 |
 | 4 |  [eShopOnDapr](https://github.com/dotnet-architecture/eShopOnDapr) | A sample .NET Core distributed application based on eShopOnContainers, powered by Dapr. | dotnet-architecture | 897 |
-| 5 |  [tye](https://github.com/dotnet/tye) | Tye is a tool that makes developing, testing, and deploying microservices and distributed applications easier. Project Tye includes a local orchestrator to make developing microservices easier and the ability to deploy microservices to Kubernetes with minimal configuration. | dotnet | 4255 |
+| 5 |  [tye](https://github.com/dotnet/tye) | Tye is a tool that makes developing, testing, and deploying microservices and distributed applications easier. Project Tye includes a local orchestrator to make developing microservices easier and the ability to deploy microservices to Kubernetes with minimal configuration. | dotnet | 4256 |
 | 6 |  [print-it](https://github.com/huysentruitw/print-it) | Windows service for printing PDF files to a local or network printer in the background | huysentruitw | 28 |
 | 7 |  [Sprache](https://github.com/sprache/Sprache) | A tiny, friendly, C# parser construction library | sprache | 1908 |
 | 8 |  [MediatRedux](https://github.com/sstorie/MediatRedux) | An implementation of the Redux pattern in .NET using MediatR to provide strongly typed reducers | sstorie | 18 |
-| 9 |  [MediatR](https://github.com/jbogard/MediatR) | Simple, unambitious mediator implementation in .NET | jbogard | 7333 |
+| 9 |  [MediatR](https://github.com/jbogard/MediatR) | Simple, unambitious mediator implementation in .NET | jbogard | 7334 |
 | 10 |  [nuke](https://github.com/nuke-build/nuke) | 🏗 The AKEless Build System for C#/.NET | nuke-build | 1380 |
 | 11 |  [Netjs](https://github.com/praeclarum/Netjs) | Compile .NET assemblies to TypeScript and JavaScript | praeclarum | 904 |
 | 12 |  [Ensure.That](https://github.com/danielwertheim/Ensure.That) | Guard clause project for .NET | danielwertheim | 372 |
@@ -69,7 +69,7 @@
 | 29 |  [AppConfiguration-DotnetProvider](https://github.com/Azure/AppConfiguration-DotnetProvider) | The .NET Standard configuration provider for Azure App Configuration | Azure | 46 |
 | 30 |  [GlassTL](https://github.com/GlassTL/GlassTL) | MTProto 2.0 Client in dotnet core | GlassTL | 5 |
 | 31 |  [Dazinator.Extensions.DependencyInjection](https://github.com/dazinator/Dazinator.Extensions.DependencyInjection) | Useful additions to Microsoft.Extensions.DependencyInjection such as Named Services. | dazinator | 24 |
-| 32 |  [spy-spotify](https://github.com/jwallet/spy-spotify) | 🎤 Records Spotify to mp3 without ads and adds media tags to the files 🎵 | jwallet | 1277 |
+| 32 |  [spy-spotify](https://github.com/jwallet/spy-spotify) | 🎤 Records Spotify to mp3 without ads and adds media tags to the files 🎵 | jwallet | 1276 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -79,7 +79,7 @@
 | 1 |  [tdlight-telegram-bot-api](https://github.com/JosXa/tdlight-telegram-bot-api) | The Telegram Bot API provides an HTTP API for creating Telegram Bots. | JosXa | 1 |
 | 2 |  [telegram-bot-api](https://github.com/tdlib/telegram-bot-api) | Telegram Bot API server | tdlib | 1430 |
 | 3 |  [tdlight-telegram-bot-api](https://github.com/tdlight-team/tdlight-telegram-bot-api) | The TDLight Telegram Bot API is an actively enhanced fork of the original Bot API, featuring experimental user support, proxies, unlimited files size, and more. | tdlight-team | 58 |
-| 4 |  [tdesktop](https://github.com/telegramdesktop/tdesktop) | Telegram Desktop messaging app | telegramdesktop | 17786 |
+| 4 |  [tdesktop](https://github.com/telegramdesktop/tdesktop) | Telegram Desktop messaging app | telegramdesktop | 17787 |
 | 5 |  [krunner-symbols](https://github.com/domschrei/krunner-symbols) | A lightweight KRunner plugin (Plasma 5) to retrieve unicode symbols, or any other string, based on a corresponding keyword. | domschrei | 89 |
 
 **[⬆ Back to Index](#-contents)**
@@ -135,7 +135,7 @@
 ## JavaScript
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [omni](https://github.com/alyssaxuu/omni) | The all-in-one tool to supercharge your productivity ⌨️ | alyssaxuu | 2271 |
+| 1 |  [omni](https://github.com/alyssaxuu/omni) | The all-in-one tool to supercharge your productivity ⌨️ | alyssaxuu | 2274 |
 | 2 |  [license-checker-rseidelsohn](https://github.com/RSeidelsohn/license-checker-rseidelsohn) | Enhanced and updated fork of Dav Glass&#39; original but abandoned license-checker. | RSeidelsohn | 32 |
 | 3 |  [twin.macro](https://github.com/ben-rogerson/twin.macro) | 🦹‍♂️ Twin blends the magic of Tailwind with the flexibility of css-in-js (emotion, styled-components, stitches and goober) at build time. | ben-rogerson | 5258 |
 | 4 |  [active-forks](https://github.com/techgaun/active-forks) | Find active github forks of a repo https://git.io/vSnrC | techgaun | 1305 |
@@ -179,7 +179,7 @@
 |---	|---	|---	|---	|---	|
 | 1 |  [codex-readme](https://github.com/tom-doerr/codex-readme) | This program writes READMEs for you. | tom-doerr | 197 |
 | 2 |  [eventsourcing](https://github.com/pyeventsourcing/eventsourcing) | A library for event sourcing in Python. | pyeventsourcing | 1003 |
-| 3 |  [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs | public-apis | 174843 |
+| 3 |  [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs | public-apis | 174857 |
 | 4 |  [UserLixo](https://github.com/AmanoTeam/UserLixo) | Userbot for Telegram with many functions. | AmanoTeam | 50 |
 | 5 |  [hopscotch](https://github.com/pauleveritt/hopscotch) | Type-oriented registry with dependency injection. | pauleveritt | 1 |
 | 6 |  [piku](https://github.com/piku/piku) | The tiniest PaaS you&#39;ve ever seen. Piku allows you to do git push deployments to your own servers. | piku | 1560 |
@@ -189,7 +189,7 @@
 | 10 |  [injector](https://github.com/alecthomas/injector) | Python dependency injection framework, inspired by Guice | alecthomas | 760 |
 | 11 |  [aop](https://github.com/orsinium-labs/aop) | Aspect oriented programming for Python. Patch everything! | orsinium-labs | 8 |
 | 12 |  [deal](https://github.com/life4/deal) | Design by contract for Python. Write bug-free code. Add a few decorators, get static analysis and tests for free. | life4 | 283 |
-| 13 |  [textdistance](https://github.com/life4/textdistance) | Compute distance between sequences. 30+ algorithms, pure python implementation, common interface, optional external libs usage. | life4 | 2588 |
+| 13 |  [textdistance](https://github.com/life4/textdistance) | Compute distance between sequences. 30+ algorithms, pure python implementation, common interface, optional external libs usage. | life4 | 2589 |
 | 14 |  [cachetools](https://github.com/tkem/cachetools) | Extensible memoizing collections and decorators | tkem | 1195 |
 | 15 |  [python-broqer](https://github.com/semiversus/python-broqer) | Carefully crafted library to operate with continuous streams of data in a reactive style with publish/subscribe, asyncio support and broker functionality. | semiversus | 64 |
 | 16 |  [haikunatorpy](https://github.com/Atrox/haikunatorpy) | Generate Heroku-like random names to use in your python applications | Atrox | 110 |
@@ -229,7 +229,7 @@
 | 50 |  [pycollection-pipelines](https://github.com/povilasb/pycollection-pipelines) | Collection pipeline pattern implementation in Python | povilasb | 7 |
 | 51 |  [ensure](https://github.com/kislyuk/ensure) | Validate conditions, Python style. | kislyuk | 134 |
 | 52 |  [loguru](https://github.com/Delgan/loguru) | Python logging made (stupidly) simple | Delgan | 10825 |
-| 53 |  [pyrogram](https://github.com/pyrogram/pyrogram) | Elegant, modern and asynchronous Telegram MTProto API framework in Python for users and bots | pyrogram | 2324 |
+| 53 |  [pyrogram](https://github.com/pyrogram/pyrogram) | Elegant, modern and asynchronous Telegram MTProto API framework in Python for users and bots | pyrogram | 2325 |
 | 54 |  [dephell](https://github.com/dephell/dephell) | :package: :fire: Python project management. Manage packages: convert between formats, lock, install, resolve, isolate, test, build graph, show outdated, audit. Manage venvs, build package, bump version. | dephell | 1733 |
 | 55 |  [Botkit](https://github.com/autogram/Botkit) | Opinionated, library-agnostic Python framework for rapid development of Telegram bots and userbots with focus on maintainability for large projects. | autogram | 9 |
 | 56 |  [nameof](https://github.com/alexmojaki/nameof) | Python function to get the name of a variable or attribute, as in C# | alexmojaki | 9 |
@@ -297,21 +297,21 @@
 | 2 |  [code-server](https://github.com/coder/code-server) | VS Code in the browser | coder | 51168 |
 | 3 |  [WebWindow](https://github.com/SteveSandersonMS/WebWindow) | .NET Core library to open native OS windows containing web UI on Windows, Mac, and Linux. Experimental. | SteveSandersonMS | 1987 |
 | 4 |  [ChannelHashBot](https://github.com/JosXa/ChannelHashBot) |  | JosXa | 1 |
-| 5 |  [vscode](https://github.com/microsoft/vscode) | Visual Studio Code | microsoft | 126524 |
+| 5 |  [vscode](https://github.com/microsoft/vscode) | Visual Studio Code | microsoft | 126523 |
 
 **[⬆ Back to Index](#-contents)**
 
 ## VBScript
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [pyenv-win](https://github.com/pyenv-win/pyenv-win) | pyenv for Windows. pyenv is a simple python version management tool. It lets you easily switch between multiple versions of Python. It&#39;s simple, unobtrusive, and follows the UNIX tradition of single-purpose tools that do one thing well. | pyenv-win | 1272 |
+| 1 |  [pyenv-win](https://github.com/pyenv-win/pyenv-win) | pyenv for Windows. pyenv is a simple python version management tool. It lets you easily switch between multiple versions of Python. It&#39;s simple, unobtrusive, and follows the UNIX tradition of single-purpose tools that do one thing well. | pyenv-win | 1273 |
 
 **[⬆ Back to Index](#-contents)**
 
 ## Vue
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [nocodb](https://github.com/nocodb/nocodb) | 🔥 🔥 🔥 Open Source Airtable Alternative | nocodb | 21506 |
+| 1 |  [nocodb](https://github.com/nocodb/nocodb) | 🔥 🔥 🔥 Open Source Airtable Alternative | nocodb | 21508 |
 
 **[⬆ Back to Index](#-contents)**
 
