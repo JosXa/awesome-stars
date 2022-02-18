@@ -60,7 +60,7 @@
 | 20 |  [linq2db](https://github.com/linq2db/linq2db) | Linq to database provider. | linq2db | 2254 |
 | 21 |  [Warewolf](https://github.com/Warewolf-ESB/Warewolf) | Effortless Microservice Design and Integration. This repository includes the code-base for the Warewolf Studio and Server. | Warewolf-ESB | 251 |
 | 22 |  [CppSharp](https://github.com/mono/CppSharp) | Tools and libraries to glue C/C++ APIs to high-level languages | mono | 2281 |
-| 23 |  [ravendb](https://github.com/ravendb/ravendb) | ACID Document Database | ravendb | 2931 |
+| 23 |  [ravendb](https://github.com/ravendb/ravendb) | ACID Document Database | ravendb | 2932 |
 | 24 |  [Tababular](https://github.com/rebus-org/Tababular) | :page_with_curl: Simple monospace text table formatting | rebus-org | 76 |
 | 25 |  [Rebus](https://github.com/rebus-org/Rebus) | :bus: Simple and lean service bus implementation for .NET | rebus-org | 1765 |
 | 26 |  [steal-this-code](https://github.com/appie2go/steal-this-code) | Example implementation of CQRS, Ports &amp; Adapters and Domain Driven Design | appie2go | 65 |
@@ -135,7 +135,7 @@
 ## JavaScript
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [omni](https://github.com/alyssaxuu/omni) | The all-in-one tool to supercharge your productivity ⌨️ | alyssaxuu | 3110 |
+| 1 |  [omni](https://github.com/alyssaxuu/omni) | The all-in-one tool to supercharge your productivity ⌨️ | alyssaxuu | 3111 |
 | 2 |  [license-checker-rseidelsohn](https://github.com/RSeidelsohn/license-checker-rseidelsohn) | Extract NPM package licenses. Enhanced and updated fork of Dav Glass&#39; original but abandoned license-checker. | RSeidelsohn | 38 |
 | 3 |  [twin.macro](https://github.com/ben-rogerson/twin.macro) | 🦹‍♂️ Twin blends the magic of Tailwind with the flexibility of css-in-js (emotion, styled-components, stitches and goober) at build time. | ben-rogerson | 5386 |
 | 4 |  [active-forks](https://github.com/techgaun/active-forks) | Find active github forks of a repo https://git.io/vSnrC | techgaun | 1363 |
@@ -157,7 +157,7 @@
 ## Others
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [awesome-developer-experience](https://github.com/workos-inc/awesome-developer-experience) | 🤘 A curated list of DX (Developer Experience) resources | workos-inc | 1046 |
+| 1 |  [awesome-developer-experience](https://github.com/workos-inc/awesome-developer-experience) | 🤘 A curated list of DX (Developer Experience) resources | workos-inc | 1048 |
 | 2 |  [reference](https://github.com/Randy8080/reference) | Share quick reference cheat sheet for developers. | Randy8080 | 269 |
 | 3 |  [awesome-stars](https://github.com/JosXa/awesome-stars) | A curated list of my GitHub stars by stargazed | JosXa | 2 |
 | 4 |  [AppConfiguration](https://github.com/Azure/AppConfiguration) | Questions, feedback and samples for Azure App Configuration service | Azure | 153 |
@@ -179,7 +179,7 @@
 |---	|---	|---	|---	|---	|
 | 1 |  [codex-readme](https://github.com/tom-doerr/codex-readme) | This program writes READMEs for you. | tom-doerr | 197 |
 | 2 |  [eventsourcing](https://github.com/pyeventsourcing/eventsourcing) | A library for event sourcing in Python. | pyeventsourcing | 1025 |
-| 3 |  [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs | public-apis | 180861 |
+| 3 |  [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs | public-apis | 180864 |
 | 4 |  [UserLixo](https://github.com/AmanoTeam/UserLixo) | Userbot for Telegram with many functions. | AmanoTeam | 55 |
 | 5 |  [hopscotch](https://github.com/pauleveritt/hopscotch) | Type-oriented registry with dependency injection. | pauleveritt | 1 |
 | 6 |  [piku](https://github.com/piku/piku) | The tiniest PaaS you&#39;ve ever seen. Piku allows you to do git push deployments to your own servers. | piku | 1585 |
@@ -222,7 +222,7 @@
 | 43 |  [ticktick-python](https://github.com/glasslion/ticktick-python) |  | glasslion | 15 |
 | 44 |  [tgintegration](https://github.com/JosXa/tgintegration) | Integration test and automation library for Telegram Messenger bots based on Pyrogram. | JosXa | 102 |
 | 45 |  [ptbcontrib](https://github.com/python-telegram-bot/ptbcontrib) | Community-based extensions for the python-telegram-bot library. | python-telegram-bot | 51 |
-| 46 |  [poethepoet](https://github.com/nat-n/poethepoet) | A task runner that works well with poetry. | nat-n | 400 |
+| 46 |  [poethepoet](https://github.com/nat-n/poethepoet) | A task runner that works well with poetry. | nat-n | 401 |
 | 47 |  [Motor-ODM](https://github.com/codello/Motor-ODM) | A MongoDB ODM based on Motor and Pydantic. | codello | 13 |
 | 48 |  [python-inject](https://github.com/ivankorobkov/python-inject) | Python dependency injection | ivankorobkov | 495 |
 | 49 |  [datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator) | Pydantic model generator for easy conversion of JSON, OpenAPI, JSON Schema, and YAML data sources. | koxudaxi | 819 |
@@ -272,14 +272,14 @@
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
 | 1 |  [tg-bot-api](https://github.com/ark0f/tg-bot-api) | Telegram Bot API parser and generators | ark0f | 24 |
-| 2 |  [vaultwarden](https://github.com/dani-garcia/vaultwarden) | Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs | dani-garcia | 14359 |
+| 2 |  [vaultwarden](https://github.com/dani-garcia/vaultwarden) | Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs | dani-garcia | 14360 |
 
 **[⬆ Back to Index](#-contents)**
 
 ## Shell
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [dokku](https://github.com/dokku/dokku) | A docker-powered PaaS that helps you build and manage the lifecycle of applications | dokku | 22413 |
+| 1 |  [dokku](https://github.com/dokku/dokku) | A docker-powered PaaS that helps you build and manage the lifecycle of applications | dokku | 22414 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -294,7 +294,7 @@
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
 | 1 |  [autorest](https://github.com/Azure/autorest) | OpenAPI (f.k.a Swagger) Specification code generator. Supports C#, PowerShell, Go, Java, Node.js, TypeScript, Python | Azure | 3660 |
-| 2 |  [code-server](https://github.com/coder/code-server) | VS Code in the browser | coder | 51744 |
+| 2 |  [code-server](https://github.com/coder/code-server) | VS Code in the browser | coder | 51743 |
 | 3 |  [WebWindow](https://github.com/SteveSandersonMS/WebWindow) | .NET Core library to open native OS windows containing web UI on Windows, Mac, and Linux. Experimental. | SteveSandersonMS | 1986 |
 | 4 |  [ChannelHashBot](https://github.com/JosXa/ChannelHashBot) |  | JosXa | 1 |
 | 5 |  [vscode](https://github.com/microsoft/vscode) | Visual Studio Code | microsoft | 127858 |
@@ -304,7 +304,7 @@
 ## VBScript
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [pyenv-win](https://github.com/pyenv-win/pyenv-win) | pyenv for Windows. pyenv is a simple python version management tool. It lets you easily switch between multiple versions of Python. It&#39;s simple, unobtrusive, and follows the UNIX tradition of single-purpose tools that do one thing well. | pyenv-win | 1335 |
+| 1 |  [pyenv-win](https://github.com/pyenv-win/pyenv-win) | pyenv for Windows. pyenv is a simple python version management tool. It lets you easily switch between multiple versions of Python. It&#39;s simple, unobtrusive, and follows the UNIX tradition of single-purpose tools that do one thing well. | pyenv-win | 1336 |
 
 **[⬆ Back to Index](#-contents)**
 
