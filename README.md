@@ -45,7 +45,7 @@
 | 6 |  [print-it](https://github.com/huysentruitw/print-it) | Windows service for printing PDF files to a local or network printer in the background | huysentruitw | 34 |
 | 7 |  [Sprache](https://github.com/sprache/Sprache) | A tiny, friendly, C# parser construction library | sprache | 1954 |
 | 8 |  [MediatRedux](https://github.com/sstorie/MediatRedux) | An implementation of the Redux pattern in .NET using MediatR to provide strongly typed reducers | sstorie | 18 |
-| 9 |  [MediatR](https://github.com/jbogard/MediatR) | Simple, unambitious mediator implementation in .NET | jbogard | 7809 |
+| 9 |  [MediatR](https://github.com/jbogard/MediatR) | Simple, unambitious mediator implementation in .NET | jbogard | 7810 |
 | 10 |  [nuke](https://github.com/nuke-build/nuke) | 🏗 The AKEless Build System for C#/.NET | nuke-build | 1466 |
 | 11 |  [Netjs](https://github.com/praeclarum/Netjs) | Compile .NET assemblies to TypeScript and JavaScript | praeclarum | 912 |
 | 12 |  [Ensure.That](https://github.com/danielwertheim/Ensure.That) | Guard clause project for .NET | danielwertheim | 393 |
@@ -78,7 +78,7 @@
 | 1 |  [tdlight-telegram-bot-api](https://github.com/JosXa/tdlight-telegram-bot-api) | The Telegram Bot API provides an HTTP API for creating Telegram Bots. | JosXa | 1 |
 | 2 |  [telegram-bot-api](https://github.com/tdlib/telegram-bot-api) | Telegram Bot API server | tdlib | 1535 |
 | 3 |  [tdlight-telegram-bot-api](https://github.com/tdlight-team/tdlight-telegram-bot-api) | The TDLight Telegram Bot API is an actively enhanced fork of the original Bot API, featuring experimental user support, proxies, unlimited files size, and more. | tdlight-team | 65 |
-| 4 |  [tdesktop](https://github.com/telegramdesktop/tdesktop) | Telegram Desktop messaging app | telegramdesktop | 18563 |
+| 4 |  [tdesktop](https://github.com/telegramdesktop/tdesktop) | Telegram Desktop messaging app | telegramdesktop | 18564 |
 | 5 |  [krunner-symbols](https://github.com/domschrei/krunner-symbols) | A lightweight KRunner plugin (Plasma 5) to retrieve unicode symbols, or any other string, based on a corresponding keyword. | domschrei | 92 |
 
 **[⬆ Back to Index](#-contents)**
@@ -141,7 +141,7 @@
 | 5 |  [composerize](https://github.com/magicmark/composerize) | 🏃→🎼  docker run asdlksjfksdf &amp;gt; docker-composerize up | magicmark | 1509 |
 | 6 |  [fork-sync](https://github.com/tgymnich/fork-sync) | 🔄 Github action to sync your forks | tgymnich | 175 |
 | 7 |  [quote-bot](https://github.com/LyoSU/quote-bot) | Telegram quote bot | LyoSU | 158 |
-| 8 |  [node-telegram-bot-api](https://github.com/yagop/node-telegram-bot-api) | Telegram Bot API for NodeJS | yagop | 6064 |
+| 8 |  [node-telegram-bot-api](https://github.com/yagop/node-telegram-bot-api) | Telegram Bot API for NodeJS | yagop | 6066 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -157,7 +157,7 @@
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
 | 1 |  [awesome-developer-experience](https://github.com/workos/awesome-developer-experience) | 🤘 A curated list of DX (Developer Experience) resources | workos | 1119 |
-| 2 |  [reference](https://github.com/Randy8080/reference) | Share quick reference cheat sheet for developers. | Randy8080 | 318 |
+| 2 |  [reference](https://github.com/Randy8080/reference) | Share quick reference cheat sheet for developers. | Randy8080 | 319 |
 | 3 |  [awesome-stars](https://github.com/JosXa/awesome-stars) | A curated list of my GitHub stars by stargazed | JosXa | 2 |
 | 4 |  [AppConfiguration](https://github.com/Azure/AppConfiguration) | Questions, feedback and samples for Azure App Configuration service | Azure | 158 |
 | 5 |  [vscode-remote-try-python](https://github.com/JosXa/vscode-remote-try-python) | Python sample project for trying out the VS Code Remote - Containers extension | JosXa | 1 |
@@ -178,7 +178,7 @@
 |---	|---	|---	|---	|---	|
 | 1 |  [codex-readme](https://github.com/tom-doerr/codex-readme) | This program writes READMEs for you. | tom-doerr | 205 |
 | 2 |  [eventsourcing](https://github.com/pyeventsourcing/eventsourcing) | A library for event sourcing in Python. | pyeventsourcing | 1051 |
-| 3 |  [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs | public-apis | 189443 |
+| 3 |  [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs | public-apis | 189444 |
 | 4 |  [UserLixo](https://github.com/AmanoTeam/UserLixo) | Userbot for Telegram with many functions. | AmanoTeam | 57 |
 | 5 |  [hopscotch](https://github.com/pauleveritt/hopscotch) | Type-oriented registry with dependency injection. | pauleveritt | 1 |
 | 6 |  [piku](https://github.com/piku/piku) | The tiniest PaaS you&#39;ve ever seen. Piku allows you to do git push deployments to your own servers. | piku | 1648 |
@@ -227,8 +227,8 @@
 | 49 |  [datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator) | Pydantic model generator for easy conversion of JSON, OpenAPI, JSON Schema, and YAML data sources. | koxudaxi | 912 |
 | 50 |  [pycollection-pipelines](https://github.com/povilasb/pycollection-pipelines) | Collection pipeline pattern implementation in Python | povilasb | 7 |
 | 51 |  [ensure](https://github.com/kislyuk/ensure) | Validate conditions, Python style. | kislyuk | 136 |
-| 52 |  [loguru](https://github.com/Delgan/loguru) | Python logging made (stupidly) simple | Delgan | 11491 |
-| 53 |  [pyrogram](https://github.com/pyrogram/pyrogram) | Elegant, modern and asynchronous Telegram MTProto API framework in Python for users and bots | pyrogram | 2508 |
+| 52 |  [loguru](https://github.com/Delgan/loguru) | Python logging made (stupidly) simple | Delgan | 11492 |
+| 53 |  [pyrogram](https://github.com/pyrogram/pyrogram) | Elegant, modern and asynchronous Telegram MTProto API framework in Python for users and bots | pyrogram | 2509 |
 | 54 |  [dephell](https://github.com/dephell/dephell) | :package: :fire: Python project management. Manage packages: convert between formats, lock, install, resolve, isolate, test, build graph, show outdated, audit. Manage venvs, build package, bump version. | dephell | 1742 |
 | 55 |  [Botkit](https://github.com/autogram/Botkit) | Opinionated, library-agnostic Python framework for rapid development of Telegram bots and userbots with focus on maintainability for large projects. | autogram | 11 |
 | 56 |  [nameof](https://github.com/alexmojaki/nameof) | Python function to get the name of a variable or attribute, as in C# | alexmojaki | 10 |
@@ -242,26 +242,26 @@
 | 64 |  [azure-functions-python-worker](https://github.com/Azure/azure-functions-python-worker) | Python worker for Azure Functions. | Azure | 260 |
 | 65 |  [ultimate-poll-bot](https://github.com/Nukesor/ultimate-poll-bot) | :bulb: The ultimate vote and poll bot for creating, sharing and evaluating polls inside of Telegram | Nukesor | 105 |
 | 66 |  [tgbot](https://github.com/PaulSonOfLars/tgbot) | Modular telegram group management bot | PaulSonOfLars | 501 |
-| 67 |  [orator](https://github.com/sdispater/orator) | The Orator ORM provides a simple yet beautiful ActiveRecord implementation. | sdispater | 1325 |
+| 67 |  [orator](https://github.com/sdispater/orator) | The Orator ORM provides a simple yet beautiful ActiveRecord implementation. | sdispater | 1326 |
 | 68 |  [mistune](https://github.com/lepture/mistune) | A fast yet powerful Python Markdown parser with renderers and plugins. | lepture | 2048 |
 | 69 |  [haps](https://github.com/ekiro/haps) | Pure Python dependency injection library | ekiro | 47 |
 | 70 |  [sentry-python](https://github.com/getsentry/sentry-python) | The official Python SDK for Sentry.io | getsentry | 1201 |
 | 71 |  [baron](https://github.com/PyCQA/baron) | IDE allow you to refactor code, Baron allows you to write refactoring code. | PyCQA | 269 |
-| 72 |  [python-dependency-injector](https://github.com/ets-labs/python-dependency-injector) | Dependency injection framework for Python | ets-labs | 2022 |
+| 72 |  [python-dependency-injector](https://github.com/ets-labs/python-dependency-injector) | Dependency injection framework for Python | ets-labs | 2023 |
 | 73 |  [sticker-finder](https://github.com/Nukesor/sticker-finder) | :zap: A telegram bot for searching all the stickers (just like @gif). | Nukesor | 84 |
 | 74 |  [dokku-dashboard](https://github.com/lohanbodevan/dokku-dashboard) | Dokku PaaS Dashboard | lohanbodevan | 14 |
 | 75 |  [insurance-chatbot-prototype](https://github.com/JosXa/insurance-chatbot-prototype) | Chatbot Prototype for Smartphone Insurance Damage Claims | JosXa | 3 |
 | 76 |  [BotListBot](https://github.com/JosXa/BotListBot) | Repository of Telegram&#39;s BotListBot | JosXa | 54 |
 | 77 |  [make-stub-files](https://github.com/edreamleo/make-stub-files) | Script and config file that creates python stub (.pyi) files | edreamleo | 30 |
 | 78 |  [logzero](https://github.com/metachris/logzero) | Robust and effective logging for Python 2 and 3. | metachris | 1021 |
-| 79 |  [Telethon](https://github.com/LonamiWebs/Telethon) | Pure Python 3 MTProto API Telegram client library, for bots too! | LonamiWebs | 6329 |
+| 79 |  [Telethon](https://github.com/LonamiWebs/Telethon) | Pure Python 3 MTProto API Telegram client library, for bots too! | LonamiWebs | 6330 |
 | 80 |  [fbmq](https://github.com/conbus/fbmq) | (Deprecated) Facebook Messenger Platform Python Library (Facebook Chatbot Library) | conbus | 170 |
 | 81 |  [coconut](https://github.com/evhub/coconut) | Simple, elegant, Pythonic functional programming. | evhub | 3470 |
 | 82 |  [sudobot](https://github.com/bvanrijn/sudobot) | run commands on your server via a Telegram bot | bvanrijn | 45 |
 | 83 |  [mogo](https://github.com/joshmarshall/mogo) | A MongoDB object wrapper around PyMongo (for Python) | joshmarshall | 88 |
 | 84 |  [teleGit](https://github.com/HeavenH/teleGit) | Telegram Bot in Python | HeavenH | 22 |
 | 85 |  [python-telegram-handler](https://github.com/sashgorokhov/python-telegram-handler) | A python logging handler that sends logs via Telegram Bot Api. | sashgorokhov | 79 |
-| 86 |  [python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot) | We have made you a wrapper you can&#39;t refuse | python-telegram-bot | 18226 |
+| 86 |  [python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot) | We have made you a wrapper you can&#39;t refuse | python-telegram-bot | 18229 |
 | 87 |  [pymessenger](https://github.com/davidchua/pymessenger) | A Python Wrapper for the FB Messenger Bot API (Send/Receive API) | davidchua | 458 |
 | 88 |  [wundervim](https://github.com/khadiwala/wundervim) | Wunderlist plugin for vim | khadiwala | 4 |
 
@@ -297,11 +297,11 @@
 | 3 |  [slate](https://github.com/ianstormtaylor/slate) | A completely customizable framework for building rich text editors. (Currently in beta.) | ianstormtaylor | 24108 |
 | 4 |  [fluentui](https://github.com/microsoft/fluentui) | Fluent UI web represents a collection of utilities, React components, and web components for building web applications. | microsoft | 13150 |
 | 5 |  [autorest](https://github.com/Azure/autorest) | OpenAPI (f.k.a Swagger) Specification code generator. Supports C#, PowerShell, Go, Java, Node.js, TypeScript, Python | Azure | 3743 |
-| 6 |  [code-server](https://github.com/coder/code-server) | VS Code in the browser | coder | 52928 |
-| 7 |  [nocodb](https://github.com/nocodb/nocodb) | 🔥 🔥 🔥 Open Source Airtable Alternative - turns any MySQL, Postgres, SQLite into a spreadsheet with REST APIs. | nocodb | 26096 |
+| 6 |  [code-server](https://github.com/coder/code-server) | VS Code in the browser | coder | 52933 |
+| 7 |  [nocodb](https://github.com/nocodb/nocodb) | 🔥 🔥 🔥 Open Source Airtable Alternative - turns any MySQL, Postgres, SQLite into a spreadsheet with REST APIs. | nocodb | 26097 |
 | 8 |  [WebWindow](https://github.com/SteveSandersonMS/WebWindow) | .NET Core library to open native OS windows containing web UI on Windows, Mac, and Linux. Experimental. | SteveSandersonMS | 1990 |
 | 9 |  [ChannelHashBot](https://github.com/JosXa/ChannelHashBot) |  | JosXa | 1 |
-| 10 |  [vscode](https://github.com/microsoft/vscode) | Visual Studio Code | microsoft | 130212 |
+| 10 |  [vscode](https://github.com/microsoft/vscode) | Visual Studio Code | microsoft | 130217 |
 
 **[⬆ Back to Index](#-contents)**
 
