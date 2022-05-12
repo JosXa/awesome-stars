@@ -52,7 +52,7 @@
 | 13 |  [Ensure.That](https://github.com/danielwertheim/Ensure.That) | Guard clause project for .NET | danielwertheim | 401 |
 | 14 |  [rxns](https://github.com/captainjono/rxns) | Fullstack micro-actor-services for Rx | captainjono | 13 |
 | 15 |  [reactive](https://github.com/dotnet/reactive) | The Reactive Extensions for .NET | dotnet | 5379 |
-| 16 |  [templating](https://github.com/dotnet/templating) | This repo contains the Template Engine which is used by dotnet new | dotnet | 1229 |
+| 16 |  [templating](https://github.com/dotnet/templating) | This repo contains the Template Engine which is used by dotnet new | dotnet | 1228 |
 | 17 |  [GtkSharp](https://github.com/GtkSharp/GtkSharp) | .NET wrapper for Gtk and other related libraries | GtkSharp | 619 |
 | 18 |  [egram.tel](https://github.com/egramtel/egram.tel) | Crossplatform Telegram client | egramtel | 322 |
 | 19 |  [OpenTl.ClientApi](https://github.com/OpenTl/OpenTl.ClientApi) | The Api client library that implements the MtProto 2.0. To connect to servers, such as Telegram | OpenTl | 83 |
@@ -127,7 +127,7 @@
 ## Java
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [OpenSearch](https://github.com/opensearch-project/OpenSearch) | 🔎 Open source distributed and RESTful search engine. | opensearch-project | 4968 |
+| 1 |  [OpenSearch](https://github.com/opensearch-project/OpenSearch) | 🔎 Open source distributed and RESTful search engine. | opensearch-project | 4969 |
 | 2 |  [mypy-pycharm](https://github.com/leinardi/mypy-pycharm) | A plugin providing both real-time and on-demand scanning of Python files with Mypy from within PyCharm/IDEA. | leinardi | 132 |
 | 3 |  [black-pycharm](https://github.com/pablogsal/black-pycharm) | Pycharm plugin for https://github.com/ambv/black | pablogsal | 30 |
 
@@ -158,7 +158,7 @@
 ## Others
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [awesome-developer-experience](https://github.com/workos/awesome-developer-experience) | 🤘 A curated list of DX (Developer Experience) resources | workos | 1131 |
+| 1 |  [awesome-developer-experience](https://github.com/workos/awesome-developer-experience) | 🤘 A curated list of DX (Developer Experience) resources | workos | 1132 |
 | 2 |  [reference](https://github.com/Randy8080/reference) | Share quick reference cheat sheet for developers. | Randy8080 | 334 |
 | 3 |  [awesome-stars](https://github.com/JosXa/awesome-stars) | A curated list of my GitHub stars by stargazed | JosXa | 2 |
 | 4 |  [AppConfiguration](https://github.com/Azure/AppConfiguration) | Questions, feedback and samples for Azure App Configuration service | Azure | 159 |
@@ -180,7 +180,7 @@
 |---	|---	|---	|---	|---	|
 | 1 |  [codex-readme](https://github.com/tom-doerr/codex-readme) | This program writes READMEs for you. | tom-doerr | 211 |
 | 2 |  [eventsourcing](https://github.com/pyeventsourcing/eventsourcing) | A library for event sourcing in Python. | pyeventsourcing | 1068 |
-| 3 |  [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs | public-apis | 191524 |
+| 3 |  [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs | public-apis | 191527 |
 | 4 |  [UserLixo](https://github.com/AmanoTeam/UserLixo) | Userbot for Telegram with many functions. | AmanoTeam | 61 |
 | 5 |  [hopscotch](https://github.com/pauleveritt/hopscotch) | Type-oriented registry with dependency injection. | pauleveritt | 1 |
 | 6 |  [piku](https://github.com/piku/piku) | The tiniest PaaS you&#39;ve ever seen. Piku allows you to do git push deployments to your own servers. | piku | 1690 |
@@ -204,7 +204,7 @@
 | 24 |  [wired_injector](https://github.com/pauleveritt/wired_injector) | Type-based calling of functions, dataclasses, classes, and more, based on wired containers. | pauleveritt | 1 |
 | 25 |  [umwelt](https://github.com/thilp/umwelt) | Configure your program via environment variables, validated by pydantic. | thilp | 3 |
 | 26 |  [ormantic](https://github.com/awesometoolbox/ormantic) | Async ORM + Pydantic = Ormantic ❤️ | awesometoolbox | 134 |
-| 27 |  [openapi-python-client](https://github.com/openapi-generators/openapi-python-client) | Generate modern Python clients from OpenAPI | openapi-generators | 357 |
+| 27 |  [openapi-python-client](https://github.com/openapi-generators/openapi-python-client) | Generate modern Python clients from OpenAPI | openapi-generators | 358 |
 | 28 |  [cruft](https://github.com/cruft/cruft) | Allows you to maintain all the necessary cruft for packaging and building projects separate from the code you intentionally write. Built on-top of, and fully compatible with, CookieCutter. | cruft | 423 |
 | 29 |  [toolz](https://github.com/pytoolz/toolz) | A functional standard library for Python. | pytoolz | 3902 |
 | 30 |  [formation](https://github.com/jondot/formation) | A generic functional middleware infrastructure for Python. | jondot | 14 |
@@ -301,10 +301,10 @@
 | 5 |  [fluentui](https://github.com/microsoft/fluentui) | Fluent UI web represents a collection of utilities, React components, and web components for building web applications. | microsoft | 13295 |
 | 6 |  [autorest](https://github.com/Azure/autorest) | OpenAPI (f.k.a Swagger) Specification code generator. Supports C#, PowerShell, Go, Java, Node.js, TypeScript, Python | Azure | 3784 |
 | 7 |  [code-server](https://github.com/coder/code-server) | VS Code in the browser | coder | 53437 |
-| 8 |  [nocodb](https://github.com/nocodb/nocodb) | 🔥 🔥 🔥 Open Source Airtable Alternative - turns any MySQL, Postgres, SQLite into a Spreadsheet with REST APIs. | nocodb | 27376 |
+| 8 |  [nocodb](https://github.com/nocodb/nocodb) | 🔥 🔥 🔥 Open Source Airtable Alternative - turns any MySQL, Postgres, SQLite into a Spreadsheet with REST APIs. | nocodb | 27379 |
 | 9 |  [WebWindow](https://github.com/SteveSandersonMS/WebWindow) | .NET Core library to open native OS windows containing web UI on Windows, Mac, and Linux. Experimental. | SteveSandersonMS | 1988 |
 | 10 |  [ChannelHashBot](https://github.com/JosXa/ChannelHashBot) |  | JosXa | 1 |
-| 11 |  [vscode](https://github.com/microsoft/vscode) | Visual Studio Code | microsoft | 131522 |
+| 11 |  [vscode](https://github.com/microsoft/vscode) | Visual Studio Code | microsoft | 131525 |
 
 **[⬆ Back to Index](#-contents)**
 
