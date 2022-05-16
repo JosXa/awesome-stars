@@ -77,7 +77,7 @@
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
 | 1 |  [tdlight-telegram-bot-api](https://github.com/JosXa/tdlight-telegram-bot-api) | The Telegram Bot API provides an HTTP API for creating Telegram Bots. | JosXa | 1 |
-| 2 |  [telegram-bot-api](https://github.com/tdlib/telegram-bot-api) | Telegram Bot API server | tdlib | 1590 |
+| 2 |  [telegram-bot-api](https://github.com/tdlib/telegram-bot-api) | Telegram Bot API server | tdlib | 1591 |
 | 3 |  [tdlight-telegram-bot-api](https://github.com/tdlight-team/tdlight-telegram-bot-api) | The TDLight Telegram Bot API is an actively enhanced fork of the original Bot API, featuring experimental user support, proxies, unlimited files size, and more. | tdlight-team | 68 |
 | 4 |  [tdesktop](https://github.com/telegramdesktop/tdesktop) | Telegram Desktop messaging app | telegramdesktop | 18803 |
 | 5 |  [krunner-symbols](https://github.com/domschrei/krunner-symbols) | A lightweight KRunner plugin (Plasma 5) to retrieve unicode symbols, or any other string, based on a corresponding keyword. | domschrei | 92 |
@@ -136,7 +136,7 @@
 ## JavaScript
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [omni](https://github.com/alyssaxuu/omni) | The all-in-one tool to supercharge your productivity ⌨️ | alyssaxuu | 4536 |
+| 1 |  [omni](https://github.com/alyssaxuu/omni) | The all-in-one tool to supercharge your productivity ⌨️ | alyssaxuu | 4537 |
 | 2 |  [license-checker-rseidelsohn](https://github.com/RSeidelsohn/license-checker-rseidelsohn) | Extract NPM package licenses. Enhanced and updated fork of Dav Glass&#39; original but abandoned license-checker. | RSeidelsohn | 46 |
 | 3 |  [twin.macro](https://github.com/ben-rogerson/twin.macro) | 🦹‍♂️ Twin blends the magic of Tailwind with the flexibility of css-in-js (emotion, styled-components, stitches and goober) at build time. | ben-rogerson | 5734 |
 | 4 |  [active-forks](https://github.com/techgaun/active-forks) | Find active github forks of a repo https://git.io/vSnrC | techgaun | 1529 |
@@ -180,7 +180,7 @@
 |---	|---	|---	|---	|---	|
 | 1 |  [codex-readme](https://github.com/tom-doerr/codex-readme) | This program writes READMEs for you. | tom-doerr | 211 |
 | 2 |  [eventsourcing](https://github.com/pyeventsourcing/eventsourcing) | A library for event sourcing in Python. | pyeventsourcing | 1069 |
-| 3 |  [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs | public-apis | 191762 |
+| 3 |  [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs | public-apis | 191767 |
 | 4 |  [UserLixo](https://github.com/AmanoTeam/UserLixo) | Userbot for Telegram with many functions. | AmanoTeam | 61 |
 | 5 |  [hopscotch](https://github.com/pauleveritt/hopscotch) | Type-oriented registry with dependency injection. | pauleveritt | 1 |
 | 6 |  [piku](https://github.com/piku/piku) | The tiniest PaaS you&#39;ve ever seen. Piku allows you to do git push deployments to your own servers. | piku | 1712 |
@@ -191,7 +191,7 @@
 | 11 |  [aop](https://github.com/orsinium-labs/aop) | Aspect oriented programming for Python. Patch everything! | orsinium-labs | 10 |
 | 12 |  [deal](https://github.com/life4/deal) | Design by contract for Python. Write bug-free code. Add a few decorators, get static analysis and tests for free. | life4 | 393 |
 | 13 |  [textdistance](https://github.com/life4/textdistance) | Compute distance between sequences. 30+ algorithms, pure python implementation, common interface, optional external libs usage. | life4 | 2825 |
-| 14 |  [cachetools](https://github.com/tkem/cachetools) | Extensible memoizing collections and decorators | tkem | 1309 |
+| 14 |  [cachetools](https://github.com/tkem/cachetools) | Extensible memoizing collections and decorators | tkem | 1310 |
 | 15 |  [python-broqer](https://github.com/semiversus/python-broqer) | Carefully crafted library to operate with continuous streams of data in a reactive style with publish/subscribe, asyncio support and broker functionality. | semiversus | 64 |
 | 16 |  [haikunatorpy](https://github.com/Atrox/haikunatorpy) | Generate Heroku-like random names to use in your python applications | Atrox | 111 |
 | 17 |  [fastapi_client](https://github.com/dmontagu/fastapi_client) | FastAPI client generator | dmontagu | 242 |
@@ -205,7 +205,7 @@
 | 25 |  [umwelt](https://github.com/thilp/umwelt) | Configure your program via environment variables, validated by pydantic. | thilp | 3 |
 | 26 |  [ormantic](https://github.com/awesometoolbox/ormantic) | Async ORM + Pydantic = Ormantic ❤️ | awesometoolbox | 134 |
 | 27 |  [openapi-python-client](https://github.com/openapi-generators/openapi-python-client) | Generate modern Python clients from OpenAPI | openapi-generators | 360 |
-| 28 |  [cruft](https://github.com/cruft/cruft) | Allows you to maintain all the necessary cruft for packaging and building projects separate from the code you intentionally write. Built on-top of, and fully compatible with, CookieCutter. | cruft | 431 |
+| 28 |  [cruft](https://github.com/cruft/cruft) | Allows you to maintain all the necessary cruft for packaging and building projects separate from the code you intentionally write. Built on-top of, and fully compatible with, CookieCutter. | cruft | 432 |
 | 29 |  [toolz](https://github.com/pytoolz/toolz) | A functional standard library for Python. | pytoolz | 3902 |
 | 30 |  [formation](https://github.com/jondot/formation) | A generic functional middleware infrastructure for Python. | jondot | 14 |
 | 31 |  [sauron-engine](https://github.com/blurg/sauron-engine) | One engine to rule them all | blurg | 50 |
@@ -239,7 +239,7 @@
 | 59 |  [pyannotate](https://github.com/dropbox/pyannotate) | Auto-generate PEP-484 annotations | dropbox | 1304 |
 | 60 |  [contextualise](https://github.com/brettkromkamp/contextualise) | Contextualise is an effective tool particularly suited for organising information-heavy projects and activities consisting of unstructured and widely diverse data and information resources | brettkromkamp | 945 |
 | 61 |  [buslane](https://github.com/konradhalas/buslane) | Simple message (event/command) bus. | konradhalas | 27 |
-| 62 |  [notion-py](https://github.com/jamalex/notion-py) | Unofficial Python API client for Notion.so | jamalex | 3628 |
+| 62 |  [notion-py](https://github.com/jamalex/notion-py) | Unofficial Python API client for Notion.so | jamalex | 3629 |
 | 63 |  [keyboard_listener](https://github.com/dibsonthis/keyboard_listener) | Keyboard Listener is a module that allows you to create custom hotkeys (combinations) or custom keywords and bind them to custom functions in Python | dibsonthis | 76 |
 | 64 |  [azure-functions-python-worker](https://github.com/Azure/azure-functions-python-worker) | Python worker for Azure Functions. | Azure | 264 |
 | 65 |  [ultimate-poll-bot](https://github.com/Nukesor/ultimate-poll-bot) | :bulb: The ultimate vote and poll bot for creating, sharing and evaluating polls inside of Telegram | Nukesor | 106 |
@@ -247,7 +247,7 @@
 | 67 |  [orator](https://github.com/sdispater/orator) | The Orator ORM provides a simple yet beautiful ActiveRecord implementation. | sdispater | 1335 |
 | 68 |  [mistune](https://github.com/lepture/mistune) | A fast yet powerful Python Markdown parser with renderers and plugins. | lepture | 2062 |
 | 69 |  [haps](https://github.com/ekiro/haps) | Pure Python dependency injection library | ekiro | 47 |
-| 70 |  [sentry-python](https://github.com/getsentry/sentry-python) | The official Python SDK for Sentry.io | getsentry | 1224 |
+| 70 |  [sentry-python](https://github.com/getsentry/sentry-python) | The official Python SDK for Sentry.io | getsentry | 1225 |
 | 71 |  [baron](https://github.com/PyCQA/baron) | IDE allow you to refactor code, Baron allows you to write refactoring code. | PyCQA | 270 |
 | 72 |  [python-dependency-injector](https://github.com/ets-labs/python-dependency-injector) | Dependency injection framework for Python | ets-labs | 2104 |
 | 73 |  [sticker-finder](https://github.com/Nukesor/sticker-finder) | :zap: A telegram bot for searching all the stickers (just like @gif). | Nukesor | 84 |
@@ -256,7 +256,7 @@
 | 76 |  [BotListBot](https://github.com/JosXa/BotListBot) | Repository of Telegram&#39;s BotListBot | JosXa | 54 |
 | 77 |  [make-stub-files](https://github.com/edreamleo/make-stub-files) | Script and config file that creates python stub (.pyi) files | edreamleo | 30 |
 | 78 |  [logzero](https://github.com/metachris/logzero) | Robust and effective logging for Python 2 and 3. | metachris | 1020 |
-| 79 |  [Telethon](https://github.com/LonamiWebs/Telethon) | Pure Python 3 MTProto API Telegram client library, for bots too! | LonamiWebs | 6454 |
+| 79 |  [Telethon](https://github.com/LonamiWebs/Telethon) | Pure Python 3 MTProto API Telegram client library, for bots too! | LonamiWebs | 6455 |
 | 80 |  [fbmq](https://github.com/conbus/fbmq) | (Deprecated) Facebook Messenger Platform Python Library (Facebook Chatbot Library) | conbus | 170 |
 | 81 |  [coconut](https://github.com/evhub/coconut) | Simple, elegant, Pythonic functional programming. | evhub | 3484 |
 | 82 |  [sudobot](https://github.com/bvanrijn/sudobot) | run commands on your server via a Telegram bot | bvanrijn | 46 |
@@ -273,14 +273,14 @@
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
 | 1 |  [tg-bot-api](https://github.com/ark0f/tg-bot-api) | Telegram Bot API parser and generators | ark0f | 28 |
-| 2 |  [vaultwarden](https://github.com/dani-garcia/vaultwarden) | Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs | dani-garcia | 16149 |
+| 2 |  [vaultwarden](https://github.com/dani-garcia/vaultwarden) | Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs | dani-garcia | 16153 |
 
 **[⬆ Back to Index](#-contents)**
 
 ## Shell
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [dokku](https://github.com/dokku/dokku) | A docker-powered PaaS that helps you build and manage the lifecycle of applications | dokku | 22985 |
+| 1 |  [dokku](https://github.com/dokku/dokku) | A docker-powered PaaS that helps you build and manage the lifecycle of applications | dokku | 22988 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -300,11 +300,11 @@
 | 4 |  [slate](https://github.com/ianstormtaylor/slate) | A completely customizable framework for building rich text editors. (Currently in beta.) | ianstormtaylor | 24349 |
 | 5 |  [fluentui](https://github.com/microsoft/fluentui) | Fluent UI web represents a collection of utilities, React components, and web components for building web applications. | microsoft | 13311 |
 | 6 |  [autorest](https://github.com/Azure/autorest) | OpenAPI (f.k.a Swagger) Specification code generator. Supports C#, PowerShell, Go, Java, Node.js, TypeScript, Python | Azure | 3788 |
-| 7 |  [code-server](https://github.com/coder/code-server) | VS Code in the browser | coder | 53490 |
-| 8 |  [nocodb](https://github.com/nocodb/nocodb) | 🔥 🔥 🔥 Open Source Airtable Alternative - turns any MySQL, Postgres, SQLite into a Spreadsheet with REST APIs. | nocodb | 27464 |
+| 7 |  [code-server](https://github.com/coder/code-server) | VS Code in the browser | coder | 53491 |
+| 8 |  [nocodb](https://github.com/nocodb/nocodb) | 🔥 🔥 🔥 Open Source Airtable Alternative - turns any MySQL, Postgres, SQLite into a Spreadsheet with REST APIs. | nocodb | 27465 |
 | 9 |  [WebWindow](https://github.com/SteveSandersonMS/WebWindow) | .NET Core library to open native OS windows containing web UI on Windows, Mac, and Linux. Experimental. | SteveSandersonMS | 1991 |
 | 10 |  [ChannelHashBot](https://github.com/JosXa/ChannelHashBot) |  | JosXa | 1 |
-| 11 |  [vscode](https://github.com/microsoft/vscode) | Visual Studio Code | microsoft | 131674 |
+| 11 |  [vscode](https://github.com/microsoft/vscode) | Visual Studio Code | microsoft | 131675 |
 
 **[⬆ Back to Index](#-contents)**
 
