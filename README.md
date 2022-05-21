@@ -40,7 +40,7 @@
 | 1 |  [ReGitLint](https://github.com/sethreno/ReGitLint) | Low friction code formatting for .net projects | sethreno | 32 |
 | 2 |  [wSimpleEncryptDecrypt](https://github.com/noraBee/wSimpleEncryptDecrypt) | a tool to simply encrypt and decrpyt stuff with certificiates | noraBee | 1 |
 | 3 |  [aspnetboilerplate](https://github.com/aspnetboilerplate/aspnetboilerplate) | ASP.NET Boilerplate - Web Application Framework | aspnetboilerplate | 10335 |
-| 4 |  [StyleCopAnalyzers](https://github.com/DotNetAnalyzers/StyleCopAnalyzers) | An implementation of StyleCop rules using the .NET Compiler Platform | DotNetAnalyzers | 2138 |
+| 4 |  [StyleCopAnalyzers](https://github.com/DotNetAnalyzers/StyleCopAnalyzers) | An implementation of StyleCop rules using the .NET Compiler Platform | DotNetAnalyzers | 2139 |
 | 5 |  [eShopOnDapr](https://github.com/dotnet-architecture/eShopOnDapr) | A sample .NET Core distributed application based on eShopOnContainers, powered by Dapr. | dotnet-architecture | 1030 |
 | 6 |  [tye](https://github.com/dotnet/tye) | Tye is a tool that makes developing, testing, and deploying microservices and distributed applications easier. Project Tye includes a local orchestrator to make developing microservices easier and the ability to deploy microservices to Kubernetes with minimal configuration. | dotnet | 4590 |
 | 7 |  [print-it](https://github.com/huysentruitw/print-it) | Windows service for printing PDF files to a local or network printer in the background | huysentruitw | 36 |
@@ -105,7 +105,7 @@
 | 1 |  [porter](https://github.com/porter-dev/porter) | Kubernetes powered PaaS that runs in your own cloud. | porter-dev | 3233 |
 | 2 |  [nomad](https://github.com/hashicorp/nomad) | Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations. | hashicorp | 11059 |
 | 3 |  [gpwm](https://github.com/dasdipanjan04/gpwm) | A go based open source password manager | dasdipanjan04 | 2 |
-| 4 |  [flynn](https://github.com/flynn/flynn) | [UNMAINTAINED] A next generation open source platform as a service (PaaS) | flynn | 7884 |
+| 4 |  [flynn](https://github.com/flynn/flynn) | [UNMAINTAINED] A next generation open source platform as a service (PaaS) | flynn | 7883 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -180,7 +180,7 @@
 |---	|---	|---	|---	|---	|
 | 1 |  [codex-readme](https://github.com/tom-doerr/codex-readme) | This program writes READMEs for you. | tom-doerr | 213 |
 | 2 |  [eventsourcing](https://github.com/pyeventsourcing/eventsourcing) | A library for event sourcing in Python. | pyeventsourcing | 1070 |
-| 3 |  [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs | public-apis | 192735 |
+| 3 |  [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs | public-apis | 192747 |
 | 4 |  [UserLixo](https://github.com/AmanoTeam/UserLixo) | Userbot for Telegram with many functions. | AmanoTeam | 61 |
 | 5 |  [hopscotch](https://github.com/pauleveritt/hopscotch) | Type-oriented registry with dependency injection. | pauleveritt | 1 |
 | 6 |  [piku](https://github.com/piku/piku) | The tiniest PaaS you&#39;ve ever seen. Piku allows you to do git push deployments to your own servers. | piku | 1726 |
@@ -204,7 +204,7 @@
 | 24 |  [wired_injector](https://github.com/pauleveritt/wired_injector) | Type-based calling of functions, dataclasses, classes, and more, based on wired containers. | pauleveritt | 1 |
 | 25 |  [umwelt](https://github.com/thilp/umwelt) | Configure your program via environment variables, validated by pydantic. | thilp | 3 |
 | 26 |  [ormantic](https://github.com/awesometoolbox/ormantic) | Async ORM + Pydantic = Ormantic ❤️ | awesometoolbox | 134 |
-| 27 |  [openapi-python-client](https://github.com/openapi-generators/openapi-python-client) | Generate modern Python clients from OpenAPI | openapi-generators | 365 |
+| 27 |  [openapi-python-client](https://github.com/openapi-generators/openapi-python-client) | Generate modern Python clients from OpenAPI | openapi-generators | 366 |
 | 28 |  [cruft](https://github.com/cruft/cruft) | Allows you to maintain all the necessary cruft for packaging and building projects separate from the code you intentionally write. Built on-top of, and fully compatible with, CookieCutter. | cruft | 437 |
 | 29 |  [toolz](https://github.com/pytoolz/toolz) | A functional standard library for Python. | pytoolz | 3907 |
 | 30 |  [formation](https://github.com/jondot/formation) | A generic functional middleware infrastructure for Python. | jondot | 14 |
@@ -273,7 +273,7 @@
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
 | 1 |  [tg-bot-api](https://github.com/ark0f/tg-bot-api) | Telegram Bot API parser and generators | ark0f | 28 |
-| 2 |  [vaultwarden](https://github.com/dani-garcia/vaultwarden) | Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs | dani-garcia | 16234 |
+| 2 |  [vaultwarden](https://github.com/dani-garcia/vaultwarden) | Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs | dani-garcia | 16233 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -301,7 +301,7 @@
 | 5 |  [fluentui](https://github.com/microsoft/fluentui) | Fluent UI web represents a collection of utilities, React components, and web components for building web applications. | microsoft | 13328 |
 | 6 |  [autorest](https://github.com/Azure/autorest) | OpenAPI (f.k.a Swagger) Specification code generator. Supports C#, PowerShell, Go, Java, Node.js, TypeScript, Python | Azure | 3794 |
 | 7 |  [code-server](https://github.com/coder/code-server) | VS Code in the browser | coder | 53600 |
-| 8 |  [nocodb](https://github.com/nocodb/nocodb) | 🔥 🔥 🔥 Open Source Airtable Alternative - turns any MySQL, Postgres, SQLite into a Spreadsheet with REST APIs. | nocodb | 27593 |
+| 8 |  [nocodb](https://github.com/nocodb/nocodb) | 🔥 🔥 🔥 Open Source Airtable Alternative - turns any MySQL, Postgres, SQLite into a Spreadsheet with REST APIs. | nocodb | 27595 |
 | 9 |  [WebWindow](https://github.com/SteveSandersonMS/WebWindow) | .NET Core library to open native OS windows containing web UI on Windows, Mac, and Linux. Experimental. | SteveSandersonMS | 1992 |
 | 10 |  [ChannelHashBot](https://github.com/JosXa/ChannelHashBot) |  | JosXa | 1 |
 | 11 |  [vscode](https://github.com/microsoft/vscode) | Visual Studio Code | microsoft | 131902 |
