@@ -144,7 +144,7 @@
 | 4 |  [omni](https://github.com/alyssaxuu/omni) | The all-in-one tool to supercharge your productivity ⌨️ | alyssaxuu | 5464 |
 | 5 |  [license-checker-rseidelsohn](https://github.com/RSeidelsohn/license-checker-rseidelsohn) | Extract NPM package licenses. Enhanced and updated fork of Dav Glass&#39; original but abandoned license-checker. | RSeidelsohn | 58 |
 | 6 |  [active-forks](https://github.com/techgaun/active-forks) | Find active github forks of a repo https://git.io/vSnrC | techgaun | 1716 |
-| 7 |  [composerize](https://github.com/magicmark/composerize) | 🏃→🎼  docker run asdlksjfksdf &amp;gt; docker-composerize up | magicmark | 1783 |
+| 7 |  [composerize](https://github.com/magicmark/composerize) | 🏃→🎼  docker run asdlksjfksdf &amp;gt; docker-composerize up | magicmark | 1784 |
 | 8 |  [fork-sync](https://github.com/tgymnich/fork-sync) | 🔄 Github action to sync your forks | tgymnich | 206 |
 | 9 |  [quote-bot](https://github.com/LyoSU/quote-bot) | Telegram quote bot | LyoSU | 184 |
 | 10 |  [node-telegram-bot-api](https://github.com/yagop/node-telegram-bot-api) | Telegram Bot API for NodeJS | yagop | 6490 |
@@ -195,7 +195,7 @@
 | 11 |  [copier](https://github.com/copier-org/copier) | Library and command-line utility for rendering projects templates. | copier-org | 700 |
 | 12 |  [injector](https://github.com/alecthomas/injector) | Python dependency injection framework, inspired by Guice | alecthomas | 833 |
 | 13 |  [aop](https://github.com/orsinium-labs/aop) | Aspect oriented programming for Python. Patch everything! | orsinium-labs | 12 |
-| 14 |  [deal](https://github.com/life4/deal) | Design by contract for Python. Write bug-free code. Add a few decorators, get static analysis and tests for free. | life4 | 441 |
+| 14 |  [deal](https://github.com/life4/deal) | Design by contract for Python. Write bug-free code. Add a few decorators, get static analysis and tests for free. | life4 | 442 |
 | 15 |  [textdistance](https://github.com/life4/textdistance) | Compute distance between sequences. 30+ algorithms, pure python implementation, common interface, optional external libs usage. | life4 | 2945 |
 | 16 |  [cachetools](https://github.com/tkem/cachetools) | Extensible memoizing collections and decorators | tkem | 1435 |
 | 17 |  [python-broqer](https://github.com/semiversus/python-broqer) | Carefully crafted library to operate with continuous streams of data in a reactive style with publish/subscribe, asyncio support and broker functionality. | semiversus | 65 |
@@ -223,7 +223,7 @@
 | 39 |  [pydantic-odm](https://github.com/i8enn/pydantic-odm) | Small async ODM for MongoDB based in Motor and Pydantic library | i8enn | 39 |
 | 40 |  [returns](https://github.com/dry-python/returns) | Make your functions return something meaningful, typed, and safe! | dry-python | 2417 |
 | 41 |  [pymaybe](https://github.com/ekampf/pymaybe) | A Python implementation of the Maybe pattern | ekampf | 188 |
-| 42 |  [poetry](https://github.com/python-poetry/poetry) | Python dependency management and packaging made easy. | python-poetry | 21796 |
+| 42 |  [poetry](https://github.com/python-poetry/poetry) | Python dependency management and packaging made easy. | python-poetry | 21797 |
 | 43 |  [pipenv](https://github.com/pypa/pipenv) | Python Development Workflow for Humans. | pypa | 23275 |
 | 44 |  [KanTeX](https://github.com/kantek/KanTeX) |  | kantek | 11 |
 | 45 |  [ticktick-python](https://github.com/glasslion/ticktick-python) |  | glasslion | 19 |
@@ -308,14 +308,14 @@
 | 6 |  [next-api-decorators](https://github.com/instantcommerce/next-api-decorators) | Collection of decorators to create typed Next.js API routes, with easy request validation and transformation. | instantcommerce | 242 |
 | 7 |  [jedlik](https://github.com/peak-ai/jedlik) | DynamoDB ODM for Node | peak-ai | 108 |
 | 8 |  [slate](https://github.com/ianstormtaylor/slate) | A completely customizable framework for building rich text editors. (Currently in beta.) | ianstormtaylor | 25420 |
-| 9 |  [fluentui](https://github.com/microsoft/fluentui) | Fluent UI web represents a collection of utilities, React components, and web components for building web applications. | microsoft | 13987 |
+| 9 |  [fluentui](https://github.com/microsoft/fluentui) | Fluent UI web represents a collection of utilities, React components, and web components for building web applications. | microsoft | 13988 |
 | 10 |  [twin.macro](https://github.com/ben-rogerson/twin.macro) | 🦹‍♂️ Twin blends the magic of Tailwind with the flexibility of css-in-js (emotion, styled-components, stitches and goober) at build time. | ben-rogerson | 6227 |
 | 11 |  [autorest](https://github.com/Azure/autorest) | OpenAPI (f.k.a Swagger) Specification code generator. Supports C#, PowerShell, Go, Java, Node.js, TypeScript, Python | Azure | 3923 |
 | 12 |  [code-server](https://github.com/coder/code-server) | VS Code in the browser | coder | 56684 |
 | 13 |  [nocodb](https://github.com/nocodb/nocodb) | 🔥 🔥 🔥 Open Source Airtable Alternative - turns any MySQL, Postgres, SQLite into a Spreadsheet with REST APIs. | nocodb | 29935 |
 | 14 |  [WebWindow](https://github.com/SteveSandersonMS/WebWindow) | .NET Core library to open native OS windows containing web UI on Windows, Mac, and Linux. Experimental. | SteveSandersonMS | 1993 |
 | 15 |  [ChannelHashBot](https://github.com/JosXa/ChannelHashBot) |  | JosXa | 1 |
-| 16 |  [vscode](https://github.com/microsoft/vscode) | Visual Studio Code | microsoft | 136653 |
+| 16 |  [vscode](https://github.com/microsoft/vscode) | Visual Studio Code | microsoft | 136655 |
 
 **[⬆ Back to Index](#-contents)**
 
