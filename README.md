@@ -53,7 +53,7 @@
 | 11 |  [MediatR](https://github.com/jbogard/MediatR) | Simple, unambitious mediator implementation in .NET | jbogard | 9158 |
 | 12 |  [nuke](https://github.com/nuke-build/nuke) | 🏗 The AKEless Build System for C#/.NET | nuke-build | 1803 |
 | 13 |  [Netjs](https://github.com/praeclarum/Netjs) | Compile .NET assemblies to TypeScript and JavaScript | praeclarum | 946 |
-| 14 |  [Ensure.That](https://github.com/danielwertheim/Ensure.That) | Guard clause project for .NET | danielwertheim | 424 |
+| 14 |  [Ensure.That](https://github.com/danielwertheim/Ensure.That) | Guard clause project for .NET | danielwertheim | 423 |
 | 15 |  [rxns](https://github.com/captainjono/rxns) | Fullstack micro-actor-services for Rx | captainjono | 13 |
 | 16 |  [reactive](https://github.com/dotnet/reactive) | The Reactive Extensions for .NET | dotnet | 5778 |
 | 17 |  [templating](https://github.com/dotnet/templating) | This repo contains the Template Engine which is used by dotnet new | dotnet | 1396 |
@@ -64,7 +64,7 @@
 | 22 |  [linq2db](https://github.com/linq2db/linq2db) | Linq to database provider. | linq2db | 2530 |
 | 23 |  [Warewolf](https://github.com/Warewolf-ESB/Warewolf) | Effortless Microservice Design and Integration. This repository includes the code-base for the Warewolf Studio and Server. | Warewolf-ESB | 260 |
 | 24 |  [CppSharp](https://github.com/mono/CppSharp) | Tools and libraries to glue C/C++ APIs to high-level languages | mono | 2560 |
-| 25 |  [ravendb](https://github.com/ravendb/ravendb) | ACID Document Database | ravendb | 3170 |
+| 25 |  [ravendb](https://github.com/ravendb/ravendb) | ACID Document Database | ravendb | 3171 |
 | 26 |  [Tababular](https://github.com/rebus-org/Tababular) | :page_with_curl: Simple monospace text table formatting | rebus-org | 81 |
 | 27 |  [Rebus](https://github.com/rebus-org/Rebus) | :bus: Simple and lean service bus implementation for .NET | rebus-org | 1962 |
 | 28 |  [steal-this-code](https://github.com/appie2go/steal-this-code) | Example implementation of CQRS, Ports &amp; Adapters and Domain Driven Design | appie2go | 82 |
@@ -80,7 +80,7 @@
 ## C++
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [workerd](https://github.com/cloudflare/workerd) | The JavaScript / Wasm runtime that powers Cloudflare Workers | cloudflare | 4432 |
+| 1 |  [workerd](https://github.com/cloudflare/workerd) | The JavaScript / Wasm runtime that powers Cloudflare Workers | cloudflare | 4433 |
 | 2 |  [tdlight-telegram-bot-api](https://github.com/JosXa/tdlight-telegram-bot-api) | The Telegram Bot API provides an HTTP API for creating Telegram Bots. | JosXa | 1 |
 | 3 |  [telegram-bot-api](https://github.com/tdlib/telegram-bot-api) | Telegram Bot API server | tdlib | 2008 |
 | 4 |  [tdlight-telegram-bot-api](https://github.com/tdlight-team/tdlight-telegram-bot-api) | The TDLight Telegram Bot API is an actively enhanced fork of the original Bot API, featuring experimental user support, proxies, unlimited files size, and more. | tdlight-team | 82 |
@@ -107,7 +107,7 @@
 ## EJS
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [reference](https://github.com/Fechin/reference) | ⭕ Share quick reference cheat sheet for developers. | Fechin | 1906 |
+| 1 |  [reference](https://github.com/Fechin/reference) | ⭕ Share quick reference cheat sheet for developers. | Fechin | 1909 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -140,7 +140,7 @@
 ## Java
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [OpenSearch](https://github.com/opensearch-project/OpenSearch) | 🔎 Open source distributed and RESTful search engine. | opensearch-project | 6479 |
+| 1 |  [OpenSearch](https://github.com/opensearch-project/OpenSearch) | 🔎 Open source distributed and RESTful search engine. | opensearch-project | 6480 |
 | 2 |  [mypy-pycharm](https://github.com/leinardi/mypy-pycharm) | A plugin providing both real-time and on-demand scanning of Python files with Mypy from within PyCharm/IDEA. | leinardi | 153 |
 | 3 |  [black-pycharm](https://github.com/pablogsal/black-pycharm) | Pycharm plugin for https://github.com/ambv/black | pablogsal | 31 |
 
@@ -204,7 +204,7 @@
 | 2 |  [TrashGuy](https://github.com/TrashGuyAnimations/TrashGuy) | The Original TrashGuy™ Animation! A fun line-based text animation for all your trash disposal needs! Written in Python, this module has full Unicode and emoji support. It can be accessed from the command line directly or used as part of your scripts (i.e., chatbot plugin, loading animations, website widget, etc.) | TrashGuyAnimations | 5 |
 | 3 |  [codex-readme](https://github.com/tom-doerr/codex-readme) | This program writes READMEs for you. | tom-doerr | 242 |
 | 4 |  [eventsourcing](https://github.com/pyeventsourcing/eventsourcing) | A library for event sourcing in Python. | pyeventsourcing | 1220 |
-| 5 |  [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs | public-apis | 229299 |
+| 5 |  [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs | public-apis | 229305 |
 | 6 |  [UserLixo](https://github.com/AmanoTeam/UserLixo) | Userbot for Telegram with many functions. | AmanoTeam | 65 |
 | 7 |  [hopscotch](https://github.com/pauleveritt/hopscotch) | Type-oriented registry with dependency injection. | pauleveritt | 3 |
 | 8 |  [piku](https://github.com/piku/piku) | The tiniest PaaS you&#39;ve ever seen. Piku allows you to do git push deployments to your own servers. | piku | 2103 |
@@ -287,7 +287,7 @@
 | 85 |  [mogo](https://github.com/joshmarshall/mogo) | A MongoDB object wrapper around PyMongo (for Python) | joshmarshall | 91 |
 | 86 |  [teleGit](https://github.com/k13w/teleGit) | Telegram Bot in Python | k13w | 21 |
 | 87 |  [python-telegram-handler](https://github.com/sashgorokhov/python-telegram-handler) | A python logging handler that sends logs via Telegram Bot Api. | sashgorokhov | 83 |
-| 88 |  [python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot) | We have made you a wrapper you can&#39;t refuse | python-telegram-bot | 21151 |
+| 88 |  [python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot) | We have made you a wrapper you can&#39;t refuse | python-telegram-bot | 21152 |
 | 89 |  [pymessenger](https://github.com/davidchua/pymessenger) | A Python Wrapper for the FB Messenger Bot API (Send/Receive API) | davidchua | 459 |
 | 90 |  [wundervim](https://github.com/khadiwala/wundervim) | Wunderlist plugin for vim | khadiwala | 4 |
 
@@ -318,8 +318,8 @@
 ## TypeScript
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [novu](https://github.com/novuhq/novu) | The open-source notification infrastructure with fully functional embedded notification center | novuhq | 19033 |
-| 2 |  [hono](https://github.com/honojs/hono) | Ultrafast web framework for the Edge | honojs | 3547 |
+| 1 |  [novu](https://github.com/novuhq/novu) | The open-source notification infrastructure with fully functional embedded notification center | novuhq | 19035 |
+| 2 |  [hono](https://github.com/honojs/hono) | Ultrafast web framework for the Edge | honojs | 3548 |
 | 3 |  [next-international](https://github.com/QuiiBz/next-international) | Type-safe internationalization (i18n) for Next.js | QuiiBz | 261 |
 | 4 |  [fresh](https://github.com/denoland/fresh) | The next-gen web framework. | denoland | 10047 |
 | 5 |  [remult](https://github.com/remult/remult) | A CRUD framework for full stack TypeScript | remult | 1762 |
@@ -331,11 +331,11 @@
 | 11 |  [fluentui](https://github.com/microsoft/fluentui) | Fluent UI web represents a collection of utilities, React components, and web components for building web applications. | microsoft | 14752 |
 | 12 |  [twin.macro](https://github.com/ben-rogerson/twin.macro) | 🦹‍♂️ Twin blends the magic of Tailwind with the flexibility of css-in-js (emotion, styled-components, stitches and goober) at build time. | ben-rogerson | 6965 |
 | 13 |  [autorest](https://github.com/Azure/autorest) | OpenAPI (f.k.a Swagger) Specification code generator. Supports C#, PowerShell, Go, Java, Node.js, TypeScript, Python | Azure | 4121 |
-| 14 |  [code-server](https://github.com/coder/code-server) | VS Code in the browser | coder | 59157 |
-| 15 |  [nocodb](https://github.com/nocodb/nocodb) | 🔥 🔥 🔥 Open Source Airtable Alternative | nocodb | 34585 |
+| 14 |  [code-server](https://github.com/coder/code-server) | VS Code in the browser | coder | 59158 |
+| 15 |  [nocodb](https://github.com/nocodb/nocodb) | 🔥 🔥 🔥 Open Source Airtable Alternative | nocodb | 34587 |
 | 16 |  [WebWindow](https://github.com/SteveSandersonMS/WebWindow) | .NET Core library to open native OS windows containing web UI on Windows, Mac, and Linux. Experimental. | SteveSandersonMS | 2002 |
 | 17 |  [ChannelHashBot](https://github.com/JosXa/ChannelHashBot) |  | JosXa | 1 |
-| 18 |  [vscode](https://github.com/microsoft/vscode) | Visual Studio Code | microsoft | 143020 |
+| 18 |  [vscode](https://github.com/microsoft/vscode) | Visual Studio Code | microsoft | 143022 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -349,7 +349,7 @@
 ## Zig
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [bun](https://github.com/oven-sh/bun) | Incredibly fast JavaScript runtime, bundler, transpiler and package manager – all in one. | oven-sh | 39247 |
+| 1 |  [bun](https://github.com/oven-sh/bun) | Incredibly fast JavaScript runtime, bundler, transpiler and package manager – all in one. | oven-sh | 39250 |
 
 **[⬆ Back to Index](#-contents)**
 
