@@ -51,7 +51,7 @@
 | 8 |  [print-it](https://github.com/huysentruitw/print-it) | Windows service for printing PDF files to a local or network printer in the background | huysentruitw | 57 |
 | 9 |  [Sprache](https://github.com/sprache/Sprache) | A tiny, friendly, C# parser construction library | sprache | 2134 |
 | 10 |  [MediatRedux](https://github.com/sstorie/MediatRedux) | An implementation of the Redux pattern in .NET using MediatR to provide strongly typed reducers | sstorie | 18 |
-| 11 |  [MediatR](https://github.com/jbogard/MediatR) | Simple, unambitious mediator implementation in .NET | jbogard | 9405 |
+| 11 |  [MediatR](https://github.com/jbogard/MediatR) | Simple, unambitious mediator implementation in .NET | jbogard | 9406 |
 | 12 |  [nuke](https://github.com/nuke-build/nuke) | 🏗 The AKEless Build System for C#/.NET | nuke-build | 1858 |
 | 13 |  [Netjs](https://github.com/praeclarum/Netjs) | Compile .NET assemblies to TypeScript and JavaScript | praeclarum | 946 |
 | 14 |  [Ensure.That](https://github.com/danielwertheim/Ensure.That) | Guard clause project for .NET | danielwertheim | 425 |
@@ -64,8 +64,8 @@
 | 21 |  [TelegramStorageParser](https://github.com/MihaZupan/TelegramStorageParser) | Library to decrypt and parse Telegram Desktop&#39;s storage | MihaZupan | 44 |
 | 22 |  [linq2db](https://github.com/linq2db/linq2db) | Linq to database provider. | linq2db | 2598 |
 | 23 |  [Warewolf](https://github.com/Warewolf-ESB/Warewolf) | Effortless Microservice Design and Integration. This repository includes the code-base for the Warewolf Studio and Server. | Warewolf-ESB | 260 |
-| 24 |  [CppSharp](https://github.com/mono/CppSharp) | Tools and libraries to glue C/C++ APIs to high-level languages | mono | 2600 |
-| 25 |  [ravendb](https://github.com/ravendb/ravendb) | ACID Document Database | ravendb | 3220 |
+| 24 |  [CppSharp](https://github.com/mono/CppSharp) | Tools and libraries to glue C/C++ APIs to high-level languages | mono | 2601 |
+| 25 |  [ravendb](https://github.com/ravendb/ravendb) | ACID Document Database | ravendb | 3221 |
 | 26 |  [Tababular](https://github.com/rebus-org/Tababular) | :page_with_curl: Simple monospace text table formatting | rebus-org | 81 |
 | 27 |  [Rebus](https://github.com/rebus-org/Rebus) | :bus: Simple and lean service bus implementation for .NET | rebus-org | 2023 |
 | 28 |  [steal-this-code](https://github.com/appie2go/steal-this-code) | Example implementation of CQRS, Ports &amp; Adapters and Domain Driven Design | appie2go | 83 |
@@ -212,7 +212,7 @@
 | 9 |  [lstm_text_generator](https://github.com/Bakuutin/lstm_text_generator) | Neural network powered telegram bot | Bakuutin | 12 |
 | 10 |  [spotify_userbot](https://github.com/meanii/spotify_userbot) | This userbot updates the biography of a telegram user according to their current spotify playback. | meanii | 2 |
 | 11 |  [copier](https://github.com/copier-org/copier) | Library and command-line utility for rendering projects templates. | copier-org | 994 |
-| 12 |  [injector](https://github.com/python-injector/injector) | Python dependency injection framework, inspired by Guice | python-injector | 923 |
+| 12 |  [injector](https://github.com/python-injector/injector) | Python dependency injection framework, inspired by Guice | python-injector | 924 |
 | 13 |  [aop](https://github.com/orsinium-labs/aop) | Aspect oriented programming for Python. Patch everything! | orsinium-labs | 13 |
 | 14 |  [deal](https://github.com/life4/deal) | Design by contract for Python. Write bug-free code. Add a few decorators, get static analysis and tests for free. | life4 | 533 |
 | 15 |  [textdistance](https://github.com/life4/textdistance) | Compute distance between sequences. 30+ algorithms, pure python implementation, common interface, optional external libs usage. | life4 | 3090 |
@@ -240,9 +240,9 @@
 | 37 |  [extended_pathlib](https://github.com/KenKundert/extended_pathlib) | Extensions to stdlib pathlib | KenKundert | 2 |
 | 38 |  [odmantic](https://github.com/art049/odmantic) | Sync and Async ODM (Object Document Mapper) for MongoDB based on python type hints | art049 | 788 |
 | 39 |  [pydantic-odm](https://github.com/i8enn/pydantic-odm) | Small async ODM for MongoDB based in Motor and Pydantic library | i8enn | 39 |
-| 40 |  [returns](https://github.com/dry-python/returns) | Make your functions return something meaningful, typed, and safe! | dry-python | 2675 |
+| 40 |  [returns](https://github.com/dry-python/returns) | Make your functions return something meaningful, typed, and safe! | dry-python | 2677 |
 | 41 |  [pymaybe](https://github.com/ekampf/pymaybe) | A Python implementation of the Maybe pattern | ekampf | 200 |
-| 42 |  [poetry](https://github.com/python-poetry/poetry) | Python packaging and dependency management made easy | python-poetry | 24699 |
+| 42 |  [poetry](https://github.com/python-poetry/poetry) | Python packaging and dependency management made easy | python-poetry | 24700 |
 | 43 |  [pipenv](https://github.com/pypa/pipenv) | Python Development Workflow for Humans. | pypa | 23787 |
 | 44 |  [KanTeX](https://github.com/kantek/KanTeX) |  | kantek | 11 |
 | 45 |  [ticktick-python](https://github.com/glasslion/ticktick-python) |  | glasslion | 28 |
@@ -251,7 +251,7 @@
 | 48 |  [poethepoet](https://github.com/nat-n/poethepoet) | A task runner that works well with poetry. | nat-n | 874 |
 | 49 |  [Motor-ODM](https://github.com/codello/Motor-ODM) | A MongoDB ODM based on Motor and Pydantic. | codello | 16 |
 | 50 |  [python-inject](https://github.com/ivankorobkov/python-inject) | Python dependency injection | ivankorobkov | 554 |
-| 51 |  [datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator) | Pydantic model and dataclasses.dataclass generator for easy conversion of JSON, OpenAPI, JSON Schema, and YAML data sources. | koxudaxi | 1555 |
+| 51 |  [datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator) | Pydantic model and dataclasses.dataclass generator for easy conversion of JSON, OpenAPI, JSON Schema, and YAML data sources. | koxudaxi | 1556 |
 | 52 |  [pycollection-pipelines](https://github.com/povilasb/pycollection-pipelines) | Collection pipeline pattern implementation in Python | povilasb | 7 |
 | 53 |  [ensure](https://github.com/kislyuk/ensure) | Validate conditions, Python style. | kislyuk | 143 |
 | 54 |  [loguru](https://github.com/Delgan/loguru) | Python logging made (stupidly) simple | Delgan | 14701 |
@@ -274,7 +274,7 @@
 | 71 |  [haps](https://github.com/ekiro/haps) | Pure Python dependency injection library | ekiro | 46 |
 | 72 |  [sentry-python](https://github.com/getsentry/sentry-python) | The official Python SDK for Sentry.io | getsentry | 1505 |
 | 73 |  [baron](https://github.com/PyCQA/baron) | IDE allow you to refactor code, Baron allows you to write refactoring code. | PyCQA | 279 |
-| 74 |  [python-dependency-injector](https://github.com/ets-labs/python-dependency-injector) | Dependency injection framework for Python | ets-labs | 2820 |
+| 74 |  [python-dependency-injector](https://github.com/ets-labs/python-dependency-injector) | Dependency injection framework for Python | ets-labs | 2821 |
 | 75 |  [sticker-finder](https://github.com/Nukesor/sticker-finder) | :zap: A telegram bot for searching all the stickers (just like @gif). | Nukesor | 90 |
 | 76 |  [dokku-dashboard](https://github.com/lohanbodevan/dokku-dashboard) | Dokku PaaS Dashboard | lohanbodevan | 15 |
 | 77 |  [insurance-chatbot-prototype](https://github.com/JosXa/insurance-chatbot-prototype) | Chatbot Prototype for Smartphone Insurance Damage Claims | JosXa | 3 |
@@ -298,7 +298,7 @@
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
 | 1 |  [tg-bot-api](https://github.com/ark0f/tg-bot-api) | Telegram Bot API parser and generators | ark0f | 34 |
-| 2 |  [vaultwarden](https://github.com/dani-garcia/vaultwarden) | Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs | dani-garcia | 24429 |
+| 2 |  [vaultwarden](https://github.com/dani-garcia/vaultwarden) | Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs | dani-garcia | 24430 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -319,12 +319,12 @@
 ## TypeScript
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [novu](https://github.com/novuhq/novu) | The open-source notification infrastructure with fully functional embedded notification center | novuhq | 20141 |
-| 2 |  [hono](https://github.com/honojs/hono) | Ultrafast web framework for the Edges | honojs | 4133 |
+| 1 |  [novu](https://github.com/novuhq/novu) | The open-source notification infrastructure with fully functional embedded notification center | novuhq | 20142 |
+| 2 |  [hono](https://github.com/honojs/hono) | Ultrafast web framework for the Edges | honojs | 4135 |
 | 3 |  [next-international](https://github.com/QuiiBz/next-international) | Type-safe internationalization (i18n) for Next.js | QuiiBz | 289 |
 | 4 |  [fresh](https://github.com/denoland/fresh) | The next-gen web framework. | denoland | 10413 |
 | 5 |  [remult](https://github.com/remult/remult) | Build Full-stack, End-to-end Type-safe CRUD Apps without the Boilerplate | remult | 1975 |
-| 6 |  [actionsflow](https://github.com/actionsflow/actionsflow) | The free Zapier/IFTTT alternative for developers to automate your workflows based on Github actions | actionsflow | 2829 |
+| 6 |  [actionsflow](https://github.com/actionsflow/actionsflow) | The free Zapier/IFTTT alternative for developers to automate your workflows based on Github actions | actionsflow | 2830 |
 | 7 |  [miniflare-typescript-esbuild-jest](https://github.com/cloudflare/miniflare-typescript-esbuild-jest) | Example project using Miniflare, TypeScript, esbuild and Jest | cloudflare | 79 |
 | 8 |  [next-api-decorators](https://github.com/instantcommerce/next-api-decorators) | Collection of decorators to create typed Next.js API routes, with easy request validation and transformation. | instantcommerce | 347 |
 | 9 |  [jedlik](https://github.com/peak-ai/jedlik) | DynamoDB ODM for Node | peak-ai | 106 |
@@ -332,7 +332,7 @@
 | 11 |  [fluentui](https://github.com/microsoft/fluentui) | Fluent UI web represents a collection of utilities, React components, and web components for building web applications. | microsoft | 15291 |
 | 12 |  [twin.macro](https://github.com/ben-rogerson/twin.macro) | 🦹‍♂️ Twin blends the magic of Tailwind with the flexibility of css-in-js (emotion, styled-components, stitches and goober) at build time. | ben-rogerson | 7153 |
 | 13 |  [autorest](https://github.com/Azure/autorest) | OpenAPI (f.k.a Swagger) Specification code generator. Supports C#, PowerShell, Go, Java, Node.js, TypeScript, Python | Azure | 4176 |
-| 14 |  [code-server](https://github.com/coder/code-server) | VS Code in the browser | coder | 60013 |
+| 14 |  [code-server](https://github.com/coder/code-server) | VS Code in the browser | coder | 60014 |
 | 15 |  [nocodb](https://github.com/nocodb/nocodb) | 🔥 🔥 🔥 Open Source Airtable Alternative | nocodb | 35515 |
 | 16 |  [WebWindow](https://github.com/SteveSandersonMS/WebWindow) | .NET Core library to open native OS windows containing web UI on Windows, Mac, and Linux. Experimental. | SteveSandersonMS | 2010 |
 | 17 |  [ChannelHashBot](https://github.com/JosXa/ChannelHashBot) |  | JosXa | 1 |
@@ -350,7 +350,7 @@
 ## Zig
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [bun](https://github.com/oven-sh/bun) | Incredibly fast JavaScript runtime, bundler, transpiler, and package manager – all in one | oven-sh | 40716 |
+| 1 |  [bun](https://github.com/oven-sh/bun) | Incredibly fast JavaScript runtime, bundler, transpiler, and package manager – all in one | oven-sh | 40717 |
 
 **[⬆ Back to Index](#-contents)**
 
