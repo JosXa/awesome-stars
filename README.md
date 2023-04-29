@@ -51,7 +51,7 @@
 | 8 |  [print-it](https://github.com/huysentruitw/print-it) | Windows service for printing PDF files to a local or network printer in the background | huysentruitw | 58 |
 | 9 |  [Sprache](https://github.com/sprache/Sprache) | A tiny, friendly, C# parser construction library | sprache | 2136 |
 | 10 |  [MediatRedux](https://github.com/sstorie/MediatRedux) | An implementation of the Redux pattern in .NET using MediatR to provide strongly typed reducers | sstorie | 18 |
-| 11 |  [MediatR](https://github.com/jbogard/MediatR) | Simple, unambitious mediator implementation in .NET | jbogard | 9450 |
+| 11 |  [MediatR](https://github.com/jbogard/MediatR) | Simple, unambitious mediator implementation in .NET | jbogard | 9451 |
 | 12 |  [nuke](https://github.com/nuke-build/nuke) | 🏗 The AKEless Build System for C#/.NET | nuke-build | 1860 |
 | 13 |  [Netjs](https://github.com/praeclarum/Netjs) | Compile .NET assemblies to TypeScript and JavaScript | praeclarum | 946 |
 | 14 |  [Ensure.That](https://github.com/danielwertheim/Ensure.That) | Guard clause project for .NET | danielwertheim | 426 |
@@ -64,7 +64,7 @@
 | 21 |  [TelegramStorageParser](https://github.com/MihaZupan/TelegramStorageParser) | Library to decrypt and parse Telegram Desktop&#39;s storage | MihaZupan | 45 |
 | 22 |  [linq2db](https://github.com/linq2db/linq2db) | Linq to database provider. | linq2db | 2604 |
 | 23 |  [Warewolf](https://github.com/Warewolf-ESB/Warewolf) | Effortless Microservice Design and Integration. This repository includes the code-base for the Warewolf Studio and Server. | Warewolf-ESB | 261 |
-| 24 |  [CppSharp](https://github.com/mono/CppSharp) | Tools and libraries to glue C/C++ APIs to high-level languages | mono | 2608 |
+| 24 |  [CppSharp](https://github.com/mono/CppSharp) | Tools and libraries to glue C/C++ APIs to high-level languages | mono | 2609 |
 | 25 |  [ravendb](https://github.com/ravendb/ravendb) | ACID Document Database | ravendb | 3231 |
 | 26 |  [Tababular](https://github.com/rebus-org/Tababular) | :page_with_curl: Simple monospace text table formatting | rebus-org | 81 |
 | 27 |  [Rebus](https://github.com/rebus-org/Rebus) | :bus: Simple and lean service bus implementation for .NET | rebus-org | 2029 |
@@ -85,7 +85,7 @@
 | 2 |  [tdlight-telegram-bot-api](https://github.com/JosXa/tdlight-telegram-bot-api) | The Telegram Bot API provides an HTTP API for creating Telegram Bots. | JosXa | 1 |
 | 3 |  [telegram-bot-api](https://github.com/tdlib/telegram-bot-api) | Telegram Bot API server | tdlib | 2107 |
 | 4 |  [tdlight-telegram-bot-api](https://github.com/tdlight-team/tdlight-telegram-bot-api) | The TDLight Telegram Bot API is an actively enhanced fork of the original Bot API, featuring experimental user support, proxies, unlimited files size, and more. | tdlight-team | 88 |
-| 5 |  [tdesktop](https://github.com/telegramdesktop/tdesktop) | Telegram Desktop messaging app | telegramdesktop | 21666 |
+| 5 |  [tdesktop](https://github.com/telegramdesktop/tdesktop) | Telegram Desktop messaging app | telegramdesktop | 21667 |
 | 6 |  [krunner-symbols](https://github.com/domschrei/krunner-symbols) | A lightweight KRunner plugin (Plasma 5) to retrieve unicode symbols, or any other string, based on a corresponding keyword. | domschrei | 99 |
 
 **[⬆ Back to Index](#-contents)**
@@ -161,7 +161,7 @@
 | 9 |  [composerize](https://github.com/magicmark/composerize) | 🏃→🎼  docker run asdlksjfksdf &amp;gt; docker-composerize up | magicmark | 2244 |
 | 10 |  [fork-sync](https://github.com/tgymnich/fork-sync) | 🔄 Github action to sync your forks | tgymnich | 268 |
 | 11 |  [quote-bot](https://github.com/LyoSU/quote-bot) | Telegram quote bot | LyoSU | 228 |
-| 12 |  [node-telegram-bot-api](https://github.com/yagop/node-telegram-bot-api) | Telegram Bot API for NodeJS | yagop | 7064 |
+| 12 |  [node-telegram-bot-api](https://github.com/yagop/node-telegram-bot-api) | Telegram Bot API for NodeJS | yagop | 7065 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -298,7 +298,7 @@
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
 | 1 |  [tg-bot-api](https://github.com/ark0f/tg-bot-api) | Telegram Bot API parser and generators | ark0f | 35 |
-| 2 |  [vaultwarden](https://github.com/dani-garcia/vaultwarden) | Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs | dani-garcia | 24644 |
+| 2 |  [vaultwarden](https://github.com/dani-garcia/vaultwarden) | Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs | dani-garcia | 24645 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -319,10 +319,10 @@
 ## TypeScript
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [novu](https://github.com/novuhq/novu) | The open-source notification infrastructure with fully functional embedded notification center | novuhq | 20280 |
-| 2 |  [hono](https://github.com/honojs/hono) | Ultrafast web framework for the Edges | honojs | 4208 |
+| 1 |  [novu](https://github.com/novuhq/novu) | The open-source notification infrastructure with fully functional embedded notification center | novuhq | 20281 |
+| 2 |  [hono](https://github.com/honojs/hono) | Ultrafast web framework for the Edges | honojs | 4210 |
 | 3 |  [next-international](https://github.com/QuiiBz/next-international) | Type-safe internationalization (i18n) for Next.js | QuiiBz | 290 |
-| 4 |  [fresh](https://github.com/denoland/fresh) | The next-gen web framework. | denoland | 10462 |
+| 4 |  [fresh](https://github.com/denoland/fresh) | The next-gen web framework. | denoland | 10463 |
 | 5 |  [remult](https://github.com/remult/remult) | Build Full-stack, End-to-end Type-safe CRUD Apps without the Boilerplate | remult | 1980 |
 | 6 |  [actionsflow](https://github.com/actionsflow/actionsflow) | The free Zapier/IFTTT alternative for developers to automate your workflows based on Github actions | actionsflow | 2830 |
 | 7 |  [miniflare-typescript-esbuild-jest](https://github.com/cloudflare/miniflare-typescript-esbuild-jest) | Example project using Miniflare, TypeScript, esbuild and Jest | cloudflare | 79 |
@@ -332,8 +332,8 @@
 | 11 |  [fluentui](https://github.com/microsoft/fluentui) | Fluent UI web represents a collection of utilities, React components, and web components for building web applications. | microsoft | 15353 |
 | 12 |  [twin.macro](https://github.com/ben-rogerson/twin.macro) | 🦹‍♂️ Twin blends the magic of Tailwind with the flexibility of css-in-js (emotion, styled-components, stitches and goober) at build time. | ben-rogerson | 7181 |
 | 13 |  [autorest](https://github.com/Azure/autorest) | OpenAPI (f.k.a Swagger) Specification code generator. Supports C#, PowerShell, Go, Java, Node.js, TypeScript, Python | Azure | 4184 |
-| 14 |  [code-server](https://github.com/coder/code-server) | VS Code in the browser | coder | 60124 |
-| 15 |  [nocodb](https://github.com/nocodb/nocodb) | 🔥 🔥 🔥 Open Source Airtable Alternative | nocodb | 35653 |
+| 14 |  [code-server](https://github.com/coder/code-server) | VS Code in the browser | coder | 60125 |
+| 15 |  [nocodb](https://github.com/nocodb/nocodb) | 🔥 🔥 🔥 Open Source Airtable Alternative | nocodb | 35656 |
 | 16 |  [WebWindow](https://github.com/SteveSandersonMS/WebWindow) | .NET Core library to open native OS windows containing web UI on Windows, Mac, and Linux. Experimental. | SteveSandersonMS | 2011 |
 | 17 |  [ChannelHashBot](https://github.com/JosXa/ChannelHashBot) |  | JosXa | 1 |
 | 18 |  [vscode](https://github.com/microsoft/vscode) | Visual Studio Code | microsoft | 145560 |
@@ -350,7 +350,7 @@
 ## Zig
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [bun](https://github.com/oven-sh/bun) | Incredibly fast JavaScript runtime, bundler, transpiler, and package manager – all in one | oven-sh | 40848 |
+| 1 |  [bun](https://github.com/oven-sh/bun) | Incredibly fast JavaScript runtime, bundler, transpiler, and package manager – all in one | oven-sh | 40849 |
 
 **[⬆ Back to Index](#-contents)**
 
