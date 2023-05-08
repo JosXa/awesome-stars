@@ -70,7 +70,7 @@
 | 27 |  [Rebus](https://github.com/rebus-org/Rebus) | :bus: Simple and lean service bus implementation for .NET | rebus-org | 2039 |
 | 28 |  [steal-this-code](https://github.com/appie2go/steal-this-code) | Example implementation of CQRS, Ports &amp; Adapters and Domain Driven Design | appie2go | 83 |
 | 29 |  [tdsharp](https://github.com/egramtel/tdsharp) | C#/.NET Core bindings for TDLib (Telegram MTProto API) | egramtel | 202 |
-| 30 |  [Telegram.BotAPI](https://github.com/Eptagone/Telegram.BotAPI) | Telegram Bot API NET. One of the most complete libraries available to interact with the Telegram Bot API. | Eptagone | 75 |
+| 30 |  [Telegram.BotAPI](https://github.com/Eptagone/Telegram.BotAPI) | Telegram Bot API NET. One of the most complete libraries available to interact with the Telegram Bot API. | Eptagone | 76 |
 | 31 |  [AppConfiguration-DotnetProvider](https://github.com/Azure/AppConfiguration-DotnetProvider) | The .NET Standard configuration provider for Azure App Configuration | Azure | 66 |
 | 32 |  [GlassTL](https://github.com/GlassTL/GlassTL) | MTProto 2.0 Client in dotnet core | GlassTL | 5 |
 | 33 |  [Dazinator.Extensions.DependencyInjection](https://github.com/dazinator/Dazinator.Extensions.DependencyInjection) | Useful additions to Microsoft.Extensions.DependencyInjection such as Named Services. | dazinator | 32 |
@@ -81,7 +81,7 @@
 ## C++
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [workerd](https://github.com/cloudflare/workerd) | The JavaScript / Wasm runtime that powers Cloudflare Workers | cloudflare | 4619 |
+| 1 |  [workerd](https://github.com/cloudflare/workerd) | The JavaScript / Wasm runtime that powers Cloudflare Workers | cloudflare | 4620 |
 | 2 |  [tdlight-telegram-bot-api](https://github.com/JosXa/tdlight-telegram-bot-api) | The Telegram Bot API provides an HTTP API for creating Telegram Bots. | JosXa | 1 |
 | 3 |  [telegram-bot-api](https://github.com/tdlib/telegram-bot-api) | Telegram Bot API server | tdlib | 2131 |
 | 4 |  [tdlight-telegram-bot-api](https://github.com/tdlight-team/tdlight-telegram-bot-api) | The TDLight Telegram Bot API is an actively enhanced fork of the original Bot API, featuring experimental user support, proxies, unlimited files size, and more. | tdlight-team | 88 |
@@ -154,7 +154,7 @@
 | 2 |  [Parsr](https://github.com/axa-group/Parsr) | Transforms PDF, Documents and Images into Enriched Structured Data | axa-group | 5289 |
 | 3 |  [linq](https://github.com/mihaifm/linq) | linq.js - LINQ for JavaScript | mihaifm | 1550 |
 | 4 |  [ohm](https://github.com/ohmjs/ohm) | A library and language for building parsers, interpreters, compilers, etc. | ohmjs | 4417 |
-| 5 |  [react-grid-layout](https://github.com/react-grid-layout/react-grid-layout) | A draggable and resizable grid layout with responsive breakpoints, for React. | react-grid-layout | 17588 |
+| 5 |  [react-grid-layout](https://github.com/react-grid-layout/react-grid-layout) | A draggable and resizable grid layout with responsive breakpoints, for React. | react-grid-layout | 17589 |
 | 6 |  [omni](https://github.com/alyssaxuu/omni) | The all-in-one tool to supercharge your productivity ⌨️ | alyssaxuu | 6235 |
 | 7 |  [license-checker-rseidelsohn](https://github.com/RSeidelsohn/license-checker-rseidelsohn) | Extract NPM package licenses. Enhanced and updated fork of Dav Glass&#39; original but abandoned license-checker. | RSeidelsohn | 80 |
 | 8 |  [active-forks](https://github.com/techgaun/active-forks) | Find active github forks of a repo https://git.io/vSnrC | techgaun | 2132 |
@@ -205,7 +205,7 @@
 | 2 |  [TrashGuy](https://github.com/TrashGuyAnimations/TrashGuy) | The Original TrashGuy™ Animation! A fun line-based text animation for all your trash disposal needs! Written in Python, this module has full Unicode and emoji support. It can be accessed from the command line directly or used as part of your scripts (i.e., chatbot plugin, loading animations, website widget, etc.) | TrashGuyAnimations | 5 |
 | 3 |  [codex-readme](https://github.com/tom-doerr/codex-readme) | Revolutionize your project documentation with the Codex-README generator, utilizing OpenAI&#39;s Codex for intelligent README creation. | tom-doerr | 368 |
 | 4 |  [eventsourcing](https://github.com/pyeventsourcing/eventsourcing) | A library for event sourcing in Python. | pyeventsourcing | 1252 |
-| 5 |  [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs | public-apis | 238467 |
+| 5 |  [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs | public-apis | 238469 |
 | 6 |  [UserLixo](https://github.com/AmanoTeam/UserLixo) | Userbot for Telegram with many functions. | AmanoTeam | 66 |
 | 7 |  [hopscotch](https://github.com/pauleveritt/hopscotch) | Type-oriented registry with dependency injection. | pauleveritt | 4 |
 | 8 |  [piku](https://github.com/piku/piku) | The tiniest PaaS you&#39;ve ever seen. Piku allows you to do git push deployments to your own servers. | piku | 2187 |
@@ -264,7 +264,7 @@
 | 61 |  [pyannotate](https://github.com/dropbox/pyannotate) | Auto-generate PEP-484 annotations | dropbox | 1384 |
 | 62 |  [contextualise](https://github.com/brettkromkamp/contextualise) | Contextualise is an effective tool particularly suited for organising information-heavy projects and activities consisting of unstructured and widely diverse data and information resources | brettkromkamp | 985 |
 | 63 |  [buslane](https://github.com/konradhalas/buslane) | Simple message (event/command) bus. | konradhalas | 27 |
-| 64 |  [notion-py](https://github.com/jamalex/notion-py) | Unofficial Python API client for Notion.so | jamalex | 3998 |
+| 64 |  [notion-py](https://github.com/jamalex/notion-py) | Unofficial Python API client for Notion.so | jamalex | 3999 |
 | 65 |  [keyboard_listener](https://github.com/dibsonthis/keyboard_listener) | Keyboard Listener is a module that allows you to create custom hotkeys (combinations) or custom keywords and bind them to custom functions in Python | dibsonthis | 78 |
 | 66 |  [azure-functions-python-worker](https://github.com/Azure/azure-functions-python-worker) | Python worker for Azure Functions. | Azure | 302 |
 | 67 |  [ultimate-poll-bot](https://github.com/Nukesor/ultimate-poll-bot) | :bulb: The ultimate vote and poll bot for creating, sharing and evaluating polls inside of Telegram | Nukesor | 124 |
@@ -323,20 +323,20 @@
 | 2 |  [hono](https://github.com/honojs/hono) | Ultrafast web framework for the Edges | honojs | 4305 |
 | 3 |  [next-international](https://github.com/QuiiBz/next-international) | Type-safe internationalization (i18n) for Next.js | QuiiBz | 292 |
 | 4 |  [fresh](https://github.com/denoland/fresh) | The next-gen web framework. | denoland | 10514 |
-| 5 |  [remult](https://github.com/remult/remult) | Build Full-stack, End-to-end Type-safe CRUD Apps without the Boilerplate | remult | 1991 |
+| 5 |  [remult](https://github.com/remult/remult) | Build Full-stack, End-to-end Type-safe CRUD Apps without the Boilerplate | remult | 1992 |
 | 6 |  [actionsflow](https://github.com/actionsflow/actionsflow) | The free Zapier/IFTTT alternative for developers to automate your workflows based on Github actions | actionsflow | 2838 |
 | 7 |  [miniflare-typescript-esbuild-jest](https://github.com/cloudflare/miniflare-typescript-esbuild-jest) | Example project using Miniflare, TypeScript, esbuild and Jest | cloudflare | 80 |
 | 8 |  [next-api-decorators](https://github.com/instantcommerce/next-api-decorators) | Collection of decorators to create typed Next.js API routes, with easy request validation and transformation. | instantcommerce | 351 |
 | 9 |  [jedlik](https://github.com/peak-ai/jedlik) | DynamoDB ODM for Node | peak-ai | 106 |
 | 10 |  [slate](https://github.com/ianstormtaylor/slate) | A completely customizable framework for building rich text editors. (Currently in beta.) | ianstormtaylor | 26982 |
-| 11 |  [fluentui](https://github.com/microsoft/fluentui) | Fluent UI web represents a collection of utilities, React components, and web components for building web applications. | microsoft | 15385 |
+| 11 |  [fluentui](https://github.com/microsoft/fluentui) | Fluent UI web represents a collection of utilities, React components, and web components for building web applications. | microsoft | 15386 |
 | 12 |  [twin.macro](https://github.com/ben-rogerson/twin.macro) | 🦹‍♂️ Twin blends the magic of Tailwind with the flexibility of css-in-js (emotion, styled-components, stitches and goober) at build time. | ben-rogerson | 7203 |
 | 13 |  [autorest](https://github.com/Azure/autorest) | OpenAPI (f.k.a Swagger) Specification code generator. Supports C#, PowerShell, Go, Java, Node.js, TypeScript, Python | Azure | 4193 |
-| 14 |  [code-server](https://github.com/coder/code-server) | VS Code in the browser | coder | 60241 |
+| 14 |  [code-server](https://github.com/coder/code-server) | VS Code in the browser | coder | 60242 |
 | 15 |  [nocodb](https://github.com/nocodb/nocodb) | 🔥 🔥 🔥 Open Source Airtable Alternative | nocodb | 35801 |
 | 16 |  [WebWindow](https://github.com/SteveSandersonMS/WebWindow) | .NET Core library to open native OS windows containing web UI on Windows, Mac, and Linux. Experimental. | SteveSandersonMS | 2011 |
 | 17 |  [ChannelHashBot](https://github.com/JosXa/ChannelHashBot) |  | JosXa | 1 |
-| 18 |  [vscode](https://github.com/microsoft/vscode) | Visual Studio Code | microsoft | 145884 |
+| 18 |  [vscode](https://github.com/microsoft/vscode) | Visual Studio Code | microsoft | 145888 |
 
 **[⬆ Back to Index](#-contents)**
 
