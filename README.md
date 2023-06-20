@@ -115,7 +115,7 @@
 ## Go
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [nvm-windows](https://github.com/coreybutler/nvm-windows) | A node.js version management utility for Windows. Ironically written in Go. | coreybutler | 28799 |
+| 1 |  [nvm-windows](https://github.com/coreybutler/nvm-windows) | A node.js version management utility for Windows. Ironically written in Go. | coreybutler | 28800 |
 | 2 |  [porter](https://github.com/porter-dev/porter) | Kubernetes powered PaaS that runs in your own cloud. | porter-dev | 3814 |
 | 3 |  [nomad](https://github.com/hashicorp/nomad) | Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations. | hashicorp | 13677 |
 | 4 |  [gpwm](https://github.com/dasdipanjan04/gpwm) | A go based open source password manager | dasdipanjan04 | 2 |
@@ -141,7 +141,7 @@
 ## Java
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [OpenSearch](https://github.com/opensearch-project/OpenSearch) | 🔎 Open source distributed and RESTful search engine. | opensearch-project | 7113 |
+| 1 |  [OpenSearch](https://github.com/opensearch-project/OpenSearch) | 🔎 Open source distributed and RESTful search engine. | opensearch-project | 7114 |
 | 2 |  [mypy-pycharm](https://github.com/leinardi/mypy-pycharm) | A plugin providing both real-time and on-demand scanning of Python files with Mypy from within PyCharm/IDEA. | leinardi | 165 |
 | 3 |  [black-pycharm](https://github.com/pablogsal/black-pycharm) | Pycharm plugin for https://github.com/ambv/black | pablogsal | 32 |
 
@@ -205,7 +205,7 @@
 | 2 |  [TrashGuy](https://github.com/TrashGuyAnimations/TrashGuy) | The Original TrashGuy™ Animation! A fun line-based text animation for all your trash disposal needs! Written in Python, this module has full Unicode and emoji support. It can be accessed from the command line directly or used as part of your scripts (i.e., chatbot plugin, loading animations, website widget, etc.) | TrashGuyAnimations | 5 |
 | 3 |  [codex-readme](https://github.com/tom-doerr/codex-readme) | Revolutionize your project documentation with the Codex-README generator, utilizing OpenAI&#39;s Codex for intelligent README creation. | tom-doerr | 378 |
 | 4 |  [eventsourcing](https://github.com/pyeventsourcing/eventsourcing) | A library for event sourcing in Python. | pyeventsourcing | 1264 |
-| 5 |  [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs | public-apis | 244742 |
+| 5 |  [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs | public-apis | 244744 |
 | 6 |  [UserLixo](https://github.com/AmanoTeam/UserLixo) | Userbot for Telegram with many functions. | AmanoTeam | 67 |
 | 7 |  [hopscotch](https://github.com/pauleveritt/hopscotch) | Type-oriented registry with dependency injection. | pauleveritt | 4 |
 | 8 |  [piku](https://github.com/piku/piku) | The tiniest PaaS you&#39;ve ever seen. Piku allows you to do git push deployments to your own servers. | piku | 2215 |
@@ -220,7 +220,7 @@
 | 17 |  [python-broqer](https://github.com/semiversus/python-broqer) | Carefully crafted library to operate with continuous streams of data in a reactive style with publish/subscribe, asyncio support and broker functionality. | semiversus | 69 |
 | 18 |  [haikunatorpy](https://github.com/Atrox/haikunatorpy) | Generate Heroku-like random names to use in your python applications | Atrox | 119 |
 | 19 |  [fastapi_client](https://github.com/dmontagu/fastapi_client) | FastAPI client generator | dmontagu | 303 |
-| 20 |  [aiogram](https://github.com/aiogram/aiogram) | aiogram is a modern and fully asynchronous framework for Telegram Bot API written in Python using asyncio | aiogram | 3663 |
+| 20 |  [aiogram](https://github.com/aiogram/aiogram) | aiogram is a modern and fully asynchronous framework for Telegram Bot API written in Python using asyncio | aiogram | 3662 |
 | 21 |  [python-pyfields](https://github.com/smarie/python-pyfields) | Define fields in python classes. Easily. | smarie | 43 |
 | 22 |  [python-benedict](https://github.com/fabiocaccamo/python-benedict) | :blue_book: dict subclass with keylist/keypath support, built-in I/O operations (base64, csv, ini, json, pickle, plist, query-string, toml, xls, xml, yaml), s3 support and many utilities. | fabiocaccamo | 1092 |
 | 23 |  [ObjectPath](https://github.com/adriank/ObjectPath) | The agile query language for semi-structured data | adriank | 373 |
@@ -242,8 +242,8 @@
 | 39 |  [pydantic-odm](https://github.com/i8enn/pydantic-odm) | Small async ODM for MongoDB based in Motor and Pydantic library | i8enn | 39 |
 | 40 |  [returns](https://github.com/dry-python/returns) | Make your functions return something meaningful, typed, and safe! | dry-python | 2795 |
 | 41 |  [pymaybe](https://github.com/ekampf/pymaybe) | A Python implementation of the Maybe pattern | ekampf | 201 |
-| 42 |  [poetry](https://github.com/python-poetry/poetry) | Python packaging and dependency management made easy | python-poetry | 25462 |
-| 43 |  [pipenv](https://github.com/pypa/pipenv) | Python Development Workflow for Humans. | pypa | 23901 |
+| 42 |  [poetry](https://github.com/python-poetry/poetry) | Python packaging and dependency management made easy | python-poetry | 25463 |
+| 43 |  [pipenv](https://github.com/pypa/pipenv) | Python Development Workflow for Humans. | pypa | 23902 |
 | 44 |  [KanTeX](https://github.com/kantek/KanTeX) |  | kantek | 11 |
 | 45 |  [ticktick-python](https://github.com/glasslion/ticktick-python) |  | glasslion | 28 |
 | 46 |  [tgintegration](https://github.com/JosXa/tgintegration) | Integration test and automation library for Telegram Messenger bots based on Pyrogram. | JosXa | 115 |
@@ -274,16 +274,16 @@
 | 71 |  [haps](https://github.com/ekiro/haps) | Pure Python dependency injection library | ekiro | 47 |
 | 72 |  [sentry-python](https://github.com/getsentry/sentry-python) | The official Python SDK for Sentry.io | getsentry | 1555 |
 | 73 |  [baron](https://github.com/PyCQA/baron) | IDE allow you to refactor code, Baron allows you to write refactoring code. | PyCQA | 281 |
-| 74 |  [python-dependency-injector](https://github.com/ets-labs/python-dependency-injector) | Dependency injection framework for Python | ets-labs | 2980 |
+| 74 |  [python-dependency-injector](https://github.com/ets-labs/python-dependency-injector) | Dependency injection framework for Python | ets-labs | 2981 |
 | 75 |  [sticker-finder](https://github.com/Nukesor/sticker-finder) | :zap: A telegram bot for searching all the stickers (just like @gif). | Nukesor | 92 |
 | 76 |  [dokku-dashboard](https://github.com/lohanbodevan/dokku-dashboard) | Dokku PaaS Dashboard | lohanbodevan | 15 |
 | 77 |  [insurance-chatbot-prototype](https://github.com/JosXa/insurance-chatbot-prototype) | Chatbot Prototype for Smartphone Insurance Damage Claims | JosXa | 3 |
 | 78 |  [BotListBot](https://github.com/JosXa/BotListBot) | Repository of Telegram&#39;s BotListBot | JosXa | 55 |
 | 79 |  [make-stub-files](https://github.com/edreamleo/make-stub-files) | Script and config file that creates python stub (.pyi) files | edreamleo | 31 |
 | 80 |  [logzero](https://github.com/metachris/logzero) | Robust and effective logging for Python 2 and 3. | metachris | 1029 |
-| 81 |  [Telethon](https://github.com/LonamiWebs/Telethon) | Pure Python 3 MTProto API Telegram client library, for bots too! | LonamiWebs | 7904 |
+| 81 |  [Telethon](https://github.com/LonamiWebs/Telethon) | Pure Python 3 MTProto API Telegram client library, for bots too! | LonamiWebs | 7903 |
 | 82 |  [fbmq](https://github.com/conbus/fbmq) | (Deprecated) Facebook Messenger Platform Python Library (Facebook Chatbot Library) | conbus | 169 |
-| 83 |  [coconut](https://github.com/evhub/coconut) | Simple, elegant, Pythonic functional programming. | evhub | 3753 |
+| 83 |  [coconut](https://github.com/evhub/coconut) | Simple, elegant, Pythonic functional programming. | evhub | 3754 |
 | 84 |  [sudobot](https://github.com/bvanrijn/sudobot) | run commands on your server via a Telegram bot | bvanrijn | 46 |
 | 85 |  [mogo](https://github.com/joshmarshall/mogo) | A MongoDB object wrapper around PyMongo (for Python) | joshmarshall | 92 |
 | 86 |  [teleGit](https://github.com/k13w/teleGit) | Telegram Bot in Python | k13w | 22 |
@@ -322,7 +322,7 @@
 | 1 |  [novu](https://github.com/novuhq/novu) | The open-source notification infrastructure with fully functional embedded notification center | novuhq | 21142 |
 | 2 |  [hono](https://github.com/honojs/hono) | Ultrafast web framework for the Edges | honojs | 4702 |
 | 3 |  [next-international](https://github.com/QuiiBz/next-international) | Type-safe internationalization (i18n) for Next.js | QuiiBz | 300 |
-| 4 |  [fresh](https://github.com/denoland/fresh) | The next-gen web framework. | denoland | 10748 |
+| 4 |  [fresh](https://github.com/denoland/fresh) | The next-gen web framework. | denoland | 10749 |
 | 5 |  [remult](https://github.com/remult/remult) | Build Full-stack, End-to-end Type-safe CRUD Apps without the Boilerplate | remult | 2165 |
 | 6 |  [actionsflow](https://github.com/actionsflow/actionsflow) | The free Zapier/IFTTT alternative for developers to automate your workflows based on Github actions | actionsflow | 2885 |
 | 7 |  [miniflare-typescript-esbuild-jest](https://github.com/cloudflare/miniflare-typescript-esbuild-jest) | Example project using Miniflare, TypeScript, esbuild and Jest | cloudflare | 81 |
@@ -350,7 +350,7 @@
 ## Zig
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [bun](https://github.com/oven-sh/bun) | Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one | oven-sh | 42059 |
+| 1 |  [bun](https://github.com/oven-sh/bun) | Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one | oven-sh | 42058 |
 
 **[⬆ Back to Index](#-contents)**
 
