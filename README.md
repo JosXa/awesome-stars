@@ -209,7 +209,7 @@
 | 5 |  [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs | public-apis | 255638 |
 | 6 |  [UserLixo](https://github.com/AmanoTeam/UserLixo) | Userbot for Telegram with many functions. | AmanoTeam | 68 |
 | 7 |  [hopscotch](https://github.com/pauleveritt/hopscotch) | Type-oriented registry with dependency injection. | pauleveritt | 4 |
-| 8 |  [piku](https://github.com/piku/piku) | The tiniest PaaS you&#39;ve ever seen. Piku allows you to do git push deployments to your own servers. | piku | 2296 |
+| 8 |  [piku](https://github.com/piku/piku) | The tiniest PaaS you&#39;ve ever seen. Piku allows you to do git push deployments to your own servers. | piku | 2297 |
 | 9 |  [lstm_text_generator](https://github.com/Bakuutin/lstm_text_generator) | Neural network powered telegram bot | Bakuutin | 12 |
 | 10 |  [spotify_userbot](https://github.com/meanii/spotify_userbot) | This userbot updates the biography of a telegram user according to their current spotify playback. | meanii | 2 |
 | 11 |  [copier](https://github.com/copier-org/copier) | Library and command-line utility for rendering projects templates. | copier-org | 1231 |
@@ -324,7 +324,7 @@
 | 2 |  [novu](https://github.com/novuhq/novu) | The open-source notification infrastructure with fully functional embedded notification center | novuhq | 24342 |
 | 3 |  [hono](https://github.com/honojs/hono) | Ultrafast web framework for the Edges | honojs | 7077 |
 | 4 |  [next-international](https://github.com/QuiiBz/next-international) | Type-safe internationalization (i18n) for Next.js | QuiiBz | 755 |
-| 5 |  [fresh](https://github.com/denoland/fresh) | The next-gen web framework. | denoland | 11275 |
+| 5 |  [fresh](https://github.com/denoland/fresh) | The next-gen web framework. | denoland | 11274 |
 | 6 |  [remult](https://github.com/remult/remult) | Build Full-stack, End-to-end Type-safe CRUD Apps without the Boilerplate | remult | 2309 |
 | 7 |  [actionsflow](https://github.com/actionsflow/actionsflow) | The free Zapier/IFTTT alternative for developers to automate your workflows based on Github actions | actionsflow | 2935 |
 | 8 |  [miniflare-typescript-esbuild-jest](https://github.com/cloudflare/miniflare-typescript-esbuild-jest) | Example project using Miniflare, TypeScript, esbuild and Jest | cloudflare | 82 |
@@ -338,21 +338,21 @@
 | 16 |  [nocodb](https://github.com/nocodb/nocodb) | 🔥 🔥 🔥 Open Source Airtable Alternative | nocodb | 37741 |
 | 17 |  [WebWindow](https://github.com/SteveSandersonMS/WebWindow) | .NET Core library to open native OS windows containing web UI on Windows, Mac, and Linux. Experimental. | SteveSandersonMS | 2007 |
 | 18 |  [ChannelHashBot](https://github.com/JosXa/ChannelHashBot) |  | JosXa | 1 |
-| 19 |  [vscode](https://github.com/microsoft/vscode) | Visual Studio Code | microsoft | 151118 |
+| 19 |  [vscode](https://github.com/microsoft/vscode) | Visual Studio Code | microsoft | 151120 |
 
 **[⬆ Back to Index](#-contents)**
 
 ## VBScript
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [pyenv-win](https://github.com/pyenv-win/pyenv-win) | pyenv for Windows. pyenv is a simple python version management tool. It lets you easily switch between multiple versions of Python. It&#39;s simple, unobtrusive, and follows the UNIX tradition of single-purpose tools that do one thing well. | pyenv-win | 2935 |
+| 1 |  [pyenv-win](https://github.com/pyenv-win/pyenv-win) | pyenv for Windows. pyenv is a simple python version management tool. It lets you easily switch between multiple versions of Python. It&#39;s simple, unobtrusive, and follows the UNIX tradition of single-purpose tools that do one thing well. | pyenv-win | 2936 |
 
 **[⬆ Back to Index](#-contents)**
 
 ## Zig
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [bun](https://github.com/oven-sh/bun) | Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one | oven-sh | 58512 |
+| 1 |  [bun](https://github.com/oven-sh/bun) | Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one | oven-sh | 58534 |
 
 **[⬆ Back to Index](#-contents)**
 
