@@ -89,8 +89,8 @@
 ## C++
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [gpt4all](https://github.com/nomic-ai/gpt4all) | gpt4all: open-source LLM chatbots that you can run anywhere | nomic-ai | 53121 |
-| 2 |  [workerd](https://github.com/cloudflare/workerd) | The JavaScript / Wasm runtime that powers Cloudflare Workers | cloudflare | 5037 |
+| 1 |  [gpt4all](https://github.com/nomic-ai/gpt4all) | gpt4all: open-source LLM chatbots that you can run anywhere | nomic-ai | 53123 |
+| 2 |  [workerd](https://github.com/cloudflare/workerd) | The JavaScript / Wasm runtime that powers Cloudflare Workers | cloudflare | 5036 |
 | 3 |  [tdlight-telegram-bot-api](https://github.com/JosXa/tdlight-telegram-bot-api) | The Telegram Bot API provides an HTTP API for creating Telegram Bots. | JosXa | 1 |
 | 4 |  [telegram-bot-api](https://github.com/tdlib/telegram-bot-api) | Telegram Bot API server | tdlib | 2406 |
 | 5 |  [tdlight-telegram-bot-api](https://github.com/tdlight-team/tdlight-telegram-bot-api) | The TDLight Telegram Bot API is an actively enhanced fork of the original Bot API, featuring experimental user support, proxies, unlimited files size, and more. | tdlight-team | 98 |
@@ -214,7 +214,7 @@
 | 2 |  [TrashGuy](https://github.com/TrashGuyAnimations/TrashGuy) | The Original TrashGuy™ Animation! A fun line-based text animation for all your trash disposal needs! Written in Python, this module has full Unicode and emoji support. It can be accessed from the command line directly or used as part of your scripts (i.e., chatbot plugin, loading animations, website widget, etc.) | TrashGuyAnimations | 5 |
 | 3 |  [codex-readme](https://github.com/tom-doerr/codex-readme) | Revolutionize your project documentation with the Codex-README generator, utilizing OpenAI&#39;s Codex for intelligent README creation. | tom-doerr | 392 |
 | 4 |  [eventsourcing](https://github.com/pyeventsourcing/eventsourcing) | A library for event sourcing in Python. | pyeventsourcing | 1315 |
-| 5 |  [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs | public-apis | 260443 |
+| 5 |  [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs | public-apis | 260449 |
 | 6 |  [UserLixo](https://github.com/AmanoTeam/UserLixo) | Userbot for Telegram with many functions. | AmanoTeam | 68 |
 | 7 |  [hopscotch](https://github.com/pauleveritt/hopscotch) | Type-oriented registry with dependency injection. | pauleveritt | 4 |
 | 8 |  [piku](https://github.com/piku/piku) | The tiniest PaaS you&#39;ve ever seen. Piku allows you to do git push deployments to your own servers. | piku | 2332 |
@@ -240,7 +240,7 @@
 | 28 |  [ormantic](https://github.com/awesometoolbox/ormantic) | Async ORM + Pydantic = Ormantic ❤️ | awesometoolbox | 133 |
 | 29 |  [openapi-python-client](https://github.com/openapi-generators/openapi-python-client) | Generate modern Python clients from OpenAPI | openapi-generators | 848 |
 | 30 |  [cruft](https://github.com/cruft/cruft) | Allows you to maintain all the necessary cruft for packaging and building projects separate from the code you intentionally write. Built on-top of, and fully compatible with, CookieCutter. | cruft | 998 |
-| 31 |  [toolz](https://github.com/pytoolz/toolz) | A functional standard library for Python. | pytoolz | 4350 |
+| 31 |  [toolz](https://github.com/pytoolz/toolz) | A functional standard library for Python. | pytoolz | 4351 |
 | 32 |  [formation](https://github.com/jondot/formation) | A generic functional middleware infrastructure for Python. | jondot | 16 |
 | 33 |  [sauron-engine](https://github.com/blurg/sauron-engine) | One engine to rule them all | blurg | 58 |
 | 34 |  [pycollect](https://github.com/allrod5/pycollect) | Utility library to collect valid Python files recursively | allrod5 | 3 |
@@ -251,7 +251,7 @@
 | 39 |  [pydantic-odm](https://github.com/i8enn/pydantic-odm) | Small async ODM for MongoDB based in Motor and Pydantic library | i8enn | 39 |
 | 40 |  [returns](https://github.com/dry-python/returns) | Make your functions return something meaningful, typed, and safe! | dry-python | 2932 |
 | 41 |  [pymaybe](https://github.com/ekampf/pymaybe) | A Python implementation of the Maybe pattern | ekampf | 202 |
-| 42 |  [poetry](https://github.com/python-poetry/poetry) | Python packaging and dependency management made easy | python-poetry | 27001 |
+| 42 |  [poetry](https://github.com/python-poetry/poetry) | Python packaging and dependency management made easy | python-poetry | 27002 |
 | 43 |  [pipenv](https://github.com/pypa/pipenv) | Python Development Workflow for Humans. | pypa | 24190 |
 | 44 |  [KanTeX](https://github.com/kantek/KanTeX) |  | kantek | 11 |
 | 45 |  [ticktick-python](https://github.com/glasslion/ticktick-python) |  | glasslion | 30 |
@@ -297,7 +297,7 @@
 | 85 |  [mogo](https://github.com/joshmarshall/mogo) | A MongoDB object wrapper around PyMongo (for Python) | joshmarshall | 92 |
 | 86 |  [teleGit](https://github.com/k13w/teleGit) | Telegram Bot in Python | k13w | 22 |
 | 87 |  [python-telegram-handler](https://github.com/sashgorokhov/python-telegram-handler) | A python logging handler that sends logs via Telegram Bot Api. | sashgorokhov | 87 |
-| 88 |  [python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot) | We have made you a wrapper you can&#39;t refuse | python-telegram-bot | 23293 |
+| 88 |  [python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot) | We have made you a wrapper you can&#39;t refuse | python-telegram-bot | 23292 |
 | 89 |  [pymessenger](https://github.com/davidchua/pymessenger) | A Python Wrapper for the FB Messenger Bot API (Send/Receive API) | davidchua | 455 |
 | 90 |  [wundervim](https://github.com/khadiwala/wundervim) | Wunderlist plugin for vim | khadiwala | 4 |
 
@@ -307,7 +307,7 @@
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
 | 1 |  [tg-bot-api](https://github.com/ark0f/tg-bot-api) | Telegram Bot API parser and generators | ark0f | 39 |
-| 2 |  [vaultwarden](https://github.com/dani-garcia/vaultwarden) | Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs | dani-garcia | 28308 |
+| 2 |  [vaultwarden](https://github.com/dani-garcia/vaultwarden) | Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs | dani-garcia | 28311 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -330,8 +330,8 @@
 |---	|---	|---	|---	|---	|
 | 1 |  [signals](https://github.com/preactjs/signals) | Manage state with style in every framework | preactjs | 2455 |
 | 2 |  [use-callback-ref](https://github.com/theKashey/use-callback-ref) | 🤙The same useRef, but it will callback | theKashey | 273 |
-| 3 |  [novu](https://github.com/novuhq/novu) | 🔥 The open-source notification infrastructure with fully functional embedded notification center 🚀🚀🚀 | novuhq | 29719 |
-| 4 |  [hono](https://github.com/honojs/hono) | Lightweight, Ultrafast, Web Standards | honojs | 7678 |
+| 3 |  [novu](https://github.com/novuhq/novu) | 🔥 The open-source notification infrastructure with fully functional embedded notification center 🚀🚀🚀 | novuhq | 29727 |
+| 4 |  [hono](https://github.com/honojs/hono) | Lightweight, Ultrafast, Web Standards | honojs | 7681 |
 | 5 |  [next-international](https://github.com/QuiiBz/next-international) | Type-safe internationalization (i18n) for Next.js | QuiiBz | 850 |
 | 6 |  [fresh](https://github.com/denoland/fresh) | The next-gen web framework. | denoland | 11353 |
 | 7 |  [remult](https://github.com/remult/remult) | Full-stack CRUD, simplified, with SSOT TypeScript entities | remult | 2392 |
@@ -354,14 +354,14 @@
 ## VBScript
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [pyenv-win](https://github.com/pyenv-win/pyenv-win) | pyenv for Windows. pyenv is a simple python version management tool. It lets you easily switch between multiple versions of Python. It&#39;s simple, unobtrusive, and follows the UNIX tradition of single-purpose tools that do one thing well. | pyenv-win | 3059 |
+| 1 |  [pyenv-win](https://github.com/pyenv-win/pyenv-win) | pyenv for Windows. pyenv is a simple python version management tool. It lets you easily switch between multiple versions of Python. It&#39;s simple, unobtrusive, and follows the UNIX tradition of single-purpose tools that do one thing well. | pyenv-win | 3060 |
 
 **[⬆ Back to Index](#-contents)**
 
 ## Zig
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [bun](https://github.com/oven-sh/bun) | Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one | oven-sh | 64354 |
+| 1 |  [bun](https://github.com/oven-sh/bun) | Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one | oven-sh | 64358 |
 
 **[⬆ Back to Index](#-contents)**
 
