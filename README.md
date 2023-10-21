@@ -94,7 +94,7 @@
 | 3 |  [tdlight-telegram-bot-api](https://github.com/JosXa/tdlight-telegram-bot-api) | The Telegram Bot API provides an HTTP API for creating Telegram Bots. | JosXa | 1 |
 | 4 |  [telegram-bot-api](https://github.com/tdlib/telegram-bot-api) | Telegram Bot API server | tdlib | 2416 |
 | 5 |  [tdlight-telegram-bot-api](https://github.com/tdlight-team/tdlight-telegram-bot-api) | The TDLight Telegram Bot API is an actively enhanced fork of the original Bot API, featuring experimental user support, proxies, unlimited files size, and more. | tdlight-team | 98 |
-| 6 |  [tdesktop](https://github.com/telegramdesktop/tdesktop) | Telegram Desktop messaging app | telegramdesktop | 22851 |
+| 6 |  [tdesktop](https://github.com/telegramdesktop/tdesktop) | Telegram Desktop messaging app | telegramdesktop | 22852 |
 | 7 |  [krunner-symbols](https://github.com/domschrei/krunner-symbols) | A lightweight KRunner plugin (Plasma 5) to retrieve unicode symbols, or any other string, based on a corresponding keyword. | domschrei | 102 |
 
 **[⬆ Back to Index](#-contents)**
@@ -117,7 +117,7 @@
 ## EJS
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [reference](https://github.com/Fechin/reference) | ⭕ Share quick reference cheat sheet for developers. | Fechin | 3673 |
+| 1 |  [reference](https://github.com/Fechin/reference) | ⭕ Share quick reference cheat sheet for developers. | Fechin | 3674 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -150,7 +150,7 @@
 ## Java
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [OpenSearch](https://github.com/opensearch-project/OpenSearch) | 🔎 Open source distributed and RESTful search engine. | opensearch-project | 7739 |
+| 1 |  [OpenSearch](https://github.com/opensearch-project/OpenSearch) | 🔎 Open source distributed and RESTful search engine. | opensearch-project | 7740 |
 | 2 |  [mypy-pycharm](https://github.com/leinardi/mypy-pycharm) | A plugin providing both real-time and on-demand scanning of Python files with Mypy from within PyCharm/IDEA. | leinardi | 174 |
 | 3 |  [black-pycharm](https://github.com/pablogsal/black-pycharm) | Pycharm plugin for https://github.com/ambv/black | pablogsal | 32 |
 
@@ -164,7 +164,7 @@
 | 3 |  [linq](https://github.com/mihaifm/linq) | linq.js - LINQ for JavaScript | mihaifm | 1590 |
 | 4 |  [ohm](https://github.com/ohmjs/ohm) | A library and language for building parsers, interpreters, compilers, etc. | ohmjs | 4507 |
 | 5 |  [react-grid-layout](https://github.com/react-grid-layout/react-grid-layout) | A draggable and resizable grid layout with responsive breakpoints, for React. | react-grid-layout | 18460 |
-| 6 |  [omni](https://github.com/alyssaxuu/omni) | The all-in-one tool to supercharge your productivity ⌨️ | alyssaxuu | 6597 |
+| 6 |  [omni](https://github.com/alyssaxuu/omni) | The all-in-one tool to supercharge your productivity ⌨️ | alyssaxuu | 6598 |
 | 7 |  [license-checker-rseidelsohn](https://github.com/RSeidelsohn/license-checker-rseidelsohn) | Extract NPM package licenses. Enhanced and updated fork of Dav Glass&#39; original but abandoned license-checker. | RSeidelsohn | 97 |
 | 8 |  [active-forks](https://github.com/techgaun/active-forks) | Find active github forks of a repo https://git.io/vSnrC | techgaun | 2196 |
 | 9 |  [composerize](https://github.com/composerize/composerize) | 🏃→🎼  docker run asdlksjfksdf &amp;gt; docker-composerize up | composerize | 2549 |
@@ -252,7 +252,7 @@
 | 40 |  [returns](https://github.com/dry-python/returns) | Make your functions return something meaningful, typed, and safe! | dry-python | 2936 |
 | 41 |  [pymaybe](https://github.com/ekampf/pymaybe) | A Python implementation of the Maybe pattern | ekampf | 202 |
 | 42 |  [poetry](https://github.com/python-poetry/poetry) | Python packaging and dependency management made easy | python-poetry | 27062 |
-| 43 |  [pipenv](https://github.com/pypa/pipenv) | Python Development Workflow for Humans. | pypa | 24205 |
+| 43 |  [pipenv](https://github.com/pypa/pipenv) | Python Development Workflow for Humans. | pypa | 24206 |
 | 44 |  [KanTeX](https://github.com/kantek/KanTeX) |  | kantek | 11 |
 | 45 |  [ticktick-python](https://github.com/glasslion/ticktick-python) |  | glasslion | 30 |
 | 46 |  [tgintegration](https://github.com/JosXa/tgintegration) | Integration test and automation library for Telegram Messenger bots based on Pyrogram. | JosXa | 116 |
@@ -330,16 +330,16 @@
 |---	|---	|---	|---	|---	|
 | 1 |  [signals](https://github.com/preactjs/signals) | Manage state with style in every framework | preactjs | 2464 |
 | 2 |  [use-callback-ref](https://github.com/theKashey/use-callback-ref) | 🤙The same useRef, but it will callback | theKashey | 273 |
-| 3 |  [novu](https://github.com/novuhq/novu) | 🔥 The open-source notification infrastructure with fully functional embedded notification center 🚀🚀🚀 | novuhq | 30197 |
+| 3 |  [novu](https://github.com/novuhq/novu) | 🔥 The open-source notification infrastructure with fully functional embedded notification center 🚀🚀🚀 | novuhq | 30198 |
 | 4 |  [hono](https://github.com/honojs/hono) | Lightweight, Ultrafast, Web Standards | honojs | 7777 |
-| 5 |  [next-international](https://github.com/QuiiBz/next-international) | Type-safe internationalization (i18n) for Next.js | QuiiBz | 872 |
+| 5 |  [next-international](https://github.com/QuiiBz/next-international) | Type-safe internationalization (i18n) for Next.js | QuiiBz | 873 |
 | 6 |  [fresh](https://github.com/denoland/fresh) | The next-gen web framework. | denoland | 11374 |
 | 7 |  [remult](https://github.com/remult/remult) | Full-stack CRUD, simplified, with SSOT TypeScript entities | remult | 2397 |
 | 8 |  [actionsflow](https://github.com/actionsflow/actionsflow) | The free Zapier/IFTTT alternative for developers to automate your workflows based on Github actions | actionsflow | 2956 |
 | 9 |  [miniflare-typescript-esbuild-jest](https://github.com/cloudflare/miniflare-typescript-esbuild-jest) | Example project using Miniflare, TypeScript, esbuild and Jest | cloudflare | 82 |
 | 10 |  [next-api-decorators](https://github.com/instantcommerce/next-api-decorators) | Collection of decorators to create typed Next.js API routes, with easy request validation and transformation. | instantcommerce | 380 |
 | 11 |  [jedlik](https://github.com/peak-ai/jedlik) | DynamoDB ODM for Node | peak-ai | 106 |
-| 12 |  [slate](https://github.com/ianstormtaylor/slate) | A completely customizable framework for building rich text editors. (Currently in beta.) | ianstormtaylor | 28019 |
+| 12 |  [slate](https://github.com/ianstormtaylor/slate) | A completely customizable framework for building rich text editors. (Currently in beta.) | ianstormtaylor | 28018 |
 | 13 |  [fluentui](https://github.com/microsoft/fluentui) | Fluent UI web represents a collection of utilities, React components, and web components for building web applications. | microsoft | 16473 |
 | 14 |  [twin.macro](https://github.com/ben-rogerson/twin.macro) | 🦹‍♂️ Twin blends the magic of Tailwind with the flexibility of css-in-js (emotion, styled-components, solid-styled-components, stitches and goober) at build time. | ben-rogerson | 7582 |
 | 15 |  [autorest](https://github.com/Azure/autorest) | OpenAPI (f.k.a Swagger) Specification code generator. Supports C#, PowerShell, Go, Java, Node.js, TypeScript, Python | Azure | 4346 |
@@ -347,7 +347,7 @@
 | 17 |  [nocodb](https://github.com/nocodb/nocodb) | 🔥 🔥 🔥 Open Source Airtable Alternative | nocodb | 38228 |
 | 18 |  [WebWindow](https://github.com/SteveSandersonMS/WebWindow) | .NET Core library to open native OS windows containing web UI on Windows, Mac, and Linux. Experimental. | SteveSandersonMS | 2005 |
 | 19 |  [ChannelHashBot](https://github.com/JosXa/ChannelHashBot) |  | JosXa | 1 |
-| 20 |  [vscode](https://github.com/microsoft/vscode) | Visual Studio Code | microsoft | 152163 |
+| 20 |  [vscode](https://github.com/microsoft/vscode) | Visual Studio Code | microsoft | 152164 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -361,7 +361,7 @@
 ## Zig
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [bun](https://github.com/oven-sh/bun) | Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one | oven-sh | 64594 |
+| 1 |  [bun](https://github.com/oven-sh/bun) | Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one | oven-sh | 64596 |
 
 **[⬆ Back to Index](#-contents)**
 
