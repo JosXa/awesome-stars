@@ -59,7 +59,7 @@
 | 8 |  [print-it](https://github.com/huysentruitw/print-it) | Windows service for printing PDF files to a local or network printer in the background | huysentruitw | 66 |
 | 9 |  [Sprache](https://github.com/sprache/Sprache) | A tiny, friendly, C# parser construction library | sprache | 2198 |
 | 10 |  [MediatRedux](https://github.com/sstorie/MediatRedux) | An implementation of the Redux pattern in .NET using MediatR to provide strongly typed reducers | sstorie | 19 |
-| 11 |  [MediatR](https://github.com/jbogard/MediatR) | Simple, unambitious mediator implementation in .NET | jbogard | 10065 |
+| 11 |  [MediatR](https://github.com/jbogard/MediatR) | Simple, unambitious mediator implementation in .NET | jbogard | 10067 |
 | 12 |  [nuke](https://github.com/nuke-build/nuke) | 🏗 The AKEless Build System for C#/.NET | nuke-build | 2081 |
 | 13 |  [Netjs](https://github.com/praeclarum/Netjs) | Compile .NET assemblies to TypeScript and JavaScript | praeclarum | 955 |
 | 14 |  [Ensure.That](https://github.com/danielwertheim/Ensure.That) | Guard clause project for .NET | danielwertheim | 434 |
@@ -89,8 +89,8 @@
 ## C++
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [gpt4all](https://github.com/nomic-ai/gpt4all) | gpt4all: open-source LLM chatbots that you can run anywhere | nomic-ai | 54099 |
-| 2 |  [workerd](https://github.com/cloudflare/workerd) | The JavaScript / Wasm runtime that powers Cloudflare Workers | cloudflare | 5076 |
+| 1 |  [gpt4all](https://github.com/nomic-ai/gpt4all) | gpt4all: open-source LLM chatbots that you can run anywhere | nomic-ai | 54104 |
+| 2 |  [workerd](https://github.com/cloudflare/workerd) | The JavaScript / Wasm runtime that powers Cloudflare Workers | cloudflare | 5077 |
 | 3 |  [tdlight-telegram-bot-api](https://github.com/JosXa/tdlight-telegram-bot-api) | The Telegram Bot API provides an HTTP API for creating Telegram Bots. | JosXa | 1 |
 | 4 |  [telegram-bot-api](https://github.com/tdlib/telegram-bot-api) | Telegram Bot API server | tdlib | 2450 |
 | 5 |  [tdlight-telegram-bot-api](https://github.com/tdlight-team/tdlight-telegram-bot-api) | The TDLight Telegram Bot API is an actively enhanced fork of the original Bot API, featuring experimental user support, proxies, unlimited files size, and more. | tdlight-team | 100 |
@@ -124,7 +124,7 @@
 ## Go
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [nvm-windows](https://github.com/coreybutler/nvm-windows) | A node.js version management utility for Windows. Ironically written in Go. | coreybutler | 31242 |
+| 1 |  [nvm-windows](https://github.com/coreybutler/nvm-windows) | A node.js version management utility for Windows. Ironically written in Go. | coreybutler | 31244 |
 | 2 |  [porter](https://github.com/porter-dev/porter) | Kubernetes powered PaaS that runs in your own cloud. | porter-dev | 3958 |
 | 3 |  [nomad](https://github.com/hashicorp/nomad) | Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations. | hashicorp | 14059 |
 | 4 |  [gpwm](https://github.com/dasdipanjan04/gpwm) | A go based open source password manager | dasdipanjan04 | 2 |
@@ -161,7 +161,7 @@
 |---	|---	|---	|---	|---	|
 | 1 |  [ice-box](https://github.com/hackergrrl/ice-box) | :snowflake: Create immutable directory pipelines. | hackergrrl | 53 |
 | 2 |  [Parsr](https://github.com/axa-group/Parsr) | Transforms PDF, Documents and Images into Enriched Structured Data | axa-group | 5462 |
-| 3 |  [linq](https://github.com/mihaifm/linq) | linq.js - LINQ for JavaScript | mihaifm | 1593 |
+| 3 |  [linq](https://github.com/mihaifm/linq) | linq.js - LINQ for JavaScript | mihaifm | 1594 |
 | 4 |  [ohm](https://github.com/ohmjs/ohm) | A library and language for building parsers, interpreters, compilers, etc. | ohmjs | 4695 |
 | 5 |  [react-grid-layout](https://github.com/react-grid-layout/react-grid-layout) | A draggable and resizable grid layout with responsive breakpoints, for React. | react-grid-layout | 18528 |
 | 6 |  [omni](https://github.com/alyssaxuu/omni) | The all-in-one tool to supercharge your productivity ⌨️ | alyssaxuu | 6636 |
@@ -297,7 +297,7 @@
 | 85 |  [mogo](https://github.com/joshmarshall/mogo) | A MongoDB object wrapper around PyMongo (for Python) | joshmarshall | 92 |
 | 86 |  [teleGit](https://github.com/k13w/teleGit) | Telegram Bot in Python | k13w | 22 |
 | 87 |  [python-telegram-handler](https://github.com/sashgorokhov/python-telegram-handler) | A python logging handler that sends logs via Telegram Bot Api. | sashgorokhov | 87 |
-| 88 |  [python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot) | We have made you a wrapper you can&#39;t refuse | python-telegram-bot | 23403 |
+| 88 |  [python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot) | We have made you a wrapper you can&#39;t refuse | python-telegram-bot | 23404 |
 | 89 |  [pymessenger](https://github.com/davidchua/pymessenger) | A Python Wrapper for the FB Messenger Bot API (Send/Receive API) | davidchua | 455 |
 | 90 |  [wundervim](https://github.com/khadiwala/wundervim) | Wunderlist plugin for vim | khadiwala | 4 |
 
@@ -307,7 +307,7 @@
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
 | 1 |  [tg-bot-api](https://github.com/ark0f/tg-bot-api) | Telegram Bot API parser and generators | ark0f | 39 |
-| 2 |  [vaultwarden](https://github.com/dani-garcia/vaultwarden) | Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs | dani-garcia | 28710 |
+| 2 |  [vaultwarden](https://github.com/dani-garcia/vaultwarden) | Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs | dani-garcia | 28711 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -328,11 +328,11 @@
 ## TypeScript
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [catcher](https://github.com/isaacs/catcher) |  | isaacs | 108 |
+| 1 |  [catcher](https://github.com/isaacs/catcher) |  | isaacs | 107 |
 | 2 |  [signals](https://github.com/preactjs/signals) | Manage state with style in every framework | preactjs | 2599 |
 | 3 |  [use-callback-ref](https://github.com/theKashey/use-callback-ref) | 🤙The same useRef, but it will callback | theKashey | 274 |
-| 4 |  [novu](https://github.com/novuhq/novu) | 🔥 The open-source notification infrastructure with fully functional embedded notification center 🚀🚀🚀 | novuhq | 30678 |
-| 5 |  [hono](https://github.com/honojs/hono) | Lightweight, Ultrafast, Web Standards | honojs | 8138 |
+| 4 |  [novu](https://github.com/novuhq/novu) | 🔥 The open-source notification infrastructure with fully functional embedded notification center 🚀🚀🚀 | novuhq | 30676 |
+| 5 |  [hono](https://github.com/honojs/hono) | Lightweight, Ultrafast, Web Standards | honojs | 8143 |
 | 6 |  [next-international](https://github.com/QuiiBz/next-international) | Type-safe internationalization (i18n) for Next.js | QuiiBz | 903 |
 | 7 |  [fresh](https://github.com/denoland/fresh) | The next-gen web framework. | denoland | 11413 |
 | 8 |  [remult](https://github.com/remult/remult) | Full-stack CRUD, simplified, with SSOT TypeScript entities | remult | 2408 |
@@ -340,29 +340,29 @@
 | 10 |  [miniflare-typescript-esbuild-jest](https://github.com/cloudflare/miniflare-typescript-esbuild-jest) | Example project using Miniflare, TypeScript, esbuild and Jest | cloudflare | 82 |
 | 11 |  [next-api-decorators](https://github.com/instantcommerce/next-api-decorators) | Collection of decorators to create typed Next.js API routes, with easy request validation and transformation. | instantcommerce | 381 |
 | 12 |  [jedlik](https://github.com/peak-ai/jedlik) | DynamoDB ODM for Node | peak-ai | 107 |
-| 13 |  [slate](https://github.com/ianstormtaylor/slate) | A completely customizable framework for building rich text editors. (Currently in beta.) | ianstormtaylor | 28096 |
+| 13 |  [slate](https://github.com/ianstormtaylor/slate) | A completely customizable framework for building rich text editors. (Currently in beta.) | ianstormtaylor | 28097 |
 | 14 |  [fluentui](https://github.com/microsoft/fluentui) | Fluent UI web represents a collection of utilities, React components, and web components for building web applications. | microsoft | 16756 |
-| 15 |  [twin.macro](https://github.com/ben-rogerson/twin.macro) | 🦹‍♂️ Twin blends the magic of Tailwind with the flexibility of css-in-js (emotion, styled-components, solid-styled-components, stitches and goober) at build time. | ben-rogerson | 7598 |
+| 15 |  [twin.macro](https://github.com/ben-rogerson/twin.macro) | 🦹‍♂️ Twin blends the magic of Tailwind with the flexibility of css-in-js (emotion, styled-components, solid-styled-components, stitches and goober) at build time. | ben-rogerson | 7597 |
 | 16 |  [autorest](https://github.com/Azure/autorest) | OpenAPI (f.k.a Swagger) Specification code generator. Supports C#, PowerShell, Go, Java, Node.js, TypeScript, Python | Azure | 4357 |
-| 17 |  [code-server](https://github.com/coder/code-server) | VS Code in the browser | coder | 62733 |
+| 17 |  [code-server](https://github.com/coder/code-server) | VS Code in the browser | coder | 62734 |
 | 18 |  [nocodb](https://github.com/nocodb/nocodb) | 🔥 🔥 🔥 Open Source Airtable Alternative | nocodb | 38387 |
 | 19 |  [WebWindow](https://github.com/SteveSandersonMS/WebWindow) | .NET Core library to open native OS windows containing web UI on Windows, Mac, and Linux. Experimental. | SteveSandersonMS | 2003 |
 | 20 |  [ChannelHashBot](https://github.com/JosXa/ChannelHashBot) |  | JosXa | 1 |
-| 21 |  [vscode](https://github.com/microsoft/vscode) | Visual Studio Code | microsoft | 152473 |
+| 21 |  [vscode](https://github.com/microsoft/vscode) | Visual Studio Code | microsoft | 152474 |
 
 **[⬆ Back to Index](#-contents)**
 
 ## VBScript
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [pyenv-win](https://github.com/pyenv-win/pyenv-win) | pyenv for Windows. pyenv is a simple python version management tool. It lets you easily switch between multiple versions of Python. It&#39;s simple, unobtrusive, and follows the UNIX tradition of single-purpose tools that do one thing well. | pyenv-win | 3135 |
+| 1 |  [pyenv-win](https://github.com/pyenv-win/pyenv-win) | pyenv for Windows. pyenv is a simple python version management tool. It lets you easily switch between multiple versions of Python. It&#39;s simple, unobtrusive, and follows the UNIX tradition of single-purpose tools that do one thing well. | pyenv-win | 3136 |
 
 **[⬆ Back to Index](#-contents)**
 
 ## Zig
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [bun](https://github.com/oven-sh/bun) | Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one | oven-sh | 65041 |
+| 1 |  [bun](https://github.com/oven-sh/bun) | Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one | oven-sh | 65045 |
 
 **[⬆ Back to Index](#-contents)**
 
