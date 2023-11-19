@@ -89,7 +89,7 @@
 ## C++
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [gpt4all](https://github.com/nomic-ai/gpt4all) | gpt4all: open-source LLM chatbots that you can run anywhere | nomic-ai | 54857 |
+| 1 |  [gpt4all](https://github.com/nomic-ai/gpt4all) | gpt4all: open-source LLM chatbots that you can run anywhere | nomic-ai | 54861 |
 | 2 |  [workerd](https://github.com/cloudflare/workerd) | The JavaScript / Wasm runtime that powers Cloudflare Workers | cloudflare | 5123 |
 | 3 |  [tdlight-telegram-bot-api](https://github.com/JosXa/tdlight-telegram-bot-api) | The Telegram Bot API provides an HTTP API for creating Telegram Bots. | JosXa | 1 |
 | 4 |  [telegram-bot-api](https://github.com/tdlib/telegram-bot-api) | Telegram Bot API server | tdlib | 2486 |
@@ -117,7 +117,7 @@
 ## EJS
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [reference](https://github.com/Fechin/reference) | ⭕ Share quick reference cheat sheet for developers. | Fechin | 3801 |
+| 1 |  [reference](https://github.com/Fechin/reference) | ⭕ Share quick reference cheat sheet for developers. | Fechin | 3802 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -150,7 +150,7 @@
 ## Java
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [OpenSearch](https://github.com/opensearch-project/OpenSearch) | 🔎 Open source distributed and RESTful search engine. | opensearch-project | 7879 |
+| 1 |  [OpenSearch](https://github.com/opensearch-project/OpenSearch) | 🔎 Open source distributed and RESTful search engine. | opensearch-project | 7880 |
 | 2 |  [mypy-pycharm](https://github.com/leinardi/mypy-pycharm) | A plugin providing both real-time and on-demand scanning of Python files with Mypy from within PyCharm/IDEA. | leinardi | 176 |
 | 3 |  [black-pycharm](https://github.com/pablogsal/black-pycharm) | Pycharm plugin for https://github.com/ambv/black | pablogsal | 32 |
 
@@ -215,7 +215,7 @@
 | 2 |  [TrashGuy](https://github.com/TrashGuyAnimations/TrashGuy) | The Original TrashGuy™ Animation! A fun line-based text animation for all your trash disposal needs! Written in Python, this module has full Unicode and emoji support. It can be accessed from the command line directly or used as part of your scripts (i.e., chatbot plugin, loading animations, website widget, etc.) | TrashGuyAnimations | 5 |
 | 3 |  [codex-readme](https://github.com/tom-doerr/codex-readme) | Revolutionize your project documentation with the Codex-README generator, utilizing OpenAI&#39;s Codex for intelligent README creation. | tom-doerr | 391 |
 | 4 |  [eventsourcing](https://github.com/pyeventsourcing/eventsourcing) | A library for event sourcing in Python. | pyeventsourcing | 1330 |
-| 5 |  [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs | public-apis | 269033 |
+| 5 |  [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs | public-apis | 269035 |
 | 6 |  [hopscotch](https://github.com/pauleveritt/hopscotch) | Type-oriented registry with dependency injection. | pauleveritt | 4 |
 | 7 |  [piku](https://github.com/piku/piku) | The tiniest PaaS you&#39;ve ever seen. Piku allows you to do git push deployments to your own servers. | piku | 2360 |
 | 8 |  [lstm_text_generator](https://github.com/Bakuutin/lstm_text_generator) | Neural network powered telegram bot | Bakuutin | 12 |
@@ -251,7 +251,7 @@
 | 38 |  [pydantic-odm](https://github.com/i8enn/pydantic-odm) | Small async ODM for MongoDB based in Motor and Pydantic library | i8enn | 39 |
 | 39 |  [returns](https://github.com/dry-python/returns) | Make your functions return something meaningful, typed, and safe! | dry-python | 2976 |
 | 40 |  [pymaybe](https://github.com/ekampf/pymaybe) | A Python implementation of the Maybe pattern | ekampf | 203 |
-| 41 |  [poetry](https://github.com/python-poetry/poetry) | Python packaging and dependency management made easy | python-poetry | 27431 |
+| 41 |  [poetry](https://github.com/python-poetry/poetry) | Python packaging and dependency management made easy | python-poetry | 27432 |
 | 42 |  [pipenv](https://github.com/pypa/pipenv) | Python Development Workflow for Humans. | pypa | 24269 |
 | 43 |  [KanTeX](https://github.com/kantek/KanTeX) |  | kantek | 11 |
 | 44 |  [ticktick-python](https://github.com/glasslion/ticktick-python) |  | glasslion | 30 |
@@ -263,7 +263,7 @@
 | 50 |  [datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator) | Pydantic model and dataclasses.dataclass generator for easy conversion of JSON, OpenAPI, JSON Schema, and YAML data sources. | koxudaxi | 1946 |
 | 51 |  [pycollection-pipelines](https://github.com/povilasb/pycollection-pipelines) | Collection pipeline pattern implementation in Python | povilasb | 7 |
 | 52 |  [ensure](https://github.com/kislyuk/ensure) | Validate conditions, Python style. | kislyuk | 146 |
-| 53 |  [loguru](https://github.com/Delgan/loguru) | Python logging made (stupidly) simple | Delgan | 16651 |
+| 53 |  [loguru](https://github.com/Delgan/loguru) | Python logging made (stupidly) simple | Delgan | 16652 |
 | 54 |  [pyrogram](https://github.com/pyrogram/pyrogram) | Elegant, modern and asynchronous Telegram MTProto API framework in Python for users and bots | pyrogram | 3808 |
 | 55 |  [dephell](https://github.com/dephell/dephell) | :package: :fire: Python project management. Manage packages: convert between formats, lock, install, resolve, isolate, test, build graph, show outdated, audit. Manage venvs, build package, bump version. | dephell | 1757 |
 | 56 |  [Botkit](https://github.com/autogram/Botkit) | Opinionated, library-agnostic Python framework for rapid development of Telegram bots and userbots with focus on maintainability for large projects. | autogram | 10 |
@@ -297,7 +297,7 @@
 | 84 |  [mogo](https://github.com/joshmarshall/mogo) | A MongoDB object wrapper around PyMongo (for Python) | joshmarshall | 91 |
 | 85 |  [teleGit](https://github.com/k13w/teleGit) | Telegram Bot in Python | k13w | 22 |
 | 86 |  [python-telegram-handler](https://github.com/sashgorokhov/python-telegram-handler) | A python logging handler that sends logs via Telegram Bot Api. | sashgorokhov | 87 |
-| 87 |  [python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot) | We have made you a wrapper you can&#39;t refuse | python-telegram-bot | 23566 |
+| 87 |  [python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot) | We have made you a wrapper you can&#39;t refuse | python-telegram-bot | 23567 |
 | 88 |  [pymessenger](https://github.com/davidchua/pymessenger) | A Python Wrapper for the FB Messenger Bot API (Send/Receive API) | davidchua | 455 |
 | 89 |  [wundervim](https://github.com/khadiwala/wundervim) | Wunderlist plugin for vim | khadiwala | 4 |
 
@@ -331,7 +331,7 @@
 | 1 |  [catcher](https://github.com/isaacs/catcher) |  | isaacs | 113 |
 | 2 |  [signals](https://github.com/preactjs/signals) | Manage state with style in every framework | preactjs | 2854 |
 | 3 |  [use-callback-ref](https://github.com/theKashey/use-callback-ref) | 🤙The same useRef, but it will callback | theKashey | 274 |
-| 4 |  [novu](https://github.com/novuhq/novu) | 🔥 The open-source notification infrastructure with fully functional embedded notification center 🚀🚀🚀 | novuhq | 30772 |
+| 4 |  [novu](https://github.com/novuhq/novu) | 🔥 The open-source notification infrastructure with fully functional embedded notification center 🚀🚀🚀 | novuhq | 30773 |
 | 5 |  [hono](https://github.com/honojs/hono) | Fast, Lightweight, Web-standards | honojs | 8746 |
 | 6 |  [next-international](https://github.com/QuiiBz/next-international) | Type-safe internationalization (i18n) for Next.js | QuiiBz | 927 |
 | 7 |  [fresh](https://github.com/denoland/fresh) | The next-gen web framework. | denoland | 11468 |
@@ -355,7 +355,7 @@
 ## VBScript
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [pyenv-win](https://github.com/pyenv-win/pyenv-win) | pyenv for Windows. pyenv is a simple python version management tool. It lets you easily switch between multiple versions of Python. It&#39;s simple, unobtrusive, and follows the UNIX tradition of single-purpose tools that do one thing well. | pyenv-win | 3210 |
+| 1 |  [pyenv-win](https://github.com/pyenv-win/pyenv-win) | pyenv for Windows. pyenv is a simple python version management tool. It lets you easily switch between multiple versions of Python. It&#39;s simple, unobtrusive, and follows the UNIX tradition of single-purpose tools that do one thing well. | pyenv-win | 3211 |
 
 **[⬆ Back to Index](#-contents)**
 
