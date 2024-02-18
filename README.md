@@ -55,7 +55,7 @@
 | 3 |  [wSimpleEncryptDecrypt](https://github.com/se-nora/wSimpleEncryptDecrypt) | a tool to simply encrypt and decrpyt stuff with certificiates | se-nora | 1 |
 | 4 |  [aspnetboilerplate](https://github.com/aspnetboilerplate/aspnetboilerplate) | ASP.NET Boilerplate - Web Application Framework | aspnetboilerplate | 11458 |
 | 5 |  [StyleCopAnalyzers](https://github.com/DotNetAnalyzers/StyleCopAnalyzers) | An implementation of StyleCop rules using the .NET Compiler Platform | DotNetAnalyzers | 2540 |
-| 6 |  [eShopOnDapr](https://github.com/dotnet-architecture/eShopOnDapr) | A sample .NET distributed application based on eShopOnContainers, powered by Dapr. | dotnet-architecture | 1500 |
+| 6 |  [eShopOnDapr](https://github.com/dotnet-architecture/eShopOnDapr) | A sample .NET distributed application based on eShopOnContainers, powered by Dapr. | dotnet-architecture | 1501 |
 | 7 |  [tye](https://github.com/dotnet/tye) | Tye is a tool that makes developing, testing, and deploying microservices and distributed applications easier. Project Tye includes a local orchestrator to make developing microservices easier and the ability to deploy microservices to Kubernetes with minimal configuration. | dotnet | 5312 |
 | 8 |  [print-it](https://github.com/huysentruitw/print-it) | Windows service for printing PDF files to a local or network printer in the background | huysentruitw | 74 |
 | 9 |  [Sprache](https://github.com/sprache/Sprache) | A tiny, friendly, C# parser construction library | sprache | 2243 |
@@ -150,7 +150,7 @@
 ## Java
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [OpenSearch](https://github.com/opensearch-project/OpenSearch) | 🔎 Open source distributed and RESTful search engine. | opensearch-project | 8280 |
+| 1 |  [OpenSearch](https://github.com/opensearch-project/OpenSearch) | 🔎 Open source distributed and RESTful search engine. | opensearch-project | 8281 |
 | 2 |  [mypy-pycharm](https://github.com/leinardi/mypy-pycharm) | A plugin providing both real-time and on-demand scanning of Python files with Mypy from within PyCharm/IDEA. | leinardi | 184 |
 | 3 |  [black-pycharm](https://github.com/pablogsal/black-pycharm) | Pycharm plugin for https://github.com/ambv/black | pablogsal | 32 |
 
@@ -252,7 +252,7 @@
 | 38 |  [pydantic-odm](https://github.com/i8enn/pydantic-odm) | Small async ODM for MongoDB based in Motor and Pydantic library | i8enn | 39 |
 | 39 |  [returns](https://github.com/dry-python/returns) | Make your functions return something meaningful, typed, and safe! | dry-python | 3131 |
 | 40 |  [pymaybe](https://github.com/ekampf/pymaybe) | A Python implementation of the Maybe pattern | ekampf | 204 |
-| 41 |  [poetry](https://github.com/python-poetry/poetry) | Python packaging and dependency management made easy | python-poetry | 28584 |
+| 41 |  [poetry](https://github.com/python-poetry/poetry) | Python packaging and dependency management made easy | python-poetry | 28587 |
 | 42 |  [pipenv](https://github.com/pypa/pipenv) | Python Development Workflow for Humans. | pypa | 24455 |
 | 43 |  [KanTeX](https://github.com/kantek/KanTeX) |  | kantek | 11 |
 | 44 |  [ticktick-python](https://github.com/glasslion/ticktick-python) |  | glasslion | 31 |
@@ -284,14 +284,14 @@
 | 70 |  [haps](https://github.com/ekiro/haps) | Pure Python dependency injection library | ekiro | 50 |
 | 71 |  [sentry-python](https://github.com/getsentry/sentry-python) | The official Python SDK for Sentry.io | getsentry | 1694 |
 | 72 |  [baron](https://github.com/PyCQA/baron) | IDE allow you to refactor code, Baron allows you to write refactoring code. | PyCQA | 284 |
-| 73 |  [python-dependency-injector](https://github.com/ets-labs/python-dependency-injector) | Dependency injection framework for Python | ets-labs | 3479 |
+| 73 |  [python-dependency-injector](https://github.com/ets-labs/python-dependency-injector) | Dependency injection framework for Python | ets-labs | 3480 |
 | 74 |  [sticker-finder](https://github.com/Nukesor/sticker-finder) | :zap: A telegram bot for searching all the stickers (just like @gif). | Nukesor | 95 |
 | 75 |  [dokku-dashboard](https://github.com/lohanbodevan/dokku-dashboard) | Dokku PaaS Dashboard | lohanbodevan | 15 |
 | 76 |  [insurance-chatbot-prototype](https://github.com/JosXa/insurance-chatbot-prototype) | Chatbot Prototype for Smartphone Insurance Damage Claims | JosXa | 3 |
 | 77 |  [BotListBot](https://github.com/JosXa/BotListBot) | Repository of Telegram&#39;s BotListBot | JosXa | 56 |
 | 78 |  [make-stub-files](https://github.com/edreamleo/make-stub-files) | Script and config file that creates python stub (.pyi) files | edreamleo | 32 |
 | 79 |  [logzero](https://github.com/metachris/logzero) | Robust and effective logging for Python 2 and 3. | metachris | 1030 |
-| 80 |  [Telethon](https://github.com/LonamiWebs/Telethon) | Pure Python 3 MTProto API Telegram client library, for bots too! | LonamiWebs | 8724 |
+| 80 |  [Telethon](https://github.com/LonamiWebs/Telethon) | Pure Python 3 MTProto API Telegram client library, for bots too! | LonamiWebs | 8725 |
 | 81 |  [fbmq](https://github.com/conbus/fbmq) | (Deprecated) Facebook Messenger Platform Python Library (Facebook Chatbot Library) | conbus | 168 |
 | 82 |  [coconut](https://github.com/evhub/coconut) | Simple, elegant, Pythonic functional programming. | evhub | 3905 |
 | 83 |  [sudobot](https://github.com/bvanrijn/sudobot) | run commands on your server via a Telegram bot | bvanrijn | 46 |
@@ -308,7 +308,7 @@
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
 | 1 |  [tg-bot-api](https://github.com/ark0f/tg-bot-api) | Telegram Bot API parser and generators | ark0f | 40 |
-| 2 |  [vaultwarden](https://github.com/dani-garcia/vaultwarden) | Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs | dani-garcia | 31333 |
+| 2 |  [vaultwarden](https://github.com/dani-garcia/vaultwarden) | Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs | dani-garcia | 31334 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -333,7 +333,7 @@
 | 2 |  [signals](https://github.com/preactjs/signals) | Manage state with style in every framework | preactjs | 3345 |
 | 3 |  [use-callback-ref](https://github.com/theKashey/use-callback-ref) | 🤙The same useRef, but it will callback | theKashey | 281 |
 | 4 |  [novu](https://github.com/novuhq/novu) | 🔥 The open-source notification infrastructure with fully functional embedded notification center 🚀🚀🚀 | novuhq | 31859 |
-| 5 |  [hono](https://github.com/honojs/hono) | Fast, Lightweight, Web-standards | honojs | 11777 |
+| 5 |  [hono](https://github.com/honojs/hono) | Fast, Lightweight, Web-standards | honojs | 11779 |
 | 6 |  [next-international](https://github.com/QuiiBz/next-international) | Type-safe internationalization (i18n) for Next.js | QuiiBz | 1067 |
 | 7 |  [fresh](https://github.com/denoland/fresh) | The next-gen web framework. | denoland | 11683 |
 | 8 |  [remult](https://github.com/remult/remult) | Full-stack CRUD, simplified, with SSOT TypeScript entities | remult | 2481 |
@@ -345,26 +345,26 @@
 | 14 |  [fluentui](https://github.com/microsoft/fluentui) | Fluent UI web represents a collection of utilities, React components, and web components for building web applications. | microsoft | 17385 |
 | 15 |  [twin.macro](https://github.com/ben-rogerson/twin.macro) | 🦹‍♂️ Twin blends the magic of Tailwind with the flexibility of css-in-js (emotion, styled-components, solid-styled-components, stitches and goober) at build time. | ben-rogerson | 7752 |
 | 16 |  [autorest](https://github.com/Azure/autorest) | OpenAPI (f.k.a Swagger) Specification code generator. Supports C#, PowerShell, Go, Java, Node.js, TypeScript, Python | Azure | 4432 |
-| 17 |  [code-server](https://github.com/coder/code-server) | VS Code in the browser | coder | 64214 |
-| 18 |  [nocodb](https://github.com/nocodb/nocodb) | 🔥 🔥 🔥 Open Source Airtable Alternative | nocodb | 40729 |
+| 17 |  [code-server](https://github.com/coder/code-server) | VS Code in the browser | coder | 64216 |
+| 18 |  [nocodb](https://github.com/nocodb/nocodb) | 🔥 🔥 🔥 Open Source Airtable Alternative | nocodb | 40730 |
 | 19 |  [WebWindow](https://github.com/SteveSandersonMS/WebWindow) | .NET Core library to open native OS windows containing web UI on Windows, Mac, and Linux. Experimental. | SteveSandersonMS | 1995 |
 | 20 |  [porter](https://github.com/porter-dev/porter) | Kubernetes powered PaaS that runs in your own cloud. | porter-dev | 4022 |
 | 21 |  [ChannelHashBot](https://github.com/JosXa/ChannelHashBot) |  | JosXa | 1 |
-| 22 |  [vscode](https://github.com/microsoft/vscode) | Visual Studio Code | microsoft | 156222 |
+| 22 |  [vscode](https://github.com/microsoft/vscode) | Visual Studio Code | microsoft | 156224 |
 
 **[⬆ Back to Index](#-contents)**
 
 ## VBScript
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [pyenv-win](https://github.com/pyenv-win/pyenv-win) | pyenv for Windows. pyenv is a simple python version management tool. It lets you easily switch between multiple versions of Python. It&#39;s simple, unobtrusive, and follows the UNIX tradition of single-purpose tools that do one thing well. | pyenv-win | 3655 |
+| 1 |  [pyenv-win](https://github.com/pyenv-win/pyenv-win) | pyenv for Windows. pyenv is a simple python version management tool. It lets you easily switch between multiple versions of Python. It&#39;s simple, unobtrusive, and follows the UNIX tradition of single-purpose tools that do one thing well. | pyenv-win | 3656 |
 
 **[⬆ Back to Index](#-contents)**
 
 ## Zig
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [bun](https://github.com/oven-sh/bun) | Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one | oven-sh | 68225 |
+| 1 |  [bun](https://github.com/oven-sh/bun) | Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one | oven-sh | 68229 |
 
 **[⬆ Back to Index](#-contents)**
 
