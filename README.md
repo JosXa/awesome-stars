@@ -91,7 +91,7 @@
 ## C++
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [gpt4all](https://github.com/nomic-ai/gpt4all) | gpt4all: run open-source LLMs anywhere | nomic-ai | 62808 |
+| 1 |  [gpt4all](https://github.com/nomic-ai/gpt4all) | gpt4all: run open-source LLMs anywhere | nomic-ai | 62810 |
 | 2 |  [workerd](https://github.com/cloudflare/workerd) | The JavaScript / Wasm runtime that powers Cloudflare Workers | cloudflare | 5492 |
 | 3 |  [tdlight-telegram-bot-api](https://github.com/JosXa/tdlight-telegram-bot-api) | The Telegram Bot API provides an HTTP API for creating Telegram Bots. | JosXa | 1 |
 | 4 |  [telegram-bot-api](https://github.com/tdlib/telegram-bot-api) | Telegram Bot API server | tdlib | 2733 |
@@ -172,7 +172,7 @@
 | 10 |  [composerize](https://github.com/composerize/composerize) | 🏃→🎼  docker run asdlksjfksdf &amp;gt; docker-composerize up | composerize | 2831 |
 | 11 |  [fork-sync](https://github.com/tgymnich/fork-sync) | 🔄 Github action to sync your forks | tgymnich | 345 |
 | 12 |  [quote-bot](https://github.com/LyoSU/quote-bot) | Telegram quote bot | LyoSU | 278 |
-| 13 |  [node-telegram-bot-api](https://github.com/yagop/node-telegram-bot-api) | Telegram Bot API for NodeJS | yagop | 7854 |
+| 13 |  [node-telegram-bot-api](https://github.com/yagop/node-telegram-bot-api) | Telegram Bot API for NodeJS | yagop | 7855 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -341,24 +341,24 @@
 | 2 |  [signals](https://github.com/preactjs/signals) | Manage state with style in every framework | preactjs | 3427 |
 | 3 |  [use-callback-ref](https://github.com/theKashey/use-callback-ref) | 🤙The same useRef, but it will callback | theKashey | 284 |
 | 4 |  [novu](https://github.com/novuhq/novu) | 🔥 The open-source notification infrastructure with fully functional embedded notification center 🚀🚀🚀 | novuhq | 32235 |
-| 5 |  [hono](https://github.com/honojs/hono) | Fast, Lightweight, Web-standards | honojs | 13228 |
+| 5 |  [hono](https://github.com/honojs/hono) | Fast, Lightweight, Web-standards | honojs | 13229 |
 | 6 |  [next-international](https://github.com/QuiiBz/next-international) | Type-safe internationalization (i18n) for Next.js | QuiiBz | 1111 |
-| 7 |  [fresh](https://github.com/denoland/fresh) | The next-gen web framework. | denoland | 11765 |
+| 7 |  [fresh](https://github.com/denoland/fresh) | The next-gen web framework. | denoland | 11766 |
 | 8 |  [remult](https://github.com/remult/remult) | Full-stack CRUD, simplified, with SSOT TypeScript entities | remult | 2627 |
 | 9 |  [actionsflow](https://github.com/actionsflow/actionsflow) | The free Zapier/IFTTT alternative for developers to automate your workflows based on Github actions | actionsflow | 3043 |
 | 10 |  [miniflare-typescript-esbuild-jest](https://github.com/cloudflare/miniflare-typescript-esbuild-jest) | Example project using Miniflare, TypeScript, esbuild and Jest | cloudflare | 86 |
 | 11 |  [next-api-decorators](https://github.com/instantcommerce/next-api-decorators) | Collection of decorators to create typed Next.js API routes, with easy request validation and transformation. | instantcommerce | 395 |
 | 12 |  [jedlik](https://github.com/peak-ai/jedlik) | DynamoDB ODM for Node | peak-ai | 106 |
 | 13 |  [slate](https://github.com/ianstormtaylor/slate) | A completely customizable framework for building rich text editors. (Currently in beta.) | ianstormtaylor | 28843 |
-| 14 |  [fluentui](https://github.com/microsoft/fluentui) | Fluent UI web represents a collection of utilities, React components, and web components for building web applications. | microsoft | 17542 |
+| 14 |  [fluentui](https://github.com/microsoft/fluentui) | Fluent UI web represents a collection of utilities, React components, and web components for building web applications. | microsoft | 17543 |
 | 15 |  [twin.macro](https://github.com/ben-rogerson/twin.macro) | 🦹‍♂️ Twin blends the magic of Tailwind with the flexibility of css-in-js (emotion, styled-components, solid-styled-components, stitches and goober) at build time. | ben-rogerson | 7778 |
 | 16 |  [autorest](https://github.com/Azure/autorest) | OpenAPI (f.k.a Swagger) Specification code generator. Supports C#, PowerShell, Go, Java, Node.js, TypeScript, Python | Azure | 4471 |
-| 17 |  [code-server](https://github.com/coder/code-server) | VS Code in the browser | coder | 64802 |
-| 18 |  [nocodb](https://github.com/nocodb/nocodb) | 🔥 🔥 🔥 Open Source Airtable Alternative | nocodb | 41531 |
+| 17 |  [code-server](https://github.com/coder/code-server) | VS Code in the browser | coder | 64804 |
+| 18 |  [nocodb](https://github.com/nocodb/nocodb) | 🔥 🔥 🔥 Open Source Airtable Alternative | nocodb | 41530 |
 | 19 |  [WebWindow](https://github.com/SteveSandersonMS/WebWindow) | .NET Core library to open native OS windows containing web UI on Windows, Mac, and Linux. Experimental. | SteveSandersonMS | 1995 |
 | 20 |  [porter](https://github.com/porter-dev/porter) | Kubernetes powered PaaS that runs in your own cloud. | porter-dev | 4085 |
 | 21 |  [ChannelHashBot](https://github.com/JosXa/ChannelHashBot) |  | JosXa | 1 |
-| 22 |  [vscode](https://github.com/microsoft/vscode) | Visual Studio Code | microsoft | 157247 |
+| 22 |  [vscode](https://github.com/microsoft/vscode) | Visual Studio Code | microsoft | 157250 |
 
 **[⬆ Back to Index](#-contents)**
 
