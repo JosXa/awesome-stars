@@ -44,7 +44,7 @@
 |---	|---	|---	|---	|---	|
 | 1 |  [robotjs](https://github.com/octalmage/robotjs) | Node.js Desktop Automation. | octalmage | 12273 |
 | 2 |  [rpitx](https://github.com/F5OEO/rpitx) | RF transmitter for Raspberry Pi | F5OEO | 3967 |
-| 3 |  [tg](https://github.com/vysheng/tg) | telegram-cli | vysheng | 6419 |
+| 3 |  [tg](https://github.com/vysheng/tg) | telegram-cli | vysheng | 6420 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -84,7 +84,7 @@
 | 31 |  [AppConfiguration-DotnetProvider](https://github.com/Azure/AppConfiguration-DotnetProvider) | The .NET Standard configuration provider for Azure App Configuration | Azure | 80 |
 | 32 |  [GlassTL](https://github.com/GlassTL/GlassTL) | MTProto 2.0 Client in dotnet core | GlassTL | 7 |
 | 33 |  [Dazinator.Extensions.DependencyInjection](https://github.com/dazinator/Dazinator.Extensions.DependencyInjection) | Useful additions to Microsoft.Extensions.DependencyInjection such as Named Services. | dazinator | 37 |
-| 34 |  [spy-spotify](https://github.com/jwallet/spy-spotify) | 🎤 Records Spotify to mp3 without ads and adds media tags to the files 🎵 | jwallet | 2080 |
+| 34 |  [spy-spotify](https://github.com/jwallet/spy-spotify) | 🎤 Records Spotify to mp3 without ads and adds media tags to the files 🎵 | jwallet | 2081 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -96,7 +96,7 @@
 | 3 |  [tdlight-telegram-bot-api](https://github.com/JosXa/tdlight-telegram-bot-api) | The Telegram Bot API provides an HTTP API for creating Telegram Bots. | JosXa | 1 |
 | 4 |  [telegram-bot-api](https://github.com/tdlib/telegram-bot-api) | Telegram Bot API server | tdlib | 3032 |
 | 5 |  [tdlight-telegram-bot-api](https://github.com/tdlight-team/tdlight-telegram-bot-api) | The TDLight Telegram Bot API is an actively enhanced fork of the original Bot API, featuring experimental user support, proxies, unlimited files size, and more. | tdlight-team | 123 |
-| 6 |  [tdesktop](https://github.com/telegramdesktop/tdesktop) | Telegram Desktop messaging app | telegramdesktop | 25425 |
+| 6 |  [tdesktop](https://github.com/telegramdesktop/tdesktop) | Telegram Desktop messaging app | telegramdesktop | 25426 |
 | 7 |  [krunner-symbols](https://github.com/domschrei/krunner-symbols) | A lightweight KRunner plugin (Plasma 5) to retrieve unicode symbols, or any other string, based on a corresponding keyword. | domschrei | 117 |
 
 **[⬆ Back to Index](#-contents)**
@@ -104,7 +104,7 @@
 ## CSS
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [github-markdown-css](https://github.com/sindresorhus/github-markdown-css) | The minimal amount of CSS to replicate the GitHub Markdown style | sindresorhus | 7864 |
+| 1 |  [github-markdown-css](https://github.com/sindresorhus/github-markdown-css) | The minimal amount of CSS to replicate the GitHub Markdown style | sindresorhus | 7865 |
 | 2 |  [flogo](https://github.com/TIBCOSoftware/flogo) | Project Flogo is an open source ecosystem of opinionated  event-driven capabilities to simplify building efficient &amp; modern serverless functions, microservices &amp; edge apps. | TIBCOSoftware | 2399 |
 | 3 |  [openinbrowser](https://github.com/Lulzx/openinbrowser) | a chrome extension to help you share links from telegram mobile to desktop browser tabs | Lulzx | 3 |
 
@@ -128,7 +128,7 @@
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
 | 1 |  [glasskube](https://github.com/glasskube/glasskube) | 🧊 The next generation Package Manager for Kubernetes 📦 Featuring a GUI and a CLI. Glasskube packages are dependency aware, GitOps ready and can get automatic updates via a central public package repository. | glasskube | 2640 |
-| 2 |  [nvm-windows](https://github.com/coreybutler/nvm-windows) | A node.js version management utility for Windows. Ironically written in Go. | coreybutler | 36524 |
+| 2 |  [nvm-windows](https://github.com/coreybutler/nvm-windows) | A node.js version management utility for Windows. Ironically written in Go. | coreybutler | 36525 |
 | 3 |  [nomad](https://github.com/hashicorp/nomad) | Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations. | hashicorp | 14707 |
 | 4 |  [gpwm](https://github.com/dasdipanjan04/gpwm) | A go based open source password manager | dasdipanjan04 | 2 |
 | 5 |  [flynn](https://github.com/flynn/flynn) | [UNMAINTAINED] A next generation open source platform as a service (PaaS) | flynn | 7863 |
@@ -162,7 +162,7 @@
 ## JavaScript
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [winston](https://github.com/winstonjs/winston) | A logger for just about everything. | winstonjs | 22511 |
+| 1 |  [winston](https://github.com/winstonjs/winston) | A logger for just about everything. | winstonjs | 22512 |
 | 2 |  [combine-errors](https://github.com/matthewmueller/combine-errors) | Simple way to combine multiple errors into one. | matthewmueller | 31 |
 | 3 |  [p-map](https://github.com/sindresorhus/p-map) | Map over promises concurrently | sindresorhus | 1267 |
 | 4 |  [ice-box](https://github.com/hackergrrl/ice-box) | :snowflake: Create immutable directory pipelines. | hackergrrl | 53 |
@@ -224,12 +224,12 @@
 ## Python
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [omniparse](https://github.com/adithya-s-k/omniparse) | Ingest, parse, and optimize any data format ➡️ from documents to multimedia ➡️ for enhanced compatibility with GenAI frameworks | adithya-s-k | 4716 |
+| 1 |  [omniparse](https://github.com/adithya-s-k/omniparse) | Ingest, parse, and optimize any data format ➡️ from documents to multimedia ➡️ for enhanced compatibility with GenAI frameworks | adithya-s-k | 4717 |
 | 2 |  [littletable](https://github.com/ptmcg/littletable) | An in-memory database of Python objects, searchable using quasi-SQL API | ptmcg | 156 |
 | 3 |  [TrashGuy](https://github.com/TrashGuyAnimations/TrashGuy) | The Original TrashGuy™ Animation! A fun line-based text animation for all your trash disposal needs! Written in Python, this module has full Unicode and emoji support. It can be accessed from the command line directly or used as part of your scripts (i.e., chatbot plugin, loading animations, website widget, etc.) | TrashGuyAnimations | 4 |
 | 4 |  [codex-readme](https://github.com/tom-doerr/codex-readme) | Revolutionize your project documentation with the Codex-README generator, utilizing OpenAI&#39;s Codex for intelligent README creation. | tom-doerr | 396 |
 | 5 |  [eventsourcing](https://github.com/pyeventsourcing/eventsourcing) | A library for event sourcing in Python. | pyeventsourcing | 1434 |
-| 6 |  [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs | public-apis | 309990 |
+| 6 |  [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs | public-apis | 309993 |
 | 7 |  [hopscotch](https://github.com/pauleveritt/hopscotch) | Type-oriented registry with dependency injection. | pauleveritt | 7 |
 | 8 |  [piku](https://github.com/piku/piku) | The tiniest PaaS you&#39;ve ever seen. Piku allows you to do git push deployments to your own servers. | piku | 5645 |
 | 9 |  [lstm_text_generator](https://github.com/Bakuutin/lstm_text_generator) | Neural network powered telegram bot | Bakuutin | 12 |
@@ -263,7 +263,7 @@
 | 37 |  [extended_pathlib](https://github.com/KenKundert/extended_pathlib) | Extensions to stdlib pathlib | KenKundert | 2 |
 | 38 |  [odmantic](https://github.com/art049/odmantic) | Sync and Async ODM (Object Document Mapper) for MongoDB based on python type hints | art049 | 1040 |
 | 39 |  [pydantic-odm](https://github.com/i8enn/pydantic-odm) | Small async ODM for MongoDB based in Motor and Pydantic library | i8enn | 39 |
-| 40 |  [returns](https://github.com/dry-python/returns) | Make your functions return something meaningful, typed, and safe! | dry-python | 3432 |
+| 40 |  [returns](https://github.com/dry-python/returns) | Make your functions return something meaningful, typed, and safe! | dry-python | 3433 |
 | 41 |  [pymaybe](https://github.com/ekampf/pymaybe) | A Python implementation of the Maybe pattern | ekampf | 209 |
 | 42 |  [poetry](https://github.com/python-poetry/poetry) | Python packaging and dependency management made easy | python-poetry | 30815 |
 | 43 |  [pipenv](https://github.com/pypa/pipenv) | Python Development Workflow for Humans. | pypa | 24775 |
@@ -322,7 +322,7 @@
 |---	|---	|---	|---	|---	|
 | 1 |  [kit-enigo](https://github.com/johnlindquist/kit-enigo) |  | johnlindquist | 3 |
 | 2 |  [tg-bot-api](https://github.com/ark0f/tg-bot-api) | Telegram Bot API parser and generators | ark0f | 49 |
-| 3 |  [vaultwarden](https://github.com/dani-garcia/vaultwarden) | Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs | dani-garcia | 35938 |
+| 3 |  [vaultwarden](https://github.com/dani-garcia/vaultwarden) | Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs | dani-garcia | 35941 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -361,8 +361,8 @@
 | 16 |  [catcher](https://github.com/isaacs/catcher) |  | isaacs | 119 |
 | 17 |  [signals](https://github.com/preactjs/signals) | Manage state with style in every framework | preactjs | 3679 |
 | 18 |  [use-callback-ref](https://github.com/theKashey/use-callback-ref) | 🤙The same useRef, but it will callback | theKashey | 290 |
-| 19 |  [novu](https://github.com/novuhq/novu) | Open-Source Notification Platform. Embeddable Notification Center, E-mail, Push and Slack Integrations. | novuhq | 33926 |
-| 20 |  [hono](https://github.com/honojs/hono) | Web framework built on Web Standards | honojs | 17716 |
+| 19 |  [novu](https://github.com/novuhq/novu) | Open-Source Notification Platform. Embeddable Notification Center, E-mail, Push and Slack Integrations. | novuhq | 33928 |
+| 20 |  [hono](https://github.com/honojs/hono) | Web framework built on Web Standards | honojs | 17714 |
 | 21 |  [next-international](https://github.com/QuiiBz/next-international) | Type-safe internationalization (i18n) for Next.js | QuiiBz | 1242 |
 | 22 |  [fresh](https://github.com/denoland/fresh) | The next-gen web framework. | denoland | 12129 |
 | 23 |  [remult](https://github.com/remult/remult) | Full-stack CRUD, simplified, with SSOT TypeScript entities | remult | 2808 |
@@ -375,13 +375,13 @@
 | 30 |  [fayr-tv](https://github.com/fayrtv/fayr-tv) | We build the &#34;Shopify of streaming&#34; ❤️‍🔥 with FAYR everyone can build their own streaming platform with the same power like Netflix or Twitch. | fayrtv | 3 |
 | 31 |  [twin.macro](https://github.com/ben-rogerson/twin.macro) | 🦹‍♂️ Twin blends the magic of Tailwind with the flexibility of css-in-js (emotion, styled-components, solid-styled-components, stitches and goober) at build time. | ben-rogerson | 7877 |
 | 32 |  [autorest](https://github.com/Azure/autorest) | OpenAPI (f.k.a Swagger) Specification code generator. Supports C#, PowerShell, Go, Java, Node.js, TypeScript, Python | Azure | 4568 |
-| 33 |  [code-server](https://github.com/coder/code-server) | VS Code in the browser | coder | 67151 |
-| 34 |  [nocodb](https://github.com/nocodb/nocodb) | 🔥 🔥 🔥 Open Source Airtable Alternative | nocodb | 44379 |
+| 33 |  [code-server](https://github.com/coder/code-server) | VS Code in the browser | coder | 67152 |
+| 34 |  [nocodb](https://github.com/nocodb/nocodb) | 🔥 🔥 🔥 Open Source Airtable Alternative | nocodb | 44378 |
 | 35 |  [WebWindow](https://github.com/SteveSandersonMS/WebWindow) | .NET Core library to open native OS windows containing web UI on Windows, Mac, and Linux. Experimental. | SteveSandersonMS | 1983 |
 | 36 |  [porter-archive](https://github.com/porter-dev/porter-archive) | Kubernetes powered PaaS that runs in your own cloud. | porter-dev | 4192 |
 | 37 |  [fork-sync](https://github.com/tgymnich/fork-sync) | 🔄 Github action to sync your forks | tgymnich | 378 |
 | 38 |  [ChannelHashBot](https://github.com/JosXa/ChannelHashBot) |  | JosXa | 1 |
-| 39 |  [vscode](https://github.com/microsoft/vscode) | Visual Studio Code | microsoft | 161599 |
+| 39 |  [vscode](https://github.com/microsoft/vscode) | Visual Studio Code | microsoft | 161601 |
 
 **[⬆ Back to Index](#-contents)**
 
