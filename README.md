@@ -92,7 +92,7 @@
 ## C++
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [gpt4all](https://github.com/nomic-ai/gpt4all) | GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use. | nomic-ai | 72870 |
+| 1 |  [gpt4all](https://github.com/nomic-ai/gpt4all) | GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use. | nomic-ai | 72871 |
 | 2 |  [workerd](https://github.com/cloudflare/workerd) | The JavaScript / Wasm runtime that powers Cloudflare Workers | cloudflare | 6576 |
 | 3 |  [tdlight-telegram-bot-api](https://github.com/JosXa/tdlight-telegram-bot-api) | The Telegram Bot API provides an HTTP API for creating Telegram Bots. | JosXa | 1 |
 | 4 |  [telegram-bot-api](https://github.com/tdlib/telegram-bot-api) | Telegram Bot API server | tdlib | 3406 |
@@ -128,7 +128,7 @@
 ## Go
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [pocketbase](https://github.com/pocketbase/pocketbase) | Open Source realtime backend in 1 file | pocketbase | 44688 |
+| 1 |  [pocketbase](https://github.com/pocketbase/pocketbase) | Open Source realtime backend in 1 file | pocketbase | 44689 |
 | 2 |  [glasskube](https://github.com/glasskube/glasskube) | 🧊 The next generation Package Manager for Kubernetes 📦 Featuring a GUI and a CLI. Glasskube packages are dependency aware, GitOps ready and can get automatic updates via a central public package repository. | glasskube | 3166 |
 | 3 |  [nvm-windows](https://github.com/coreybutler/nvm-windows) | A node.js version management utility for Windows. Ironically written in Go. | coreybutler | 40113 |
 | 4 |  [nomad](https://github.com/hashicorp/nomad) | Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations. | hashicorp | 15323 |
@@ -155,7 +155,7 @@
 ## Java
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [OpenSearch](https://github.com/opensearch-project/OpenSearch) | 🔎 Open source distributed and RESTful search engine. | opensearch-project | 10371 |
+| 1 |  [OpenSearch](https://github.com/opensearch-project/OpenSearch) | 🔎 Open source distributed and RESTful search engine. | opensearch-project | 10372 |
 | 2 |  [mypy-pycharm](https://github.com/leinardi/mypy-pycharm) | A plugin providing both real-time and on-demand scanning of Python files with Mypy from within PyCharm/IDEA. | leinardi | 203 |
 | 3 |  [black-pycharm](https://github.com/pablogsal/black-pycharm) | Pycharm plugin for https://github.com/ambv/black | pablogsal | 31 |
 
@@ -171,7 +171,7 @@
 | 5 |  [Parsr](https://github.com/axa-group/Parsr) | Transforms PDF, Documents and Images into Enriched Structured Data | axa-group | 5937 |
 | 6 |  [linq](https://github.com/mihaifm/linq) | linq.js - LINQ for JavaScript | mihaifm | 1698 |
 | 7 |  [ohm](https://github.com/ohmjs/ohm) | A library and language for building parsers, interpreters, compilers, etc. | ohmjs | 5270 |
-| 8 |  [react-grid-layout](https://github.com/react-grid-layout/react-grid-layout) | A draggable and resizable grid layout with responsive breakpoints, for React. | react-grid-layout | 20990 |
+| 8 |  [react-grid-layout](https://github.com/react-grid-layout/react-grid-layout) | A draggable and resizable grid layout with responsive breakpoints, for React. | react-grid-layout | 20992 |
 | 9 |  [omni](https://github.com/alyssaxuu/omni) | The all-in-one tool to supercharge your productivity ⌨️ | alyssaxuu | 7413 |
 | 10 |  [license-checker-rseidelsohn](https://github.com/RSeidelsohn/license-checker-rseidelsohn) | Extract NPM package licenses. Enhanced and updated fork of Dav Glass&#39; original (but abandoned) license-checker. | RSeidelsohn | 152 |
 | 11 |  [active-forks](https://github.com/techgaun/active-forks) | Find active github forks of a repo https://git.io/vSnrC | techgaun | 2319 |
@@ -236,7 +236,7 @@
 | 8 |  [piku](https://github.com/piku/piku) | The tiniest PaaS you&#39;ve ever seen. Piku allows you to do git push deployments to your own servers. | piku | 6144 |
 | 9 |  [lstm_text_generator](https://github.com/Bakuutin/lstm_text_generator) | Neural network powered telegram bot | Bakuutin | 12 |
 | 10 |  [spotify_userbot](https://github.com/meanii/spotify_userbot) | This userbot updates the biography of a telegram user according to their current spotify playback. | meanii | 2 |
-| 11 |  [copier](https://github.com/copier-org/copier) | Library and command-line utility for rendering projects templates. | copier-org | 2344 |
+| 11 |  [copier](https://github.com/copier-org/copier) | Library and command-line utility for rendering projects templates. | copier-org | 2345 |
 | 12 |  [injector](https://github.com/python-injector/injector) | Python dependency injection framework, inspired by Guice | python-injector | 1379 |
 | 13 |  [aop](https://github.com/orsinium-labs/aop) | Aspect oriented programming for Python. Patch everything! | orsinium-labs | 13 |
 | 14 |  [deal](https://github.com/life4/deal) | 🤝 Design by contract for Python. Write bug-free code. Add a few decorators, get static analysis and tests for free. | life4 | 776 |
@@ -324,14 +324,14 @@
 |---	|---	|---	|---	|---	|
 | 1 |  [kit-enigo](https://github.com/johnlindquist/kit-enigo) |  | johnlindquist | 3 |
 | 2 |  [tg-bot-api](https://github.com/ark0f/tg-bot-api) | Telegram Bot API parser and generators | ark0f | 53 |
-| 3 |  [vaultwarden](https://github.com/dani-garcia/vaultwarden) | Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs | dani-garcia | 42727 |
+| 3 |  [vaultwarden](https://github.com/dani-garcia/vaultwarden) | Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs | dani-garcia | 42728 |
 
 **[⬆ Back to Index](#-contents)**
 
 ## Shell
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [dokku](https://github.com/dokku/dokku) | A docker-powered PaaS that helps you build and manage the lifecycle of applications | dokku | 30116 |
+| 1 |  [dokku](https://github.com/dokku/dokku) | A docker-powered PaaS that helps you build and manage the lifecycle of applications | dokku | 30118 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -365,7 +365,7 @@
 | 18 |  [catcher](https://github.com/isaacs/catcher) |  | isaacs | 126 |
 | 19 |  [signals](https://github.com/preactjs/signals) | Manage state with style in every framework | preactjs | 3988 |
 | 20 |  [use-callback-ref](https://github.com/theKashey/use-callback-ref) | 🤙The same useRef, but it will callback | theKashey | 307 |
-| 21 |  [novu](https://github.com/novuhq/novu) | Open-Source Notification Platform. Embeddable Notification Center, E-mail, Push and Slack Integrations. | novuhq | 36521 |
+| 21 |  [novu](https://github.com/novuhq/novu) | Open-Source Notification Platform. Embeddable Notification Center, E-mail, Push and Slack Integrations. | novuhq | 36522 |
 | 22 |  [hono](https://github.com/honojs/hono) | Web framework built on Web Standards | honojs | 23034 |
 | 23 |  [next-international](https://github.com/QuiiBz/next-international) | Type-safe internationalization (i18n) for Next.js | QuiiBz | 1380 |
 | 24 |  [fresh](https://github.com/denoland/fresh) | The next-gen web framework. | denoland | 12922 |
@@ -383,7 +383,7 @@
 | 36 |  [porter-archive](https://github.com/porter-dev/porter-archive) | Kubernetes powered PaaS that runs in your own cloud. | porter-dev | 4211 |
 | 37 |  [fork-sync](https://github.com/tgymnich/fork-sync) | 🔄 Github action to sync your forks | tgymnich | 404 |
 | 38 |  [ChannelHashBot](https://github.com/JosXa/ChannelHashBot) |  | JosXa | 1 |
-| 39 |  [vscode](https://github.com/microsoft/vscode) | Visual Studio Code | microsoft | 168963 |
+| 39 |  [vscode](https://github.com/microsoft/vscode) | Visual Studio Code | microsoft | 168965 |
 
 **[⬆ Back to Index](#-contents)**
 
