@@ -233,7 +233,7 @@
 | 4 |  [TrashGuy](https://github.com/TrashGuyAnimations/TrashGuy) | The Original TrashGuy™ Animation! A fun line-based text animation for all your trash disposal needs! Written in Python, this module has full Unicode and emoji support. It can be accessed from the command line directly or used as part of your scripts (i.e., chatbot plugin, loading animations, website widget, etc.) | TrashGuyAnimations | 6 |
 | 5 |  [codex-readme](https://github.com/tom-doerr/codex-readme) | Revolutionize your project documentation with the Codex-README generator, utilizing OpenAI&#39;s Codex for intelligent README creation. | tom-doerr | 405 |
 | 6 |  [eventsourcing](https://github.com/pyeventsourcing/eventsourcing) | A library for event sourcing in Python. | pyeventsourcing | 1588 |
-| 7 |  [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs | public-apis | 364861 |
+| 7 |  [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs | public-apis | 364863 |
 | 8 |  [hopscotch](https://github.com/pauleveritt/hopscotch) | Type-oriented registry with dependency injection. | pauleveritt | 8 |
 | 9 |  [piku](https://github.com/piku/piku) | The tiniest PaaS you&#39;ve ever seen. Piku allows you to do git push deployments to your own servers. | piku | 6436 |
 | 10 |  [lstm_text_generator](https://github.com/Bakuutin/lstm_text_generator) | Neural network powered telegram bot built in 2017 | Bakuutin | 12 |
@@ -281,7 +281,7 @@
 | 52 |  [datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator) | Pydantic model and dataclasses.dataclass generator for easy conversion of JSON, OpenAPI, JSON Schema, and YAML data sources. | koxudaxi | 3449 |
 | 53 |  [pycollection-pipelines](https://github.com/povilasb/pycollection-pipelines) | Collection pipeline pattern implementation in Python | povilasb | 7 |
 | 54 |  [ensure](https://github.com/kislyuk/ensure) | Validate conditions, Python style. | kislyuk | 156 |
-| 55 |  [loguru](https://github.com/Delgan/loguru) | Python logging made (stupidly) simple | Delgan | 22683 |
+| 55 |  [loguru](https://github.com/Delgan/loguru) | Python logging made (stupidly) simple | Delgan | 22684 |
 | 56 |  [pyrogram](https://github.com/pyrogram/pyrogram) | Elegant, modern and asynchronous Telegram MTProto API framework in Python for users and bots | pyrogram | 4560 |
 | 57 |  [dephell](https://github.com/dephell/dephell) | :package: :fire: Python project management. Manage packages: convert between formats, lock, install, resolve, isolate, test, build graph, show outdated, audit. Manage venvs, build package, bump version. | dephell | 1783 |
 | 58 |  [Botkit](https://github.com/autogram/Botkit) | Opinionated, library-agnostic Python framework for rapid development of Telegram bots and userbots with focus on maintainability for large projects. | autogram | 10 |
@@ -351,7 +351,7 @@
 | 2 |  [remeda](https://github.com/remeda/remeda) | A utility library for JavaScript and TypeScript. | remeda | 5132 |
 | 3 |  [metamcp](https://github.com/metatool-ai/metamcp) | MCP Aggregator, Orchestrator, Middleware, Gateway in one docker | metatool-ai | 1276 |
 | 4 |  [mcp-proxy-server](https://github.com/adamwattis/mcp-proxy-server) | An MCP proxy server that aggregates and serves multiple MCP resource servers through a single interface | adamwattis | 159 |
-| 5 |  [n8n](https://github.com/n8n-io/n8n) | Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. | n8n-io | 137303 |
+| 5 |  [n8n](https://github.com/n8n-io/n8n) | Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. | n8n-io | 137308 |
 | 6 |  [arktype](https://github.com/arktypeio/arktype) | TypeScript&#39;s 1:1 validator, optimized from editor to runtime | arktypeio | 6625 |
 | 7 |  [empathic](https://github.com/lukeed/empathic) | A set of small Node.js utilities to understand your pathing needs. | lukeed | 317 |
 | 8 |  [dotalias](https://github.com/open-draft/dotalias) | A single configuration for path aliases to reuse across all your tools (TypeScript, Jest, webpack, Rollup, etc.). | open-draft | 92 |
@@ -360,7 +360,7 @@
 | 11 |  [webcrypto-liner](https://github.com/PeculiarVentures/webcrypto-liner) | webcrypto-liner is a polyfill that let&#39;s down-level User Agents (like IE/Edge) use libraries that depend on WebCrypto. (Keywords: Javascript, WebCrypto, Shim, Polyfill) | PeculiarVentures | 150 |
 | 12 |  [ts-collections](https://github.com/phrolovia/ts-collections) | A simple data structures library for TypeScript | phrolovia | 2 |
 | 13 |  [sharp-collections](https://github.com/vdolek/sharp-collections) | TypeScript LINQ library implementing all .NET LINQ methods and some more. | vdolek | 15 |
-| 14 |  [is](https://github.com/sindresorhus/is) | Type check values | sindresorhus | 1724 |
+| 14 |  [is](https://github.com/sindresorhus/is) | Type check values | sindresorhus | 1725 |
 | 15 |  [ts-ast-parser](https://github.com/jordimarimon/ts-ast-parser) | Simplifies the TypeScript AST for generating documentation | jordimarimon | 66 |
 | 16 |  [kit-docs](https://github.com/johnlindquist/kit-docs) |  | johnlindquist | 10 |
 | 17 |  [fridaylog](https://github.com/OssamaZ/fridaylog) | Your all-in-one companion for changelogs, roadmap, and feature requests management. | OssamaZ | 6 |
@@ -390,7 +390,7 @@
 | 41 |  [porter-archive](https://github.com/porter-dev/porter-archive) | Kubernetes powered PaaS that runs in your own cloud. | porter-dev | 4247 |
 | 42 |  [fork-sync](https://github.com/tgymnich/fork-sync) | 🔄 Github action to sync your forks | tgymnich | 435 |
 | 43 |  [ChannelHashBot](https://github.com/JosXa/ChannelHashBot) |  | JosXa | 1 |
-| 44 |  [vscode](https://github.com/microsoft/vscode) | Visual Studio Code | microsoft | 176632 |
+| 44 |  [vscode](https://github.com/microsoft/vscode) | Visual Studio Code | microsoft | 176633 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -411,7 +411,7 @@
 ## Zig
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [bun](https://github.com/oven-sh/bun) | Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one | oven-sh | 80338 |
+| 1 |  [bun](https://github.com/oven-sh/bun) | Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one | oven-sh | 80339 |
 
 **[⬆ Back to Index](#-contents)**
 
