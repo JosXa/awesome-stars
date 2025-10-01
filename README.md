@@ -75,7 +75,7 @@
 | 21 |  [TelegramStorageParser](https://github.com/MihaZupan/TelegramStorageParser) | Library to decrypt and parse Telegram Desktop&#39;s storage | MihaZupan | 72 |
 | 22 |  [linq2db](https://github.com/linq2db/linq2db) | Linq to database provider. | linq2db | 3159 |
 | 23 |  [Warewolf](https://github.com/Warewolf-ESB/Warewolf) | Effortless Microservice Design and Integration. This repository includes the code-base for the Warewolf Studio and Server. | Warewolf-ESB | 277 |
-| 24 |  [CppSharp](https://github.com/mono/CppSharp) | Tools and libraries to glue C/C++ APIs to high-level languages | mono | 3283 |
+| 24 |  [CppSharp](https://github.com/mono/CppSharp) | Tools and libraries to glue C/C++ APIs to high-level languages | mono | 3284 |
 | 25 |  [ravendb](https://github.com/ravendb/ravendb) | ACID Document Database | ravendb | 3860 |
 | 26 |  [Tababular](https://github.com/rebus-org/Tababular) | :page_with_curl: Simple monospace text table formatting | rebus-org | 91 |
 | 27 |  [Rebus](https://github.com/rebus-org/Rebus) | :bus: Simple and lean service bus implementation for .NET | rebus-org | 2550 |
@@ -128,7 +128,7 @@
 ## Go
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [pocketbase](https://github.com/pocketbase/pocketbase) | Open Source realtime backend in 1 file | pocketbase | 51347 |
+| 1 |  [pocketbase](https://github.com/pocketbase/pocketbase) | Open Source realtime backend in 1 file | pocketbase | 51348 |
 | 2 |  [glasskube](https://github.com/glasskube/glasskube) | 🧊 The next generation Package Manager for Kubernetes 📦 Featuring a GUI and a CLI. Glasskube packages are dependency aware, GitOps ready and can get automatic updates via a central public package repository. | glasskube | 3412 |
 | 3 |  [nvm-windows](https://github.com/coreybutler/nvm-windows) | A node.js version management utility for Windows. Ironically written in Go. | coreybutler | 43039 |
 | 4 |  [nomad](https://github.com/hashicorp/nomad) | Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations. | hashicorp | 15828 |
@@ -233,12 +233,12 @@
 | 4 |  [TrashGuy](https://github.com/TrashGuyAnimations/TrashGuy) | The Original TrashGuy™ Animation! A fun line-based text animation for all your trash disposal needs! Written in Python, this module has full Unicode and emoji support. It can be accessed from the command line directly or used as part of your scripts (i.e., chatbot plugin, loading animations, website widget, etc.) | TrashGuyAnimations | 6 |
 | 5 |  [codex-readme](https://github.com/tom-doerr/codex-readme) | Revolutionize your project documentation with the Codex-README generator, utilizing OpenAI&#39;s Codex for intelligent README creation. | tom-doerr | 405 |
 | 6 |  [eventsourcing](https://github.com/pyeventsourcing/eventsourcing) | A library for event sourcing in Python. | pyeventsourcing | 1592 |
-| 7 |  [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs | public-apis | 367050 |
+| 7 |  [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs | public-apis | 367053 |
 | 8 |  [hopscotch](https://github.com/pauleveritt/hopscotch) | Type-oriented registry with dependency injection. | pauleveritt | 8 |
 | 9 |  [piku](https://github.com/piku/piku) | The tiniest PaaS you&#39;ve ever seen. Piku allows you to do git push deployments to your own servers. | piku | 6451 |
 | 10 |  [lstm_text_generator](https://github.com/Bakuutin/lstm_text_generator) | Neural network powered telegram bot built in 2017 | Bakuutin | 12 |
 | 11 |  [spotify_userbot](https://github.com/meanii/spotify_userbot) | This userbot updates the biography of a telegram user according to their current spotify playback. | meanii | 2 |
-| 12 |  [copier](https://github.com/copier-org/copier) | Library and command-line utility for rendering projects templates. | copier-org | 2847 |
+| 12 |  [copier](https://github.com/copier-org/copier) | Library and command-line utility for rendering projects templates. | copier-org | 2848 |
 | 13 |  [injector](https://github.com/python-injector/injector) | Python dependency injection framework, inspired by Guice | python-injector | 1456 |
 | 14 |  [aop](https://github.com/orsinium-labs/aop) | Aspect oriented programming for Python. Patch everything! | orsinium-labs | 13 |
 | 15 |  [deal](https://github.com/life4/deal) | 🤝 Design by contract for Python. Write bug-free code. Add a few decorators, get static analysis and tests for free. | life4 | 834 |
@@ -281,7 +281,7 @@
 | 52 |  [datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator) | Pydantic model and dataclasses.dataclass generator for easy conversion of JSON, OpenAPI, JSON Schema, and YAML data sources. | koxudaxi | 3496 |
 | 53 |  [pycollection-pipelines](https://github.com/povilasb/pycollection-pipelines) | Collection pipeline pattern implementation in Python | povilasb | 7 |
 | 54 |  [ensure](https://github.com/kislyuk/ensure) | Validate conditions, Python style. | kislyuk | 156 |
-| 55 |  [loguru](https://github.com/Delgan/loguru) | Python logging made (stupidly) simple | Delgan | 22798 |
+| 55 |  [loguru](https://github.com/Delgan/loguru) | Python logging made (stupidly) simple | Delgan | 22799 |
 | 56 |  [pyrogram](https://github.com/pyrogram/pyrogram) | Elegant, modern and asynchronous Telegram MTProto API framework in Python for users and bots | pyrogram | 4567 |
 | 57 |  [dephell](https://github.com/dephell/dephell) | :package: :fire: Python project management. Manage packages: convert between formats, lock, install, resolve, isolate, test, build graph, show outdated, audit. Manage venvs, build package, bump version. | dephell | 1782 |
 | 58 |  [Botkit](https://github.com/autogram/Botkit) | Opinionated, library-agnostic Python framework for rapid development of Telegram bots and userbots with focus on maintainability for large projects. | autogram | 10 |
@@ -297,7 +297,7 @@
 | 68 |  [ultimate-poll-bot](https://github.com/Nukesor/ultimate-poll-bot) | :bulb: The ultimate vote and poll bot for creating, sharing and evaluating polls inside of Telegram | Nukesor | 146 |
 | 69 |  [tgbot](https://github.com/PaulSonOfLars/tgbot) | Modular telegram group management bot | PaulSonOfLars | 751 |
 | 70 |  [orator](https://github.com/sdispater/orator) | The Orator ORM provides a simple yet beautiful ActiveRecord implementation. | sdispater | 1417 |
-| 71 |  [mistune](https://github.com/lepture/mistune) | A fast yet powerful Python Markdown parser with renderers and plugins. | lepture | 2877 |
+| 71 |  [mistune](https://github.com/lepture/mistune) | A fast yet powerful Python Markdown parser with renderers and plugins. | lepture | 2878 |
 | 72 |  [haps](https://github.com/ekiro/haps) | Pure Python dependency injection library | ekiro | 49 |
 | 73 |  [sentry-python](https://github.com/getsentry/sentry-python) | The official Python SDK for Sentry.io | getsentry | 2075 |
 | 74 |  [baron](https://github.com/PyCQA/baron) | IDE allow you to refactor code, Baron allows you to write refactoring code. | PyCQA | 297 |
@@ -326,14 +326,14 @@
 |---	|---	|---	|---	|---	|
 | 1 |  [kit-enigo](https://github.com/johnlindquist/kit-enigo) |  | johnlindquist | 3 |
 | 2 |  [tg-bot-api](https://github.com/ark0f/tg-bot-api) | Telegram Bot API parser and generators | ark0f | 59 |
-| 3 |  [vaultwarden](https://github.com/dani-garcia/vaultwarden) | Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs | dani-garcia | 49417 |
+| 3 |  [vaultwarden](https://github.com/dani-garcia/vaultwarden) | Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs | dani-garcia | 49418 |
 
 **[⬆ Back to Index](#-contents)**
 
 ## Shell
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [dokku](https://github.com/dokku/dokku) | A docker-powered PaaS that helps you build and manage the lifecycle of applications | dokku | 31274 |
+| 1 |  [dokku](https://github.com/dokku/dokku) | A docker-powered PaaS that helps you build and manage the lifecycle of applications | dokku | 31275 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -349,10 +349,10 @@
 |---	|---	|---	|---	|---	|
 | 1 |  [OpenFrontIO](https://github.com/openfrontio/OpenFrontIO) | Online browser-based RTS game | openfrontio | 1193 |
 | 2 |  [remeda](https://github.com/remeda/remeda) | A utility library for JavaScript and TypeScript. | remeda | 5147 |
-| 3 |  [metamcp](https://github.com/metatool-ai/metamcp) | MCP Aggregator, Orchestrator, Middleware, Gateway in one docker | metatool-ai | 1400 |
+| 3 |  [metamcp](https://github.com/metatool-ai/metamcp) | MCP Aggregator, Orchestrator, Middleware, Gateway in one docker | metatool-ai | 1401 |
 | 4 |  [mcp-proxy-server](https://github.com/adamwattis/mcp-proxy-server) | An MCP proxy server that aggregates and serves multiple MCP resource servers through a single interface | adamwattis | 163 |
-| 5 |  [n8n](https://github.com/n8n-io/n8n) | Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. | n8n-io | 143684 |
-| 6 |  [arktype](https://github.com/arktypeio/arktype) | TypeScript&#39;s 1:1 validator, optimized from editor to runtime | arktypeio | 6680 |
+| 5 |  [n8n](https://github.com/n8n-io/n8n) | Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. | n8n-io | 143708 |
+| 6 |  [arktype](https://github.com/arktypeio/arktype) | TypeScript&#39;s 1:1 validator, optimized from editor to runtime | arktypeio | 6681 |
 | 7 |  [empathic](https://github.com/lukeed/empathic) | A set of small Node.js utilities to understand your pathing needs. | lukeed | 326 |
 | 8 |  [dotalias](https://github.com/open-draft/dotalias) | A single configuration for path aliases to reuse across all your tools (TypeScript, Jest, webpack, Rollup, etc.). | open-draft | 93 |
 | 9 |  [strict-event-emitter](https://github.com/open-draft/strict-event-emitter) | Type-safe EventEmitter for browser and Node.js. | open-draft | 65 |
@@ -376,7 +376,7 @@
 | 27 |  [hono](https://github.com/honojs/hono) | Web framework built on Web Standards | honojs | 26493 |
 | 28 |  [next-international](https://github.com/QuiiBz/next-international) | Type-safe internationalization (i18n) for Next.js | QuiiBz | 1439 |
 | 29 |  [fresh](https://github.com/denoland/fresh) | The next-gen web framework. | denoland | 13426 |
-| 30 |  [remult](https://github.com/remult/remult) | Full-stack CRUD, simplified, with SSOT TypeScript entities | remult | 3135 |
+| 30 |  [remult](https://github.com/remult/remult) | Full-stack CRUD, simplified, with SSOT TypeScript entities | remult | 3136 |
 | 31 |  [actionsflow](https://github.com/actionsflow/actionsflow) | The free Zapier/IFTTT alternative for developers to automate your workflows based on Github actions | actionsflow | 3296 |
 | 32 |  [miniflare-typescript-esbuild-jest](https://github.com/cloudflare/miniflare-typescript-esbuild-jest) | Example project using Miniflare, TypeScript, esbuild and Jest | cloudflare | 89 |
 | 33 |  [next-api-decorators](https://github.com/instantcommerce/next-api-decorators) | Collection of decorators to create typed Next.js API routes, with easy request validation and transformation. | instantcommerce | 425 |
@@ -390,7 +390,7 @@
 | 41 |  [porter-archive](https://github.com/porter-dev/porter-archive) | Kubernetes powered PaaS that runs in your own cloud. | porter-dev | 4248 |
 | 42 |  [fork-sync](https://github.com/tgymnich/fork-sync) | 🔄 Github action to sync your forks | tgymnich | 440 |
 | 43 |  [ChannelHashBot](https://github.com/JosXa/ChannelHashBot) |  | JosXa | 1 |
-| 44 |  [vscode](https://github.com/microsoft/vscode) | Visual Studio Code | microsoft | 177127 |
+| 44 |  [vscode](https://github.com/microsoft/vscode) | Visual Studio Code | microsoft | 177129 |
 
 **[⬆ Back to Index](#-contents)**
 
