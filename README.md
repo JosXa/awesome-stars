@@ -80,7 +80,7 @@
 | 26 |  [Tababular](https://github.com/rebus-org/Tababular) | :page_with_curl: Simple monospace text table formatting | rebus-org | 91 |
 | 27 |  [Rebus](https://github.com/rebus-org/Rebus) | :bus: Simple and lean service bus implementation for .NET | rebus-org | 2552 |
 | 28 |  [steal-this-code](https://github.com/appie2go/steal-this-code) | Example implementation of CQRS, Ports &amp; Adapters and Domain Driven Design | appie2go | 88 |
-| 29 |  [tdsharp](https://github.com/egramtel/tdsharp) | C#/.NET Core bindings for TDLib (Telegram MTProto API) | egramtel | 252 |
+| 29 |  [tdsharp](https://github.com/egramtel/tdsharp) | C#/.NET Core bindings for TDLib (Telegram MTProto API) | egramtel | 253 |
 | 30 |  [Telegram.BotAPI](https://github.com/Eptagone/Telegram.BotAPI) | Telegram Bot API NET. One of the most complete libraries available to interact with the Telegram Bot API. | Eptagone | 171 |
 | 31 |  [AppConfiguration-DotnetProvider](https://github.com/Azure/AppConfiguration-DotnetProvider) | The .NET Standard configuration provider for Azure App Configuration | Azure | 90 |
 | 32 |  [GlassTL](https://github.com/GlassTL/GlassTL) | MTProto 2.0 Client in dotnet core | GlassTL | 7 |
@@ -97,7 +97,7 @@
 | 3 |  [tdlight-telegram-bot-api](https://github.com/JosXa/tdlight-telegram-bot-api) | The Telegram Bot API provides an HTTP API for creating Telegram Bots. | JosXa | 1 |
 | 4 |  [telegram-bot-api](https://github.com/tdlib/telegram-bot-api) | Telegram Bot API server | tdlib | 3761 |
 | 5 |  [tdlight-telegram-bot-api](https://github.com/tdlight-team/tdlight-telegram-bot-api) | The TDLight Telegram Bot API is an actively enhanced fork of the original Bot API, featuring experimental user support, proxies, unlimited files size, and more. | tdlight-team | 155 |
-| 6 |  [tdesktop](https://github.com/telegramdesktop/tdesktop) | Telegram Desktop messaging app | telegramdesktop | 28692 |
+| 6 |  [tdesktop](https://github.com/telegramdesktop/tdesktop) | Telegram Desktop messaging app | telegramdesktop | 28693 |
 | 7 |  [krunner-symbols](https://github.com/domschrei/krunner-symbols) | A lightweight KRunner plugin (Plasma 5) to retrieve unicode symbols, or any other string, based on a corresponding keyword. | domschrei | 124 |
 
 **[⬆ Back to Index](#-contents)**
@@ -128,7 +128,7 @@
 ## Go
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [pocketbase](https://github.com/pocketbase/pocketbase) | Open Source realtime backend in 1 file | pocketbase | 51438 |
+| 1 |  [pocketbase](https://github.com/pocketbase/pocketbase) | Open Source realtime backend in 1 file | pocketbase | 51439 |
 | 2 |  [glasskube](https://github.com/glasskube/glasskube) | 🧊 The next generation Package Manager for Kubernetes 📦 Featuring a GUI and a CLI. Glasskube packages are dependency aware, GitOps ready and can get automatic updates via a central public package repository. | glasskube | 3425 |
 | 3 |  [nvm-windows](https://github.com/coreybutler/nvm-windows) | A node.js version management utility for Windows. Ironically written in Go. | coreybutler | 43096 |
 | 4 |  [nomad](https://github.com/hashicorp/nomad) | Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations. | hashicorp | 15837 |
@@ -185,7 +185,7 @@
 ## Kotlin
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [ai-commits-intellij-plugin](https://github.com/Blarc/ai-commits-intellij-plugin) | AI Commits for IntelliJ based IDEs/Android Studio. | Blarc | 682 |
+| 1 |  [ai-commits-intellij-plugin](https://github.com/Blarc/ai-commits-intellij-plugin) | AI Commits for IntelliJ based IDEs/Android Studio. | Blarc | 683 |
 | 2 |  [GitLink](https://github.com/ben-gibson/GitLink) | A Jetbrains plugin that opens a local file under Git version control in its remote host using the default browser. | ben-gibson | 856 |
 
 **[⬆ Back to Index](#-contents)**
@@ -202,7 +202,7 @@
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
 | 1 |  [UserLixo](https://github.com/AmanoTeam/UserLixo) | Userbot for Telegram with many functions. | AmanoTeam | 77 |
-| 2 |  [awesome-developer-experience](https://github.com/workos/awesome-developer-experience) | 🤘 A curated list of DX (Developer Experience) resources | workos | 2225 |
+| 2 |  [awesome-developer-experience](https://github.com/workos/awesome-developer-experience) | 🤘 A curated list of DX (Developer Experience) resources | workos | 2226 |
 | 3 |  [awesome-stars](https://github.com/JosXa/awesome-stars) | A curated list of my GitHub stars by stargazed | JosXa | 9 |
 | 4 |  [AppConfiguration](https://github.com/Azure/AppConfiguration) | Questions, feedback and samples for Azure App Configuration service | Azure | 256 |
 | 5 |  [vscode-remote-try-python](https://github.com/JosXa/vscode-remote-try-python) | Python sample project for trying out the VS Code Remote - Containers extension | JosXa | 1 |
@@ -233,7 +233,7 @@
 | 4 |  [TrashGuy](https://github.com/TrashGuyAnimations/TrashGuy) | The Original TrashGuy™ Animation! A fun line-based text animation for all your trash disposal needs! Written in Python, this module has full Unicode and emoji support. It can be accessed from the command line directly or used as part of your scripts (i.e., chatbot plugin, loading animations, website widget, etc.) | TrashGuyAnimations | 6 |
 | 5 |  [codex-readme](https://github.com/tom-doerr/codex-readme) | Revolutionize your project documentation with the Codex-README generator, utilizing OpenAI&#39;s Codex for intelligent README creation. | tom-doerr | 405 |
 | 6 |  [eventsourcing](https://github.com/pyeventsourcing/eventsourcing) | A library for event sourcing in Python. | pyeventsourcing | 1595 |
-| 7 |  [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs | public-apis | 367692 |
+| 7 |  [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs | public-apis | 367696 |
 | 8 |  [hopscotch](https://github.com/pauleveritt/hopscotch) | Type-oriented registry with dependency injection. | pauleveritt | 8 |
 | 9 |  [piku](https://github.com/piku/piku) | The tiniest PaaS you&#39;ve ever seen. Piku allows you to do git push deployments to your own servers. | piku | 6455 |
 | 10 |  [lstm_text_generator](https://github.com/Bakuutin/lstm_text_generator) | Neural network powered telegram bot built in 2017 | Bakuutin | 12 |
@@ -267,7 +267,7 @@
 | 38 |  [extended_pathlib](https://github.com/KenKundert/extended_pathlib) | Extensions to stdlib pathlib | KenKundert | 2 |
 | 39 |  [odmantic](https://github.com/art049/odmantic) | Sync and Async ODM (Object Document Mapper) for MongoDB based on python type hints | art049 | 1136 |
 | 40 |  [pydantic-odm](https://github.com/i8enn/pydantic-odm) | Small async ODM for MongoDB based in Motor and Pydantic library | i8enn | 39 |
-| 41 |  [returns](https://github.com/dry-python/returns) | Make your functions return something meaningful, typed, and safe! | dry-python | 4090 |
+| 41 |  [returns](https://github.com/dry-python/returns) | Make your functions return something meaningful, typed, and safe! | dry-python | 4091 |
 | 42 |  [pymaybe](https://github.com/ekampf/pymaybe) | A Python implementation of the Maybe pattern | ekampf | 208 |
 | 43 |  [poetry](https://github.com/python-poetry/poetry) | Python packaging and dependency management made easy | python-poetry | 33935 |
 | 44 |  [pipenv](https://github.com/pypa/pipenv) | Python Development Workflow for Humans. | pypa | 25098 |
@@ -275,13 +275,13 @@
 | 46 |  [ticktick-python](https://github.com/glasslion/ticktick-python) |  | glasslion | 33 |
 | 47 |  [tgintegration](https://github.com/JosXa/tgintegration) | Integration test and automation library for Telegram Messenger bots based on Pyrogram. | JosXa | 124 |
 | 48 |  [ptbcontrib](https://github.com/python-telegram-bot/ptbcontrib) | Community-based extensions for the python-telegram-bot library. | python-telegram-bot | 112 |
-| 49 |  [poethepoet](https://github.com/nat-n/poethepoet) | A task runner that works well with poetry or uv. | nat-n | 1841 |
+| 49 |  [poethepoet](https://github.com/nat-n/poethepoet) | A task runner that works well with poetry or uv. | nat-n | 1842 |
 | 50 |  [Motor-ODM](https://github.com/codello/Motor-ODM) | A MongoDB ODM based on Motor and Pydantic. | codello | 17 |
 | 51 |  [python-inject](https://github.com/ivankorobkov/python-inject) | Python dependency injection | ivankorobkov | 742 |
 | 52 |  [datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator) | Pydantic model and dataclasses.dataclass generator for easy conversion of JSON, OpenAPI, JSON Schema, and YAML data sources. | koxudaxi | 3506 |
 | 53 |  [pycollection-pipelines](https://github.com/povilasb/pycollection-pipelines) | Collection pipeline pattern implementation in Python | povilasb | 7 |
 | 54 |  [ensure](https://github.com/kislyuk/ensure) | Validate conditions, Python style. | kislyuk | 156 |
-| 55 |  [loguru](https://github.com/Delgan/loguru) | Python logging made (stupidly) simple | Delgan | 22832 |
+| 55 |  [loguru](https://github.com/Delgan/loguru) | Python logging made (stupidly) simple | Delgan | 22834 |
 | 56 |  [pyrogram](https://github.com/pyrogram/pyrogram) | Elegant, modern and asynchronous Telegram MTProto API framework in Python for users and bots | pyrogram | 4565 |
 | 57 |  [dephell](https://github.com/dephell/dephell) | :package: :fire: Python project management. Manage packages: convert between formats, lock, install, resolve, isolate, test, build graph, show outdated, audit. Manage venvs, build package, bump version. | dephell | 1783 |
 | 58 |  [Botkit](https://github.com/autogram/Botkit) | Opinionated, library-agnostic Python framework for rapid development of Telegram bots and userbots with focus on maintainability for large projects. | autogram | 10 |
@@ -297,7 +297,7 @@
 | 68 |  [ultimate-poll-bot](https://github.com/Nukesor/ultimate-poll-bot) | :bulb: The ultimate vote and poll bot for creating, sharing and evaluating polls inside of Telegram | Nukesor | 146 |
 | 69 |  [tgbot](https://github.com/PaulSonOfLars/tgbot) | Modular telegram group management bot | PaulSonOfLars | 751 |
 | 70 |  [orator](https://github.com/sdispater/orator) | The Orator ORM provides a simple yet beautiful ActiveRecord implementation. | sdispater | 1416 |
-| 71 |  [mistune](https://github.com/lepture/mistune) | A fast yet powerful Python Markdown parser with renderers and plugins. | lepture | 2876 |
+| 71 |  [mistune](https://github.com/lepture/mistune) | A fast yet powerful Python Markdown parser with renderers and plugins. | lepture | 2877 |
 | 72 |  [haps](https://github.com/ekiro/haps) | Pure Python dependency injection library | ekiro | 49 |
 | 73 |  [sentry-python](https://github.com/getsentry/sentry-python) | The official Python SDK for Sentry.io | getsentry | 2077 |
 | 74 |  [baron](https://github.com/PyCQA/baron) | IDE allow you to refactor code, Baron allows you to write refactoring code. | PyCQA | 297 |
@@ -308,14 +308,14 @@
 | 79 |  [BotListBot](https://github.com/JosXa/BotListBot) | Repository of Telegram&#39;s BotListBot | JosXa | 58 |
 | 80 |  [make-stub-files](https://github.com/edreamleo/make-stub-files) | Script and config file that creates python stub (.pyi) files | edreamleo | 32 |
 | 81 |  [logzero](https://github.com/metachris/logzero) | Robust and effective logging for Python 2 and 3. | metachris | 1023 |
-| 82 |  [Telethon](https://github.com/LonamiWebs/Telethon) | Pure Python 3 MTProto API Telegram client library, for bots too! | LonamiWebs | 11388 |
+| 82 |  [Telethon](https://github.com/LonamiWebs/Telethon) | Pure Python 3 MTProto API Telegram client library, for bots too! | LonamiWebs | 11389 |
 | 83 |  [fbmq](https://github.com/conbus/fbmq) | (Deprecated) Facebook Messenger Platform Python Library (Facebook Chatbot Library) | conbus | 169 |
 | 84 |  [coconut](https://github.com/evhub/coconut) | Simple, elegant, Pythonic functional programming. | evhub | 4264 |
 | 85 |  [sudobot](https://github.com/bvanrijn/sudobot) | run commands on your server via a Telegram bot | bvanrijn | 46 |
 | 86 |  [mogo](https://github.com/joshmarshall/mogo) | A MongoDB object wrapper around PyMongo (for Python) | joshmarshall | 93 |
 | 87 |  [teleGit](https://github.com/k13w/teleGit) | Telegram Bot in Python | k13w | 22 |
 | 88 |  [python-telegram-handler](https://github.com/sashgorokhov/python-telegram-handler) | A python logging handler that sends logs via Telegram Bot Api. | sashgorokhov | 91 |
-| 89 |  [python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot) | We have made you a wrapper you can&#39;t refuse | python-telegram-bot | 28241 |
+| 89 |  [python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot) | We have made you a wrapper you can&#39;t refuse | python-telegram-bot | 28243 |
 | 90 |  [pymessenger](https://github.com/davidchua/pymessenger) | A Python Wrapper for the FB Messenger Bot API (Send/Receive API) | davidchua | 461 |
 | 91 |  [wundervim](https://github.com/khadiwala/wundervim) | Wunderlist plugin for vim | khadiwala | 4 |
 
@@ -326,7 +326,7 @@
 |---	|---	|---	|---	|---	|
 | 1 |  [kit-enigo](https://github.com/johnlindquist/kit-enigo) |  | johnlindquist | 3 |
 | 2 |  [tg-bot-api](https://github.com/ark0f/tg-bot-api) | Telegram Bot API parser and generators | ark0f | 59 |
-| 3 |  [vaultwarden](https://github.com/dani-garcia/vaultwarden) | Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs | dani-garcia | 49578 |
+| 3 |  [vaultwarden](https://github.com/dani-garcia/vaultwarden) | Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs | dani-garcia | 49579 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -351,7 +351,7 @@
 | 2 |  [remeda](https://github.com/remeda/remeda) | A utility library for JavaScript and TypeScript. | remeda | 5150 |
 | 3 |  [metamcp](https://github.com/metatool-ai/metamcp) | MCP Aggregator, Orchestrator, Middleware, Gateway in one docker | metatool-ai | 1433 |
 | 4 |  [mcp-proxy-server](https://github.com/adamwattis/mcp-proxy-server) | An MCP proxy server that aggregates and serves multiple MCP resource servers through a single interface | adamwattis | 166 |
-| 5 |  [n8n](https://github.com/n8n-io/n8n) | Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. | n8n-io | 146231 |
+| 5 |  [n8n](https://github.com/n8n-io/n8n) | Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. | n8n-io | 146241 |
 | 6 |  [arktype](https://github.com/arktypeio/arktype) | TypeScript&#39;s 1:1 validator, optimized from editor to runtime | arktypeio | 6691 |
 | 7 |  [empathic](https://github.com/lukeed/empathic) | A set of small Node.js utilities to understand your pathing needs. | lukeed | 326 |
 | 8 |  [dotalias](https://github.com/open-draft/dotalias) | A single configuration for path aliases to reuse across all your tools (TypeScript, Jest, webpack, Rollup, etc.). | open-draft | 93 |
@@ -373,7 +373,7 @@
 | 24 |  [signals](https://github.com/preactjs/signals) | Manage state with style in every framework | preactjs | 4241 |
 | 25 |  [use-callback-ref](https://github.com/theKashey/use-callback-ref) | 🤙The same useRef, but it will callback | theKashey | 309 |
 | 26 |  [novu](https://github.com/novuhq/novu) | The open-source notification Inbox infrastructure. E-mail, SMS, Push and Slack Integrations. | novuhq | 37947 |
-| 27 |  [hono](https://github.com/honojs/hono) | Web framework built on Web Standards | honojs | 26556 |
+| 27 |  [hono](https://github.com/honojs/hono) | Web framework built on Web Standards | honojs | 26558 |
 | 28 |  [next-international](https://github.com/QuiiBz/next-international) | Type-safe internationalization (i18n) for Next.js | QuiiBz | 1441 |
 | 29 |  [fresh](https://github.com/denoland/fresh) | The next-gen web framework. | denoland | 13442 |
 | 30 |  [remult](https://github.com/remult/remult) | Full-stack CRUD, simplified, with SSOT TypeScript entities | remult | 3138 |
@@ -390,7 +390,7 @@
 | 41 |  [porter-archive](https://github.com/porter-dev/porter-archive) | Kubernetes powered PaaS that runs in your own cloud. | porter-dev | 4247 |
 | 42 |  [fork-sync](https://github.com/tgymnich/fork-sync) | 🔄 Github action to sync your forks | tgymnich | 440 |
 | 43 |  [ChannelHashBot](https://github.com/JosXa/ChannelHashBot) |  | JosXa | 1 |
-| 44 |  [vscode](https://github.com/microsoft/vscode) | Visual Studio Code | microsoft | 177315 |
+| 44 |  [vscode](https://github.com/microsoft/vscode) | Visual Studio Code | microsoft | 177318 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -404,14 +404,14 @@
 ## VBScript
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [pyenv-win](https://github.com/pyenv-win/pyenv-win) | pyenv for Windows. pyenv is a simple python version management tool. It lets you easily switch between multiple versions of Python. It&#39;s simple, unobtrusive, and follows the UNIX tradition of single-purpose tools that do one thing well. | pyenv-win | 6569 |
+| 1 |  [pyenv-win](https://github.com/pyenv-win/pyenv-win) | pyenv for Windows. pyenv is a simple python version management tool. It lets you easily switch between multiple versions of Python. It&#39;s simple, unobtrusive, and follows the UNIX tradition of single-purpose tools that do one thing well. | pyenv-win | 6570 |
 
 **[⬆ Back to Index](#-contents)**
 
 ## Zig
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [bun](https://github.com/oven-sh/bun) | Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one | oven-sh | 80738 |
+| 1 |  [bun](https://github.com/oven-sh/bun) | Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one | oven-sh | 80741 |
 
 **[⬆ Back to Index](#-contents)**
 
