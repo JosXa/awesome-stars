@@ -424,3 +424,11 @@
 
 To the extent possible under law, [josxa](https://github.com/josxa) has waived all copyright and related or neighboring rights to this work.
 
+
+#### AI Agent Marketplace Index And Router | [API Doc](https://www.deepnlp.org/doc/ai_agent_marketplace)
+[![AI Agent Marketplace and Router Badge](https://www.deepnlp.org/api/ai_agent_marketplace/svg?name=JosXa/awesome-stars&badge_type=review)](https://www.deepnlp.org/store/ai-agent/ai-agent/pub-JosXa/awesome-stars)
+
+```
+curl 'https://www.deepnlp.org/api/ai_agent_marketplace/v2?id=JosXa/awesome-stars'
+```
+    
