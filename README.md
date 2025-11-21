@@ -63,7 +63,7 @@
 | 9 |  [Sprache](https://github.com/sprache/Sprache) | A tiny, friendly, C# parser construction library | sprache | 2464 |
 | 10 |  [MediatRedux](https://github.com/sstorie/MediatRedux) | An implementation of the Redux pattern in .NET using MediatR to provide strongly typed reducers | sstorie | 19 |
 | 11 |  [MediatR](https://github.com/LuckyPennySoftware/MediatR) | Simple, unambitious mediator implementation in .NET | LuckyPennySoftware | 11807 |
-| 12 |  [nuke](https://github.com/nuke-build/nuke) | 🏗 The AKEless Build System for C#/.NET | nuke-build | 3512 |
+| 12 |  [nuke](https://github.com/nuke-build/nuke) | 🏗 The AKEless Build System for C#/.NET | nuke-build | 3513 |
 | 13 |  [Netjs](https://github.com/praeclarum/Netjs) | Compile .NET assemblies to TypeScript and JavaScript | praeclarum | 970 |
 | 14 |  [Ensure.That](https://github.com/danielwertheim/Ensure.That) | Guard clause project for .NET | danielwertheim | 444 |
 | 15 |  [rxns](https://github.com/captainjono/rxns) | Fullstack micro-actor-services for Rx | captainjono | 14 |
@@ -92,7 +92,7 @@
 ## C++
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [gpt4all](https://github.com/nomic-ai/gpt4all) | GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use. | nomic-ai | 76929 |
+| 1 |  [gpt4all](https://github.com/nomic-ai/gpt4all) | GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use. | nomic-ai | 76930 |
 | 2 |  [workerd](https://github.com/cloudflare/workerd) | The JavaScript / Wasm runtime that powers Cloudflare Workers | cloudflare | 7247 |
 | 3 |  [tdlight-telegram-bot-api](https://github.com/JosXa/tdlight-telegram-bot-api) | The Telegram Bot API provides an HTTP API for creating Telegram Bots. | JosXa | 1 |
 | 4 |  [telegram-bot-api](https://github.com/tdlib/telegram-bot-api) | Telegram Bot API server | tdlib | 3865 |
@@ -129,8 +129,8 @@
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
 | 1 |  [mcpproxy-go](https://github.com/smart-mcp-proxy/mcpproxy-go) | Supercharge AI Agents, Safely | smart-mcp-proxy | 67 |
-| 2 |  [crush](https://github.com/charmbracelet/crush) | The glamourous AI coding agent for your favourite terminal 💘 | charmbracelet | 15163 |
-| 3 |  [pocketbase](https://github.com/pocketbase/pocketbase) | Open Source realtime backend in 1 file | pocketbase | 52851 |
+| 2 |  [crush](https://github.com/charmbracelet/crush) | The glamourous AI coding agent for your favourite terminal 💘 | charmbracelet | 15167 |
+| 3 |  [pocketbase](https://github.com/pocketbase/pocketbase) | Open Source realtime backend in 1 file | pocketbase | 52853 |
 | 4 |  [glasskube](https://github.com/glasskube/glasskube) | 🧊 The next generation Package Manager for Kubernetes 📦 Featuring a GUI and a CLI. Glasskube packages are dependency aware, GitOps ready and can get automatic updates via a central public package repository. | glasskube | 3439 |
 | 5 |  [nvm-windows](https://github.com/coreybutler/nvm-windows) | A node.js version management utility for Windows. Ironically written in Go. | coreybutler | 43726 |
 | 6 |  [nomad](https://github.com/hashicorp/nomad) | Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations. | hashicorp | 15981 |
@@ -167,21 +167,21 @@
 ## JavaScript
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [open-webui](https://github.com/open-webui/open-webui) | User-friendly AI Interface (Supports Ollama, OpenAI API, ...) | open-webui | 115811 |
+| 1 |  [open-webui](https://github.com/open-webui/open-webui) | User-friendly AI Interface (Supports Ollama, OpenAI API, ...) | open-webui | 115813 |
 | 2 |  [winston](https://github.com/winstonjs/winston) | A logger for just about everything. | winstonjs | 24180 |
 | 3 |  [combine-errors](https://github.com/matthewmueller/combine-errors) | Simple way to combine multiple errors into one. | matthewmueller | 31 |
-| 4 |  [p-map](https://github.com/sindresorhus/p-map) | Map over promises concurrently | sindresorhus | 1467 |
+| 4 |  [p-map](https://github.com/sindresorhus/p-map) | Map over promises concurrently | sindresorhus | 1468 |
 | 5 |  [ice-box](https://github.com/hackergrrl/ice-box) | :snowflake: Create immutable directory pipelines. | hackergrrl | 55 |
 | 6 |  [Parsr](https://github.com/axa-group/Parsr) | Transforms PDF, Documents and Images into Enriched Structured Data | axa-group | 6029 |
 | 7 |  [linq](https://github.com/mihaifm/linq) | linq.js - LINQ for JavaScript | mihaifm | 1728 |
 | 8 |  [ohm](https://github.com/ohmjs/ohm) | A library and language for building parsers, interpreters, compilers, etc. | ohmjs | 5396 |
 | 9 |  [react-grid-layout](https://github.com/react-grid-layout/react-grid-layout) | A draggable and resizable grid layout with responsive breakpoints, for React. | react-grid-layout | 21703 |
-| 10 |  [omni](https://github.com/alyssaxuu/omni) | The all-in-one tool to supercharge your productivity ⌨️ | alyssaxuu | 7657 |
+| 10 |  [omni](https://github.com/alyssaxuu/omni) | The all-in-one tool to supercharge your productivity ⌨️ | alyssaxuu | 7658 |
 | 11 |  [license-checker-rseidelsohn](https://github.com/RSeidelsohn/license-checker-rseidelsohn) | Extract NPM package licenses. Enhanced and updated fork of Dav Glass&#39; original (but abandoned) license-checker. | RSeidelsohn | 181 |
 | 12 |  [active-forks](https://github.com/techgaun/active-forks) | Find active github forks of a repo https://git.io/vSnrC | techgaun | 2376 |
 | 13 |  [composerize](https://github.com/composerize/composerize) | 🏃→🎼  docker run asdlksjfksdf &amp;gt; docker-composerize up | composerize | 3634 |
 | 14 |  [quote-bot](https://github.com/LyoSU/quote-bot) | Telegram quote bot | LyoSU | 374 |
-| 15 |  [node-telegram-bot-api](https://github.com/yagop/node-telegram-bot-api) | Telegram Bot API for NodeJS | yagop | 9054 |
+| 15 |  [node-telegram-bot-api](https://github.com/yagop/node-telegram-bot-api) | Telegram Bot API for NodeJS | yagop | 9055 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -237,7 +237,7 @@
 | 4 |  [TrashGuy](https://github.com/TrashGuyAnimations/TrashGuy) | The Original TrashGuy™ Animation! A fun line-based text animation for all your trash disposal needs! Written in Python, this module has full Unicode and emoji support. It can be accessed from the command line directly or used as part of your scripts (i.e., chatbot plugin, loading animations, website widget, etc.) | TrashGuyAnimations | 6 |
 | 5 |  [codex-readme](https://github.com/tom-doerr/codex-readme) | Revolutionize your project documentation with the Codex-README generator, utilizing OpenAI&#39;s Codex for intelligent README creation. | tom-doerr | 405 |
 | 6 |  [eventsourcing](https://github.com/pyeventsourcing/eventsourcing) | A library for event sourcing in Python. | pyeventsourcing | 1612 |
-| 7 |  [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs | public-apis | 379801 |
+| 7 |  [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs | public-apis | 379804 |
 | 8 |  [hopscotch](https://github.com/pauleveritt/hopscotch) | Type-oriented registry with dependency injection. | pauleveritt | 8 |
 | 9 |  [piku](https://github.com/piku/piku) | The tiniest PaaS you&#39;ve ever seen. Piku allows you to do git push deployments to your own servers. | piku | 6508 |
 | 10 |  [lstm_text_generator](https://github.com/Bakuutin/lstm_text_generator) | Neural network powered telegram bot built in 2017 | Bakuutin | 12 |
@@ -285,7 +285,7 @@
 | 52 |  [datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator) | Pydantic model and dataclasses.dataclass generator for easy conversion of JSON, OpenAPI, JSON Schema, and YAML data sources. | koxudaxi | 3589 |
 | 53 |  [pycollection-pipelines](https://github.com/povilasb/pycollection-pipelines) | Collection pipeline pattern implementation in Python | povilasb | 7 |
 | 54 |  [ensure](https://github.com/kislyuk/ensure) | Validate conditions, Python style. | kislyuk | 156 |
-| 55 |  [loguru](https://github.com/Delgan/loguru) | Python logging made (stupidly) simple | Delgan | 23121 |
+| 55 |  [loguru](https://github.com/Delgan/loguru) | Python logging made (stupidly) simple | Delgan | 23122 |
 | 56 |  [pyrogram](https://github.com/pyrogram/pyrogram) | Elegant, modern and asynchronous Telegram MTProto API framework in Python for users and bots | pyrogram | 4583 |
 | 57 |  [dephell](https://github.com/dephell/dephell) | :package: :fire: Python project management. Manage packages: convert between formats, lock, install, resolve, isolate, test, build graph, show outdated, audit. Manage venvs, build package, bump version. | dephell | 1782 |
 | 58 |  [Botkit](https://github.com/autogram/Botkit) | Opinionated, library-agnostic Python framework for rapid development of Telegram bots and userbots with focus on maintainability for large projects. | autogram | 10 |
@@ -339,7 +339,7 @@
 ## Shell
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [dokku](https://github.com/dokku/dokku) | A docker-powered PaaS that helps you build and manage the lifecycle of applications | dokku | 31514 |
+| 1 |  [dokku](https://github.com/dokku/dokku) | A docker-powered PaaS that helps you build and manage the lifecycle of applications | dokku | 31515 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -354,12 +354,12 @@
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
 | 1 |  [react-serve](https://github.com/akinloluwami/react-serve) | The missing backend framework for React. | akinloluwami | 226 |
-| 2 |  [opencode](https://github.com/sst/opencode) | The AI coding agent built for the terminal. | sst | 33484 |
+| 2 |  [opencode](https://github.com/sst/opencode) | The AI coding agent built for the terminal. | sst | 33487 |
 | 3 |  [OpenFrontIO](https://github.com/openfrontio/OpenFrontIO) | Online browser-based RTS game | openfrontio | 1465 |
 | 4 |  [remeda](https://github.com/remeda/remeda) | A utility library for JavaScript and TypeScript. | remeda | 5187 |
-| 5 |  [metamcp](https://github.com/metatool-ai/metamcp) | MCP Aggregator, Orchestrator, Middleware, Gateway in one docker | metatool-ai | 1671 |
+| 5 |  [metamcp](https://github.com/metatool-ai/metamcp) | MCP Aggregator, Orchestrator, Middleware, Gateway in one docker | metatool-ai | 1672 |
 | 6 |  [mcp-proxy-server](https://github.com/adamwattis/mcp-proxy-server) | An MCP proxy server that aggregates and serves multiple MCP resource servers through a single interface | adamwattis | 184 |
-| 7 |  [n8n](https://github.com/n8n-io/n8n) | Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. | n8n-io | 157660 |
+| 7 |  [n8n](https://github.com/n8n-io/n8n) | Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. | n8n-io | 157663 |
 | 8 |  [arktype](https://github.com/arktypeio/arktype) | TypeScript&#39;s 1:1 validator, optimized from editor to runtime | arktypeio | 7271 |
 | 9 |  [empathic](https://github.com/lukeed/empathic) | A set of small Node.js utilities to understand your pathing needs. | lukeed | 330 |
 | 10 |  [dotalias](https://github.com/open-draft/dotalias) | A single configuration for path aliases to reuse across all your tools (TypeScript, Jest, webpack, Rollup, etc.). | open-draft | 93 |
@@ -398,7 +398,7 @@
 | 43 |  [porter-archive](https://github.com/porter-dev/porter-archive) | Kubernetes powered PaaS that runs in your own cloud. | porter-dev | 4251 |
 | 44 |  [fork-sync](https://github.com/tgymnich/fork-sync) | 🔄 Github action to sync your forks | tgymnich | 444 |
 | 45 |  [ChannelHashBot](https://github.com/JosXa/ChannelHashBot) |  | JosXa | 1 |
-| 46 |  [vscode](https://github.com/microsoft/vscode) | Visual Studio Code | microsoft | 178781 |
+| 46 |  [vscode](https://github.com/microsoft/vscode) | Visual Studio Code | microsoft | 178782 |
 
 **[⬆ Back to Index](#-contents)**
 
