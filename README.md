@@ -77,7 +77,7 @@
 | 22 |  [CppSharp](https://github.com/mono/CppSharp) | Tools and libraries to glue C/C++ APIs to high-level languages | mono | 3390 |
 | 23 |  [ravendb](https://github.com/ravendb/ravendb) | ACID Document Database | ravendb | 3963 |
 | 24 |  [Tababular](https://github.com/rebus-org/Tababular) | :page_with_curl: Simple monospace text table formatting | rebus-org | 95 |
-| 25 |  [Rebus](https://github.com/rebus-org/Rebus) | :bus: Simple and lean service bus implementation for .NET | rebus-org | 2639 |
+| 25 |  [Rebus](https://github.com/rebus-org/Rebus) | :bus: Simple and lean service bus implementation for .NET | rebus-org | 2640 |
 | 26 |  [steal-this-code](https://github.com/appie2go/steal-this-code) | Example implementation of CQRS, Ports &amp; Adapters and Domain Driven Design | appie2go | 88 |
 | 27 |  [tdsharp](https://github.com/egramtel/tdsharp) | C#/.NET Core bindings for TDLib (Telegram MTProto API) | egramtel | 257 |
 | 28 |  [Telegram.BotAPI](https://github.com/Eptagone/Telegram.BotAPI) | Telegram Bot API NET. One of the most complete libraries available to interact with the Telegram Bot API. | Eptagone | 181 |
@@ -96,7 +96,7 @@
 | 3 |  [tdlight-telegram-bot-api](https://github.com/JosXa/tdlight-telegram-bot-api) | The Telegram Bot API provides an HTTP API for creating Telegram Bots. | JosXa | 1 |
 | 4 |  [telegram-bot-api](https://github.com/tdlib/telegram-bot-api) | Telegram Bot API server | tdlib | 4296 |
 | 5 |  [tdlight-telegram-bot-api](https://github.com/tdlight-team/tdlight-telegram-bot-api) | The TDLight Telegram Bot API is an actively enhanced fork of the original Bot API, featuring experimental user support, proxies, unlimited files size, and more. | tdlight-team | 164 |
-| 6 |  [tdesktop](https://github.com/telegramdesktop/tdesktop) | Telegram Desktop messaging app | telegramdesktop | 32157 |
+| 6 |  [tdesktop](https://github.com/telegramdesktop/tdesktop) | Telegram Desktop messaging app | telegramdesktop | 32159 |
 | 7 |  [krunner-symbols](https://github.com/domschrei/krunner-symbols) | A lightweight KRunner plugin (Plasma 5) to retrieve unicode symbols, or any other string, based on a corresponding keyword. | domschrei | 128 |
 
 **[⬆ Back to Index](#-contents)**
@@ -120,7 +120,7 @@
 ## EJS
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [reference](https://github.com/Fechin/reference) | ⭕ Share quick reference cheat sheet for developers. | Fechin | 10615 |
+| 1 |  [reference](https://github.com/Fechin/reference) | ⭕ Share quick reference cheat sheet for developers. | Fechin | 10616 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -128,11 +128,11 @@
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
 | 1 |  [mcpproxy-go](https://github.com/smart-mcp-proxy/mcpproxy-go) | Supercharge AI Agents, Safely | smart-mcp-proxy | 266 |
-| 2 |  [crush](https://github.com/charmbracelet/crush) | Glamourous agentic coding for all 💘 | charmbracelet | 25600 |
-| 3 |  [pocketbase](https://github.com/pocketbase/pocketbase) | Open Source realtime backend in 1 file | pocketbase | 59235 |
-| 4 |  [glasskube](https://github.com/glasskube/glasskube) | 🧊 The next generation Package Manager for Kubernetes 📦 Featuring a GUI and a CLI. Glasskube packages are dependency aware, GitOps ready and can get automatic updates via a central public package repository. | glasskube | 3494 |
-| 5 |  [nvm-windows](https://github.com/coreybutler/nvm-windows) | A node.js version management utility for Windows. Ironically written in Go. | coreybutler | 46861 |
-| 6 |  [nomad](https://github.com/hashicorp/nomad) | Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations. | hashicorp | 16634 |
+| 2 |  [crush](https://github.com/charmbracelet/crush) | Glamourous agentic coding for all 💘 | charmbracelet | 25604 |
+| 3 |  [pocketbase](https://github.com/pocketbase/pocketbase) | Open Source realtime backend in 1 file | pocketbase | 59237 |
+| 4 |  [glasskube](https://github.com/glasskube/glasskube) | 🧊 The next generation Package Manager for Kubernetes 📦 Featuring a GUI and a CLI. Glasskube packages are dependency aware, GitOps ready and can get automatic updates via a central public package repository. | glasskube | 3495 |
+| 5 |  [nvm-windows](https://github.com/coreybutler/nvm-windows) | A node.js version management utility for Windows. Ironically written in Go. | coreybutler | 46860 |
+| 6 |  [nomad](https://github.com/hashicorp/nomad) | Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations. | hashicorp | 16636 |
 | 7 |  [gpwm](https://github.com/dasdipanjan04/gpwm) | A go based open source password manager | dasdipanjan04 | 2 |
 | 8 |  [flynn](https://github.com/flynn/flynn) | [UNMAINTAINED] A next generation open source platform as a service (PaaS) | flynn | 7850 |
 
@@ -166,8 +166,8 @@
 ## JavaScript
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [codex-desktop-linux](https://github.com/ilysenko/codex-desktop-linux) | Run OpenAI Codex Desktop on Linux - automated installer | ilysenko | 1779 |
-| 2 |  [awesome-opencode](https://github.com/awesome-opencode/awesome-opencode) | A curated list of awesome plugins, themes, agents, projects, and resources for https://opencode.ai | awesome-opencode | 8237 |
+| 1 |  [codex-desktop-linux](https://github.com/ilysenko/codex-desktop-linux) | Run OpenAI Codex Desktop on Linux - automated installer | ilysenko | 1781 |
+| 2 |  [awesome-opencode](https://github.com/awesome-opencode/awesome-opencode) | A curated list of awesome plugins, themes, agents, projects, and resources for https://opencode.ai | awesome-opencode | 8241 |
 | 3 |  [winston](https://github.com/winstonjs/winston) | A logger for just about everything. | winstonjs | 24477 |
 | 4 |  [combine-errors](https://github.com/matthewmueller/combine-errors) | Simple way to combine multiple errors into one. | matthewmueller | 32 |
 | 5 |  [p-map](https://github.com/sindresorhus/p-map) | Map over promises concurrently | sindresorhus | 1499 |
@@ -229,17 +229,17 @@
 ## Python
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [fish-speech](https://github.com/fishaudio/fish-speech) | SOTA Open Source TTS | fishaudio | 30901 |
+| 1 |  [fish-speech](https://github.com/fishaudio/fish-speech) | SOTA Open Source TTS | fishaudio | 30903 |
 | 2 |  [Opencode-Workflows](https://github.com/IgorWarzocha/Opencode-Workflows) | An ever evolving repository of Opencode workflow examples that might enhance your experience with it. I only left the stuff that actually works. YMMV. | IgorWarzocha | 125 |
-| 3 |  [copyparty](https://github.com/9001/copyparty) | Portable file server with accelerated resumable uploads, dedup, WebDAV, SFTP, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file | 9001 | 45314 |
-| 4 |  [open-webui](https://github.com/open-webui/open-webui) | User-friendly AI Interface (Supports Ollama, OpenAI API, ...) | open-webui | 142651 |
+| 3 |  [copyparty](https://github.com/9001/copyparty) | Portable file server with accelerated resumable uploads, dedup, WebDAV, SFTP, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file | 9001 | 45317 |
+| 4 |  [open-webui](https://github.com/open-webui/open-webui) | User-friendly AI Interface (Supports Ollama, OpenAI API, ...) | open-webui | 142665 |
 | 5 |  [mcp-everything-search](https://github.com/mamertofabian/mcp-everything-search) |  | mamertofabian | 338 |
 | 6 |  [omniparse](https://github.com/adithya-s-k/omniparse) | Ingest, parse, and optimize any data format ➡️ from documents to multimedia ➡️ for enhanced compatibility with GenAI frameworks | adithya-s-k | 7618 |
 | 7 |  [littletable](https://github.com/ptmcg/littletable) | An in-memory database of Python objects, searchable using quasi-SQL API | ptmcg | 181 |
 | 8 |  [TrashGuy](https://github.com/TrashGuyAnimations/TrashGuy) | The Original TrashGuy™ Animation! A fun line-based text animation for all your trash disposal needs! Written in Python, this module has full Unicode and emoji support. It can be accessed from the command line directly or used as part of your scripts (i.e., chatbot plugin, loading animations, website widget, etc.) | TrashGuyAnimations | 6 |
 | 9 |  [codex-readme](https://github.com/tom-doerr/codex-readme) | Revolutionize your project documentation with the Codex-README generator, utilizing OpenAI&#39;s Codex for intelligent README creation. | tom-doerr | 401 |
 | 10 |  [eventsourcing](https://github.com/pyeventsourcing/eventsourcing) | A library for event sourcing in Python. | pyeventsourcing | 1671 |
-| 11 |  [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs | public-apis | 443578 |
+| 11 |  [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs | public-apis | 443588 |
 | 12 |  [hopscotch](https://github.com/pauleveritt/hopscotch) | Type-oriented registry with dependency injection. | pauleveritt | 8 |
 | 13 |  [piku](https://github.com/piku/piku) | The tiniest PaaS you&#39;ve ever seen. Piku allows you to do git push deployments to your own servers. | piku | 6591 |
 | 14 |  [lstm_text_generator](https://github.com/Bakuutin/lstm_text_generator) | Neural network powered telegram bot built in 2017 | Bakuutin | 12 |
@@ -288,7 +288,7 @@
 | 57 |  [pycollection-pipelines](https://github.com/povilasb/pycollection-pipelines) | Collection pipeline pattern implementation in Python | povilasb | 7 |
 | 58 |  [ensure](https://github.com/kislyuk/ensure) | Validate conditions, Python style. | kislyuk | 157 |
 | 59 |  [loguru](https://github.com/Delgan/loguru) | Python logging made (stupidly) simple | Delgan | 23973 |
-| 60 |  [pyrogram](https://github.com/pyrogram/pyrogram) | Elegant, modern and asynchronous Telegram MTProto API framework in Python for users and bots | pyrogram | 4615 |
+| 60 |  [pyrogram](https://github.com/pyrogram/pyrogram) | Elegant, modern and asynchronous Telegram MTProto API framework in Python for users and bots | pyrogram | 4616 |
 | 61 |  [dephell](https://github.com/dephell/dephell) | :package: :fire: Python project management. Manage packages: convert between formats, lock, install, resolve, isolate, test, build graph, show outdated, audit. Manage venvs, build package, bump version. | dephell | 1790 |
 | 62 |  [Botkit](https://github.com/autogram/Botkit) | Opinionated, library-agnostic Python framework for rapid development of Telegram bots and userbots with focus on maintainability for large projects. | autogram | 9 |
 | 63 |  [nameof](https://github.com/alexmojaki/nameof) | Python function to get the name of a variable or attribute, as in C# | alexmojaki | 18 |
@@ -337,16 +337,16 @@
 ## Rust
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [tokscale](https://github.com/junhoyeo/tokscale) | 🛰️ A CLI tool for tracking token usage from OpenCode, Claude Code, 🦞OpenClaw (Clawdbot/Moltbot), Pi, Codex, Gemini, Cursor, AmpCode, Factory Droid, Kimi, and more! • 🏅Global Leaderboard + 2D/3D Contributions Graph | junhoyeo | 3905 |
+| 1 |  [tokscale](https://github.com/junhoyeo/tokscale) | 🛰️ A CLI tool for tracking token usage from OpenCode, Claude Code, 🦞OpenClaw (Clawdbot/Moltbot), Pi, Codex, Gemini, Cursor, AmpCode, Factory Droid, Kimi, and more! • 🏅Global Leaderboard + 2D/3D Contributions Graph | junhoyeo | 3909 |
 | 2 |  [atomic](https://github.com/kenforthewin/atomic) | Self-hosted, semantically-connected personal knowledge base | kenforthewin | 1559 |
-| 3 |  [worktrunk](https://github.com/max-sixty/worktrunk) | Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows | max-sixty | 5548 |
+| 3 |  [worktrunk](https://github.com/max-sixty/worktrunk) | Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows | max-sixty | 5551 |
 | 4 |  [script-kit-next](https://github.com/johnlindquist/script-kit-next) | Script Kit rewritten in Rust using GPUI (Zed&#39;s UI framework) | johnlindquist | 27 |
 | 5 |  [sierradb](https://github.com/sierra-db/sierradb) | SierraDB: The immutable database for events | sierra-db | 326 |
-| 6 |  [goose](https://github.com/aaif-goose/goose) | an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM | aaif-goose | 50051 |
+| 6 |  [goose](https://github.com/aaif-goose/goose) | an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM | aaif-goose | 50052 |
 | 7 |  [kit-enigo](https://github.com/johnlindquist/kit-enigo) |  | johnlindquist | 3 |
-| 8 |  [bun](https://github.com/oven-sh/bun) | Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one | oven-sh | 93380 |
+| 8 |  [bun](https://github.com/oven-sh/bun) | Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one | oven-sh | 93388 |
 | 9 |  [tg-bot-api](https://github.com/ark0f/tg-bot-api) | Telegram Bot API parser and generators | ark0f | 55 |
-| 10 |  [vaultwarden](https://github.com/dani-garcia/vaultwarden) | Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs | dani-garcia | 62737 |
+| 10 |  [vaultwarden](https://github.com/dani-garcia/vaultwarden) | Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs | dani-garcia | 62740 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -370,25 +370,25 @@
 |---	|---	|---	|---	|---	|
 | 1 |  [opencode-recall](https://github.com/JosXa/opencode-recall) |  | JosXa | 1 |
 | 2 |  [opencode-ensemble](https://github.com/hueyexe/opencode-ensemble) | Agent teams for OpenCode. Run multiple agents in parallel with messaging, shared tasks, and coordinated execution. | hueyexe | 144 |
-| 3 |  [pi](https://github.com/earendil-works/pi) | AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI | earendil-works | 64784 |
-| 4 |  [gsd-2](https://github.com/gsd-build/gsd-2) | A powerful meta-prompting, context engineering and spec-driven development system that enables agents to work for long periods of time autonomously without losing track of the big picture | gsd-build | 7743 |
+| 3 |  [pi](https://github.com/earendil-works/pi) | AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI | earendil-works | 64820 |
+| 4 |  [gsd-2](https://github.com/gsd-build/gsd-2) | A powerful meta-prompting, context engineering and spec-driven development system that enables agents to work for long periods of time autonomously without losing track of the big picture | gsd-build | 7742 |
 | 5 |  [decision-guardian](https://github.com/DecispherHQ/decision-guardian) | Shift from passive documentation to active enforcement. | DecispherHQ | 57 |
 | 6 |  [trekker](https://github.com/obsfx/trekker) | Simple opinionated issue tracker for AI Agents | obsfx | 67 |
 | 7 |  [opencode-planning-toolkit](https://github.com/IgorWarzocha/opencode-planning-toolkit) | A set of tools that allow sharing a repo-wide todoliist between sessions. | IgorWarzocha | 120 |
 | 8 |  [opencode-model-announcer](https://github.com/ramarivera/opencode-model-announcer) |  | ramarivera | 29 |
 | 9 |  [gridfinity-layout-tool](https://github.com/andymai/gridfinity-layout-tool) | Web app for planning drawer organization using the Gridfinity modular storage system | andymai | 109 |
 | 10 |  [opencode-snippets](https://github.com/JosXa/opencode-snippets) | Hashtag-based snippet expansion plugin for OpenCode - instant inline text shortcuts | JosXa | 78 |
-| 11 |  [oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) | omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, for your OpenCode | code-yeongyu | 63291 |
+| 11 |  [oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) | omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, for your OpenCode | code-yeongyu | 63300 |
 | 12 |  [zerobyte](https://github.com/nicotsx/zerobyte) | Backup automation for self-hosters. Built on top of restic | nicotsx | 6570 |
 | 13 |  [shuvcode](https://github.com/Latitudes-Dev/shuvcode) | The AI coding agent built for the terminal - an unofficial fork of opencode.ai - sst/opencode | Latitudes-Dev | 104 |
 | 14 |  [oc-web](https://github.com/shuv1337/oc-web) | The original community-built web UI for OpenCode. Real-time session streaming, diff viewing, and workflow management. TanStack Start + React + Bun. | shuv1337 | 72 |
 | 15 |  [react-serve](https://github.com/xt42io/react-serve) | The missing backend framework for React. | xt42io | 250 |
-| 16 |  [opencode](https://github.com/anomalyco/opencode) | The open source coding agent. | anomalyco | 177451 |
+| 16 |  [opencode](https://github.com/anomalyco/opencode) | The open source coding agent. | anomalyco | 177484 |
 | 17 |  [OpenFrontIO](https://github.com/openfrontio/OpenFrontIO) | Online browser-based RTS game | openfrontio | 2303 |
 | 18 |  [remeda](https://github.com/remeda/remeda) | A utility library for JavaScript and TypeScript. | remeda | 5380 |
 | 19 |  [metamcp](https://github.com/metatool-ai/metamcp) | MCP Aggregator, Orchestrator, Middleware, Gateway in one docker | metatool-ai | 2452 |
 | 20 |  [mcp-proxy-server](https://github.com/adamwattis/mcp-proxy-server) | An MCP proxy server that aggregates and serves multiple MCP resource servers through a single interface | adamwattis | 198 |
-| 21 |  [n8n](https://github.com/n8n-io/n8n) | Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. | n8n-io | 193670 |
+| 21 |  [n8n](https://github.com/n8n-io/n8n) | Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. | n8n-io | 193688 |
 | 22 |  [arktype](https://github.com/arktypeio/arktype) | TypeScript&#39;s 1:1 validator, optimized from editor to runtime | arktypeio | 7781 |
 | 23 |  [empathic](https://github.com/lukeed/empathic) | A set of small Node.js utilities to understand your pathing needs. | lukeed | 364 |
 | 24 |  [dotalias](https://github.com/open-draft/dotalias) | A single configuration for path aliases to reuse across all your tools (TypeScript, Jest, webpack, Rollup, etc.). | open-draft | 91 |
@@ -408,8 +408,8 @@
 | 38 |  [catcher](https://github.com/isaacs/catcher) |  | isaacs | 126 |
 | 39 |  [signals](https://github.com/preactjs/signals) | Manage state with style in every framework | preactjs | 4451 |
 | 40 |  [use-callback-ref](https://github.com/theKashey/use-callback-ref) | 🤙The same useRef, but it will callback | theKashey | 309 |
-| 41 |  [novu](https://github.com/novuhq/novu) | The open-source communication infrastructure for agents and products | novuhq | 39185 |
-| 42 |  [hono](https://github.com/honojs/hono) | Web framework built on Web Standards | honojs | 31073 |
+| 41 |  [novu](https://github.com/novuhq/novu) | The open-source communication infrastructure for agents and products | novuhq | 39187 |
+| 42 |  [hono](https://github.com/honojs/hono) | Web framework built on Web Standards | honojs | 31074 |
 | 43 |  [next-international](https://github.com/QuiiBz/next-international) | Type-safe internationalization (i18n) for Next.js | QuiiBz | 1446 |
 | 44 |  [fresh](https://github.com/freshframework/fresh) | The framework so simple, you already know it. | freshframework | 13775 |
 | 45 |  [react-grid-layout](https://github.com/react-grid-layout/react-grid-layout) | A draggable and resizable grid layout with responsive breakpoints, for React. | react-grid-layout | 22325 |
@@ -422,20 +422,20 @@
 | 52 |  [fluentui](https://github.com/microsoft/fluentui) | Fluent UI web represents a collection of utilities, React components, and web components for building web applications. | microsoft | 20062 |
 | 53 |  [license-checker-rseidelsohn](https://github.com/RSeidelsohn/license-checker-rseidelsohn) | Extract NPM package licenses. Enhanced and updated fork of Dav Glass&#39; original (but abandoned) license-checker. | RSeidelsohn | 194 |
 | 54 |  [twin.macro](https://github.com/ben-rogerson/twin.macro) | 🦹‍♂️ Twin blends the magic of Tailwind with the flexibility of css-in-js (emotion, styled-components, solid-styled-components, stitches and goober) at build time. | ben-rogerson | 8030 |
-| 55 |  [code-server](https://github.com/coder/code-server) | VS Code in the browser | coder | 78021 |
-| 56 |  [nocodb](https://github.com/nocodb/nocodb) | 🔥 🔥 🔥 A Free &amp; Self-hostable Airtable Alternative | nocodb | 63531 |
+| 55 |  [code-server](https://github.com/coder/code-server) | VS Code in the browser | coder | 78022 |
+| 56 |  [nocodb](https://github.com/nocodb/nocodb) | 🔥 🔥 🔥 A Free &amp; Self-hostable Airtable Alternative | nocodb | 63532 |
 | 57 |  [WebWindow](https://github.com/SteveSandersonMS/WebWindow) | .NET Core library to open native OS windows containing web UI on Windows, Mac, and Linux. Experimental. | SteveSandersonMS | 1970 |
 | 58 |  [fork-sync](https://github.com/tgymnich/fork-sync) | 🔄 Github action to sync your forks | tgymnich | 464 |
 | 59 |  [ChannelHashBot](https://github.com/JosXa/ChannelHashBot) |  | JosXa | 1 |
-| 60 |  [vscode](https://github.com/microsoft/vscode) | Visual Studio Code | microsoft | 186652 |
-| 61 |  [node-telegram-bot-api](https://github.com/yagop/node-telegram-bot-api) | Telegram Bot API for NodeJS | yagop | 9175 |
+| 60 |  [vscode](https://github.com/microsoft/vscode) | Visual Studio Code | microsoft | 186659 |
+| 61 |  [node-telegram-bot-api](https://github.com/yagop/node-telegram-bot-api) | Telegram Bot API for NodeJS | yagop | 9176 |
 
 **[⬆ Back to Index](#-contents)**
 
 ## TypeSpec
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [autorest](https://github.com/Azure/autorest) | OpenAPI (f.k.a Swagger) Specification code generator. Supports C#, PowerShell, Go, Java, Node.js, TypeScript, Python | Azure | 4798 |
+| 1 |  [autorest](https://github.com/Azure/autorest) | OpenAPI (f.k.a Swagger) Specification code generator. Supports C#, PowerShell, Go, Java, Node.js, TypeScript, Python | Azure | 4799 |
 
 **[⬆ Back to Index](#-contents)**
 
